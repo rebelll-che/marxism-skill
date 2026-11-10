@@ -1,7 +1,7 @@
 [project]
 name = "marxism-skill-tools"
 version = "0.1.0"
-description = "Standalone navigation maintenance for the marxism-sources Skill"
+description = "Standalone navigation maintenance for the marxism-skill Skill"
 requires-python = ">=3.10"
 dependencies = ["PyYAML>=6.0,<7"]
 

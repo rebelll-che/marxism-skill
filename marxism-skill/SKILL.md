@@ -1,5 +1,5 @@
 ---
-name: marxism-sources
+name: marxism-skill
 description: 当用户希望直接依据马克思、恩格斯原著理解马克思主义的概念、论证、思想发展与分歧，核对观点和引文，或从这一思想视角讨论问题时使用。
 ---
 

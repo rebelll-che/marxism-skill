@@ -22,11 +22,11 @@ def write_work(path, title="测试原著", author="原作者", body="# 原著\n\
 
 @pytest.fixture
 def skill(tmp_path):
-    root = tmp_path / "marxism-sources"
+    root = tmp_path / "marxism-skill"
     refs = root / "references"
     refs.mkdir(parents=True)
     (root / "SKILL.md").write_bytes(
-        b"---\nname: marxism-sources\ndescription: Original sources\n---\n"
+        b"---\nname: marxism-skill\ndescription: Original sources\n---\n"
         b"[catalog](references/catalog.md)\n[guide](references/reading-guide.md)\n"
         b"[chapters](references/chapters.md)\n")
     (refs / "reading-guide.md").write_bytes("# 导读\n\n[章节](works/marx/first.md#原始章节)\n".encode())

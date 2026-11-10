@@ -16,7 +16,7 @@ import yaml
 
 
 REPO = Path(__file__).resolve().parents[1]
-DEFAULT_SKILL = REPO / "marxism-sources"
+DEFAULT_SKILL = REPO / "marxism-skill"
 CATALOG_HEADER = "# 原著材料目录"
 FRONTMATTER = re.compile(r"\A---\r?\n(.*?)\r?\n---[ \t]*(?:\r?\n|$)", re.S)
 LINK = re.compile(r"!?\[[^\]\r\n]*\]\(([^)\r\n]+)\)")
