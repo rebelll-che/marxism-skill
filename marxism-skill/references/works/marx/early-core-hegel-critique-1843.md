@@ -36,7 +36,7 @@ checked_on: '2026-11-09'
 <span data-ocr-row="8">第2 卷翻译</span></pre></td></tr></tbody></table></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 5 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p30.png" alt="书 5 页扫描" /></details>
+
 
 ## 正文 · 书 6 页
 
@@ -46,7 +46,7 @@ checked_on: '2026-11-09'
 
 本页为空白页。
 
-<details><summary>原页图：书 6 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p31.png" alt="书 6 页扫描" /></details>
+
 
 ## 正文 · 书 7 页
 
@@ -77,7 +77,7 @@ checked_on: '2026-11-09'
      <span data-ocr-row="20">因此，黑格尔在这里谈到了私法等等对国家的内在依存性，或者</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 7 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p32.png" alt="书 7 页扫描" /></details>
+
 
 ## 正文 · 书 8 页
 
@@ -109,7 +109,7 @@ checked_on: '2026-11-09'
 <span data-ocr-row="26">一性中的一个方面，即进一步发展了统一性内部的异化这个方面；</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 8 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p33.png" alt="书 8 页扫描" /></details>
+
 
 ## 正文 · 书 9 页
 
@@ -144,7 +144,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="27">这一基础上燃起国家之光。国家材料应理解为国家的事务，理解为</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 9 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p34.png" alt="书 9 页扫描" /></details>
+
 
 ## 正文 · 书 10 页
 
@@ -176,7 +176,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">任意等等”，在这里就变成观念的非现实的、另有含义的客观因素。</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 10 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p35.png" alt="书 10 页扫描" /></details>
+
 
 ## 正文 · 书 11 页
 
@@ -208,7 +208,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">它们也被规定为“有限性”，被规定为“现实的观念”所固有的有限性。</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 11 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p36.png" alt="书 11 页扫描" /></details>
+
 
 ## 正文 · 书 12 页
 
@@ -240,7 +240,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">和黑格尔整个哲学的神秘主义之大成。</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 12 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p37.png" alt="书 12 页扫描" /></details>
+
 
 ## 正文 · 书 13 页
 
@@ -277,7 +277,7 @@ checked_on: '2026-11-09'
          <span data-ocr-row="30">和337节。—编者注</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 13 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p38.png" alt="书 13 页扫描" /></details>
+
 
 ## 正文 · 书 14 页
 
@@ -310,7 +310,7 @@ checked_on: '2026-11-09'
      <span data-ocr-row="24">① 并见本卷第 128 页。——编者注</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 14 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p39.png" alt="书 14 页扫描" /></details>
+
 
 ## 正文 · 书 15 页
 
@@ -344,7 +344,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">差别发展的观念。除了主体和谓语的这种颠倒之外，还造成一种假</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 15 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p40.png" alt="书 15 页扫描" /></details>
+
 
 ## 正文 · 书 16 页
 
@@ -381,7 +381,7 @@ checked_on: '2026-11-09'
 <span data-ocr-row="33">同方面取得自己特定的内容。这一</span></pre></td></tr></tbody></table></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 16 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p41.png" alt="书 16 页扫描" /></details>
+
 
 ## 正文 · 书 17 页
 
@@ -416,7 +416,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="31">细地解释了“观念向自已的各种差别的发展”。因此，黑格尔还一点</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 17 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p42.png" alt="书 17 页扫描" /></details>
+
 
 ## 正文 · 书 18 页
 
@@ -448,7 +448,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">的东西成为观念的产物，观念的谓语。他不是从对象中发展自己的</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 18 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p43.png" alt="书 18 页扫描" /></details>
+
 
 ## 正文 · 书 19 页
 
@@ -484,7 +484,7 @@ checked_on: '2026-11-09'
     <span data-ocr-row="27">“国家的目的是普遍利益本身，是在作为特殊利益实体的普遍利益中保存</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 19 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p44.png" alt="书 19 页扫描" /></details>
+
 
 ## 正文 · 书 20 页
 
@@ -520,7 +520,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="25">国家，接下来我就必须根据“具体的现实性”、“必然性”、实现了的差</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 20 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p45.png" alt="书 20 页扫描" /></details>
+
 
 ## 正文 · 书 21 页
 
@@ -554,7 +554,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">终于说出：“但正是这种实体性又是精神，是通过受过教育的形式而</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 21 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p46.png" alt="书 21 页扫描" /></details>
+
 
 ## 正文 · 书 22 页
 
@@ -586,7 +586,7 @@ checked_on: '2026-11-09'
      <span data-ocr-row="26">(1)普遍利益和在普遍利益中保存着特殊利益，这是国家目的。</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 22 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p47.png" alt="书 22 页扫描" /></details>
+
 
 ## 正文 · 书 23 页
 
@@ -619,7 +619,7 @@ checked_on: '2026-11-09'
     <span data-ocr-row="25">① 指黑格尔《哲学全书纲要》第1部《逻辑学》。——编者注</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 23 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p48.png" alt="书 23 页扫描" /></details>
+
 
 ## 正文 · 书 24 页
 
@@ -652,7 +652,7 @@ checked_on: '2026-11-09'
      <span data-ocr-row="23">[23](b)行政权，即把各个特殊领域和个别事件从属于普遍东西的权力；</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 24 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p49.png" alt="书 24 页扫描" /></details>
+
 
 ## 正文 · 书 25 页
 
@@ -672,7 +672,7 @@ checked_on: '2026-11-09'
 
 本页为空白页。
 
-<details><summary>原页图：书 26 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p51.png" alt="书 26 页扫描" /></details>
+
 
 ## 正文 · 书 27 页
 
@@ -707,7 +707,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="24">性”是王权；协商或特殊对普遍的关系是王权。一旦王权被理解为君</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 27 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p52.png" alt="书 27 页扫描" /></details>
+
 
 ## 正文 · 书 28 页
 
@@ -743,7 +743,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">只应当“有整体观念所规定的那么大的权能”；它们只应当“来自整体</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 28 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p53.png" alt="书 28 页扫描" /></details>
+
 
 ## 正文 · 书 29 页
 
@@ -777,7 +777,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">者，那就应该按照他们的社会特质，而不应该按照他们的私人特质来</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 29 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p54.png" alt="书 29 页扫描" /></details>
+
 
 ## 正文 · 书 30 页
 
@@ -814,7 +814,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="29">念而存在。但是，黑格尔也以此为满足，因为谈的只是观念。这样一</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 30 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p55.png" alt="书 30 页扫描" /></details>
+
 
 ## 正文 · 书 31 页
 
@@ -859,7 +859,7 @@ checked_on: '2026-11-09'
 <span data-ocr-row="42">的主观性只是作为主体才存在，人格只是作为人才存在。”这也是神</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 31 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p56.png" alt="书 31 页扫描" /></details>
+
 
 ## 正文 · 书 32 页
 
@@ -891,7 +891,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">个人，体现于一个主体，那么这是什么样的国家理想主义呢？在这个</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 32 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p57.png" alt="书 32 页扫描" /></details>
+
 
 ## 正文 · 书 33 页
 
@@ -925,7 +925,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">因为讲的根本不是什么抽象的东西，而是国家，是社会，所以甚至可</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 33 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p58.png" alt="书 33 页扫描" /></details>
+
 
 ## 正文 · 书 34 页
 
@@ -959,7 +959,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="30">环节。</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 34 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p59.png" alt="书 34 页扫描" /></details>
+
 
 ## 正文 · 书 35 页
 
@@ -995,7 +995,7 @@ checked_on: '2026-11-09'
     <span data-ocr-row="27">“但是，此外，作为无限的自我相关者的人格和一般主观性，只有作为人，作</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 35 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p60.png" alt="书 35 页扫描" /></details>
+
 
 ## 正文 · 书 36 页
 
@@ -1032,7 +1032,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="24">也就是说，正是一些类形式被称作抽象的东西，现实的人借助这些类</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 36 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p61.png" alt="书 36 页扫描" /></details>
+
 
 ## 正文 · 书 37 页
 
@@ -1068,7 +1068,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">人民主权产生的。</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 37 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p62.png" alt="书 37 页扫描" /></details>
+
 
 ## 正文 · 书 38 页
 
@@ -1104,7 +1104,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">没有官府，没有等级，什么都没有。因为在人民中出现了那些同组织、同国家生</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 38 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p63.png" alt="书 38 页扫描" /></details>
+
 
 ## 正文 · 书 39 页
 
@@ -1138,7 +1138,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="25">里，国家制度不仅自在地，不仅就其本质来说，而且就其存在、就其现</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 39 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p64.png" alt="书 39 页扫描" /></details>
+
 
 ## 正文 · 书 40 页
 
@@ -1170,7 +1170,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">是完全正确的，可是他又认为他是在阐述国家的观念)特殊的存在方</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 40 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p65.png" alt="书 40 页扫描" /></details>
+
 
 ## 正文 · 书 41 页
 
@@ -1202,7 +1202,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">全一样，只不过略有改变而已。因此，那里的共和制同这里的君主制</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 41 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p66.png" alt="书 41 页扫描" /></details>
+
 
 ## 正文 · 书 42 页
 
@@ -1234,7 +1234,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">治制度是私有财产的制度，但这只是因为私有财产的制度就是政治</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 42 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p67.png" alt="书 42 页扫描" /></details>
+
 
 ## 正文 · 书 43 页
 
@@ -1269,7 +1269,7 @@ checked_on: '2026-11-09'
     <span data-ocr-row="25">① 国家，共和国。原意是公共事务。—编者注</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 43 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p68.png" alt="书 43 页扫描" /></details>
+
 
 ## 正文 · 书 44 页
 
@@ -1303,7 +1303,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="25">大的非连贯性被当成连贯性。</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 44 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p69.png" alt="书 44 页扫描" /></details>
+
 
 ## 正文 · 书 45 页
 
@@ -1337,7 +1337,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">就是无目的、无意义的行动一样。所以，同意志的目的论行为的整个</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 45 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p70.png" alt="书 45 页扫描" /></details>
+
 
 ## 正文 · 书 46 页
 
@@ -1374,7 +1374,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="27">说服力。</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 46 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p71.png" alt="书 46 页扫描" /></details>
+
 
 ## 正文 · 书 47 页
 
@@ -1411,7 +1411,7 @@ checked_on: '2026-11-09'
      <span data-ocr-row="28">例如，选用大臣要由君主的“不受限制的任意”来决定，“因为他</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 47 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p72.png" alt="书 47 页扫描" /></details>
+
 
 ## 正文 · 书 48 页
 
@@ -1445,7 +1445,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">制度轮流指派给国家单个公民的。在理性的机体中，不可能头是铁</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 48 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p73.png" alt="书 48 页扫描" /></details>
+
 
 ## 正文 · 书 49 页
 
@@ -1479,7 +1479,7 @@ checked_on: '2026-11-09'
 <span data-ocr-row="25">列颠的人民就是一个例子。但是，英格兰或苏格兰、爱尔兰的人民或威尼斯、热</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 49 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p74.png" alt="书 49 页扫描" /></details>
+
 
 ## 正文 · 书 50 页
 
@@ -1514,7 +1514,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">推崇为人的最高的社会现实，而是把单一的经验的人，把经验的人推</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 50 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p75.png" alt="书 50 页扫描" /></details>
+
 
 ## 正文 · 书 51 页
 
@@ -1546,7 +1546,7 @@ checked_on: '2026-11-09'
     <span data-ocr-row="25">① 见本卷第77—83页。——编者注</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 51 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p76.png" alt="书 51 页扫描" /></details>
+
 
 ## 正文 · 书 52 页
 
@@ -1578,7 +1578,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">的整个类、与其他一切人特别不同的人。这么一个人与其他一切人</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 52 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p77.png" alt="书 52 页扫描" /></details>
+
 
 ## 正文 · 书 53 页
 
@@ -1614,7 +1614,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="24">国家官员以及最高咨议机关——因为这是以咨询委员会形式组成的——来照</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 53 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p78.png" alt="书 53 页扫描" /></details>
+
 
 ## 正文 · 书 54 页
 
@@ -1649,7 +1649,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">的同一种个体。这是意志的本质，据称它从自己本身展现出自己的</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 54 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p79.png" alt="书 54 页扫描" /></details>
+
 
 ## 正文 · 书 55 页
 
@@ -1686,7 +1686,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="28">行政机关的活动是履行职责一样，它们的事务也是摆脱了偶然性的权利。”</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 55 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p80.png" alt="书 55 页扫描" /></details>
+
 
 ## 正文 · 书 56 页
 
@@ -1725,7 +1725,7 @@ checked_on: '2026-11-09'
      <span data-ocr-row="32">补充：“国家的意识和卓绝的文化教养表现在国家官员所属的中间等级中。</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 56 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p81.png" alt="书 56 页扫描" /></details>
+
 
 ## 正文 · 书 57 页
 
@@ -1758,7 +1758,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">神既同“直接的道德教育和思想教育”有关，也同“国家的大小”有关。</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 57 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p82.png" alt="书 57 页扫描" /></details>
+
 
 ## 正文 · 书 58 页
 
@@ -1790,7 +1790,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">业公会的那种精神，在国家中创立了官僚政治。因此，同业公会精神</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 58 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p83.png" alt="书 58 页扫描" /></details>
+
 
 ## 正文 · 书 59 页
 
@@ -1822,7 +1822,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">会14精神、神学精神。官僚是国家耶稣会教士和国家神学家。官僚</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 59 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p84.png" alt="书 59 页扫描" /></details>
+
 
 ## 正文 · 书 60 页
 
@@ -1854,7 +1854,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">见和传统的机械论的唯物主义。就单个的官僚来说，国家的目的变</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 60 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p85.png" alt="书 60 页扫描" /></details>
+
 
 ## 正文 · 书 61 页
 
@@ -1886,7 +1886,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">利益在实际上成为普遍利益时才有可能。黑格尔[XV.57]从非现实</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 61 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p86.png" alt="书 61 页扫描" /></details>
+
 
 ## 正文 · 书 62 页
 
@@ -1918,7 +1918,7 @@ checked_on: '2026-11-09'
      <span data-ocr-row="26">可见，对同业公会的管理包含着下述的对立：</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 62 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p87.png" alt="书 62 页扫描" /></details>
+
 
 ## 正文 · 书 63 页
 
@@ -1952,7 +1952,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">社会接触。因为有了这些“全权代表”，国家同市民社会之间的对立</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 63 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p88.png" alt="书 63 页扫描" /></details>
+
 
 ## 正文 · 书 64 页
 
@@ -1987,7 +1987,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="25">和二元论的性质。每个天主教徒都有成为神父的可能性(也就是使</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 64 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p89.png" alt="书 64 页扫描" /></details>
+
 
 ## 正文 · 书 65 页
 
@@ -2019,7 +2019,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">即君王的任意。</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 65 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p90.png" alt="书 65 页扫描" /></details>
+
 
 ## 正文 · 书 66 页
 
@@ -2053,7 +2053,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">联系构成国家的概念和国家的内部稳固性。”</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 66 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p91.png" alt="书 66 页扫描" /></details>
+
 
 ## 正文 · 书 67 页
 
@@ -2085,7 +2085,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">害同大害相比是微不足道的。</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 67 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p92.png" alt="书 67 页扫描" /></details>
+
 
 ## 正文 · 书 68 页
 
@@ -2117,7 +2117,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">家官员”构成“中间等级的主要组成部分”。黑格尔把这个“中间等</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 68 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p93.png" alt="书 68 页扫描" /></details>
+
 
 ## 正文 · 书 69 页
 
@@ -2151,7 +2151,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="23">正是在于他处处都从各种规定(如我们各个邦所存在的那类规定)的</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 69 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p94.png" alt="书 69 页扫描" /></details>
+
 
 ## 正文 · 书 70 页
 
@@ -2183,7 +2183,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">法权却间接改变国家制度。立法权采用的是它不可能也不应该以直</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 70 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p95.png" alt="书 70 页扫描" /></details>
+
 
 ## 正文 · 书 71 页
 
@@ -2217,7 +2217,7 @@ checked_on: '2026-11-09'
      <span data-ocr-row="26">按照黑格尔的看法，国家是自由的最高定在，是意识到自身的理</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 71 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p96.png" alt="书 71 页扫描" /></details>
+
 
 ## 正文 · 书 72 页
 
@@ -2249,7 +2249,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">——人民成为国家制度的原则。这时，前进本身也就成了国家制度。</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 72 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p97.png" alt="书 72 页扫描" /></details>
+
 
 ## 正文 · 书 73 页
 
@@ -2281,7 +2281,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">为自已的前提，而且这些规定又必然构成它的政治信条。其实，这是</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 73 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p98.png" alt="书 73 页扫描" /></details>
+
 
 ## 正文 · 书 74 页
 
@@ -2319,7 +2319,7 @@ checked_on: '2026-11-09'
      <span data-ocr-row="27">①《旧约全书·出埃及记》第20章第13节。——编者注</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 74 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p99.png" alt="书 74 页扫描" /></details>
+
 
 ## 正文 · 书 75 页
 
@@ -2354,7 +2354,7 @@ checked_on: '2026-11-09'
          <span data-ocr-row="27">思。——编者注</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 75 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p100.png" alt="书 75 页扫描" /></details>
+
 
 ## 正文 · 书 76 页
 
@@ -2392,7 +2392,7 @@ checked_on: '2026-11-09'
      <span data-ocr-row="28">① 指柏拉图的《理想国》。——编者注</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 76 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p101.png" alt="书 76 页扫描" /></details>
+
 
 ## 正文 · 书 77 页
 
@@ -2426,7 +2426,7 @@ checked_on: '2026-11-09'
      <span data-ocr-row="26">[76]“等级要素的使命是使普遍事务不仅自在地而且还自为地</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 77 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p102.png" alt="书 77 页扫描" /></details>
+
 
 ## 正文 · 书 78 页
 
@@ -2458,7 +2458,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">实的事务是在没有人民行动的情况下实现的。等级要素是作为人民</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 78 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p103.png" alt="书 78 页扫描" /></details>
+
 
 ## 正文 · 书 79 页
 
@@ -2493,7 +2493,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="28">一样。”</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 79 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p104.png" alt="书 79 页扫描" /></details>
+
 
 ## 正文 · 书 80 页
 
@@ -2527,7 +2527,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">样子描述了它，而在于他用现存的东西冒充国家本质。合乎理性的</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 80 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p105.png" alt="书 80 页扫描" /></details>
+
 
 ## 正文 · 书 81 页
 
@@ -2559,7 +2559,7 @@ checked_on: '2026-11-09'
 <span data-ocr-row="26">而也是“经验的普遍事务”在国家的某个地方表现出来。普遍事务应</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 81 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p106.png" alt="书 81 页扫描" /></details>
+
 
 ## 正文 · 书 82 页
 
@@ -2591,7 +2591,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">问题，还不如说是知识的问题，所以它是形而上学的国家权力。可</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 82 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p107.png" alt="书 82 页扫描" /></details>
+
 
 ## 正文 · 书 83 页
 
@@ -2627,7 +2627,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="28">家有关系的”。这是市民社会在国家中的反映。正如官僚是国家在</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 83 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p108.png" alt="书 83 页扫描" /></details>
+
 
 ## 正文 · 书 84 页
 
@@ -2662,7 +2662,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="27">结合起来。这两种“对立设定的意愿和信念”的同一性——国家本来</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 84 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p109.png" alt="书 84 页扫描" /></details>
+
 
 ## 正文 · 书 85 页
 
@@ -2695,7 +2695,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="25">么“特殊利益”同国家有矛盾，而是“群体和群氓的现实的有机的普遍</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 85 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p110.png" alt="书 85 页扫描" /></details>
+
 
 ## 正文 · 书 86 页
 
@@ -2727,7 +2727,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">的“中介者”，因为在各方面，它们都是“中介物”。</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 86 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p111.png" alt="书 86 页扫描" /></details>
+
 
 ## 正文 · 书 87 页
 
@@ -2760,7 +2760,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="25">的地位。当人民体现为一种观念，一种幻觉、幻想、表征——观念中</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 87 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p112.png" alt="书 87 页扫描" /></details>
+
 
 ## 正文 · 书 88 页
 
@@ -2798,7 +2798,7 @@ checked_on: '2026-11-09'
          <span data-ocr-row="26">者注</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 88 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p113.png" alt="书 88 页扫描" /></details>
+
 
 ## 正文 · 书 89 页
 
@@ -2833,7 +2833,7 @@ checked_on: '2026-11-09'
     <span data-ocr-row="28">“普遍等级，或者更确切地说，在政府中供职的等级。”</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 89 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p114.png" alt="书 89 页扫描" /></details>
+
 
 ## 正文 · 书 90 页
 
@@ -2865,7 +2865,7 @@ checked_on: '2026-11-09'
      <span data-ocr-row="26">但是，黑格尔的出发点是作为两个固定的对立面、两个真正有区</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 90 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p115.png" alt="书 90 页扫描" /></details>
+
 
 ## 正文 · 书 91 页
 
@@ -2897,7 +2897,7 @@ checked_on: '2026-11-09'
     <span data-ocr-row="25">①手稿中写的是“社会”。—编者注</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 91 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p116.png" alt="书 91 页扫描" /></details>
+
 
 ## 正文 · 书 92 页
 
@@ -2929,7 +2929,7 @@ checked_on: '2026-11-09'
      <span data-ocr-row="26">(1)让市民社会在把自身构想为立法要素的时候既不表现为简</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 92 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p117.png" alt="书 92 页扫描" /></details>
+
 
 ## 正文 · 书 93 页
 
@@ -2966,7 +2966,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="30">子女。他们的财产就这样成为不可让渡的长子继承的世传地产。”</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 93 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p118.png" alt="书 93 页扫描" /></details>
+
 
 ## 正文 · 书 94 页
 
@@ -3002,7 +3002,7 @@ checked_on: '2026-11-09'
       <span data-ocr-row="29">黑格尔不是用人所共知的名称来称呼这里所谈论的问题。争论</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 94 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p119.png" alt="书 94 页扫描" /></details>
+
 
 ## 正文 · 书 95 页
 
@@ -3036,7 +3036,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">还是对立的。他接着[94]是怎么说的呢？</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 95 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p120.png" alt="书 95 页扫描" /></details>
+
 
 ## 正文 · 书 96 页
 
@@ -3069,7 +3069,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">式的规定—和社会组织即市民社会的组织中。但是，在后一种组</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 96 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p121.png" alt="书 96 页扫描" /></details>
+
 
 ## 正文 · 书 97 页
 
@@ -3101,7 +3101,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">等级，即抛弃市民社会，抛弃私人等级，因为正是这个等级处在个体</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 97 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p122.png" alt="书 97 页扫描" /></details>
+
 
 ## 正文 · 书 98 页
 
@@ -3133,7 +3133,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">指出，这种通行的观念如何合乎逻辑和如何必要，它如何是“人民发</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 98 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p123.png" alt="书 98 页扫描" /></details>
+
 
 ## 正文 · 书 99 页
 
@@ -3167,7 +3167,7 @@ checked_on: '2026-11-09'
      <span data-ocr-row="26">现在我们来研究等级制和代议制。</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 99 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p124.png" alt="书 99 页扫描" /></details>
+
 
 ## 正文 · 书 100 页
 
@@ -3199,7 +3199,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">动的等级，与其说是市民社会中的一个等级，还不如说是市民社会各</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 100 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p125.png" alt="书 100 页扫描" /></details>
+
 
 ## 正文 · 书 101 页
 
@@ -3231,7 +3231,7 @@ checked_on: '2026-11-09'
     <span data-ocr-row="25">① 德文Stand既有“等级”的意思，又有“地位”的意思。——编者注</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 101 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p126.png" alt="书 101 页扫描" /></details>
+
 
 ## 正文 · 书 102 页
 
@@ -3264,7 +3264,7 @@ checked_on: '2026-11-09'
        <span data-ocr-row="25">著引用“规定”一词。——编者注</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 102 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p127.png" alt="书 102 页扫描" /></details>
+
 
 ## 正文 · 书 103 页
 
@@ -3296,7 +3296,7 @@ checked_on: '2026-11-09'
 <span data-ocr-row="26">体，即特定的等级(等级差别)描述为两个谓语的本质主体，或者为了</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 103 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p128.png" alt="书 103 页扫描" /></details>
+
 
 ## 正文 · 书 104 页
 
@@ -3330,7 +3330,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">作为单一经验意志而存在的国家意志和作为许多经验意志而存在的</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 104 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p129.png" alt="书 104 页扫描" /></details>
+
 
 ## 正文 · 书 105 页
 
@@ -3364,7 +3364,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">想在这里确立的“中介作用”，不是他从立法权的本质、立法权的固有</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 105 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p130.png" alt="书 105 页扫描" /></details>
+
 
 ## 正文 · 书 106 页
 
@@ -3396,7 +3396,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">素似乎也就不再是经验普遍性，而成为完全确定的整体，它既忠于</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 106 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p131.png" alt="书 106 页扫描" /></details>
+
 
 ## 正文 · 书 107 页
 
@@ -3428,7 +3428,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="25">的某个环节也必须遵循下述规定，即本质上作为中项环节而存在。”</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 107 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p132.png" alt="书 107 页扫描" /></details>
+
 
 ## 正文 · 书 108 页
 
@@ -3460,7 +3460,7 @@ checked_on: '2026-11-09'
         <span data-ocr-row="25">概念。编者注</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 108 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p133.png" alt="书 108 页扫描" /></details>
+
 
 ## 正文 · 书 109 页
 
@@ -3492,7 +3492,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">是因为不同于另一极端)又成了自已的对立极端和这个中项之间的</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 109 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p134.png" alt="书 109 页扫描" /></details>
+
 
 ## 正文 · 书 110 页
 
@@ -3524,7 +3524,7 @@ checked_on: '2026-11-09'
      <span data-ocr-row="26">看来与此相对立的是下述说法：两极相通，北极和南极相互吸</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 110 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p135.png" alt="书 110 页扫描" /></details>
+
 
 ## 正文 · 书 111 页
 
@@ -3558,7 +3558,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">本身；(2)把现实对立面的鲜明性以及这些对立面之形成为极端看作</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 111 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p136.png" alt="书 111 页扫描" /></details>
+
 
 ## 正文 · 书 112 页
 
@@ -3590,7 +3590,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">因此，正如我们所看到的，只有“立法权”才是本来的总体的政治国</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 112 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p137.png" alt="书 112 页扫描" /></details>
+
 
 ## 正文 · 书 113 页
 
@@ -3622,7 +3622,7 @@ checked_on: '2026-11-09'
 <span data-ocr-row="26">中介必须从“等级要素”产生，因为等级要素在立法权内部已丧失了</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 113 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p138.png" alt="书 113 页扫描" /></details>
+
 
 ## 正文 · 书 114 页
 
@@ -3654,7 +3654,7 @@ checked_on: '2026-11-09'
 <span data-ocr-row="26">性。黑格尔自己说，“谐和一致的可能性”也就是“对抗的可能性”。</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 114 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p139.png" alt="书 114 页扫描" /></details>
+
 
 ## 正文 · 书 115 页
 
@@ -3687,7 +3687,7 @@ checked_on: '2026-11-09'
 <span data-ocr-row="25">治对立面。“立法权”本身就需要中介，而且正像上面已经指出的，需</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 115 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p140.png" alt="书 115 页扫描" /></details>
+
 
 ## 正文 · 书 116 页
 
@@ -3719,7 +3719,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">也是有效能的幻想。相反，在这种统一还需要证明其真实性的地方，</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 116 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p141.png" alt="书 116 页扫描" /></details>
+
 
 ## 正文 · 书 117 页
 
@@ -3755,7 +3755,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">这种意志和自然规定是它同君王要素所共有的。”</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 117 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p142.png" alt="书 117 页扫描" /></details>
+
 
 ## 正文 · 书 118 页
 
@@ -3787,7 +3787,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">又为什么要把农民等级从原来的等级环节中分离出来呢？要知道，</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 118 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p143.png" alt="书 118 页扫描" /></details>
+
 
 ## 正文 · 书 119 页
 
@@ -3819,7 +3819,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">消了这种差别，它在自身中消灭了这种差别，撇开了这种差别。</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 119 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p144.png" alt="书 119 页扫描" /></details>
+
 
 ## 正文 · 书 120 页
 
@@ -3851,7 +3851,7 @@ checked_on: '2026-11-09'
     <span data-ocr-row="25">① 见本卷第122一130页。——编者注</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 120 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p145.png" alt="书 120 页扫描" /></details>
+
 
 ## 正文 · 书 121 页
 
@@ -3885,7 +3885,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">哲学”具有“公共的、即与公众有关的存在，它主要是或者纯粹是为国</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 121 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p146.png" alt="书 121 页扫描" /></details>
+
 
 ## 正文 · 书 122 页
 
@@ -3917,7 +3917,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">财产的某种分享；因此，二者的财产当然都是通过“恩惠”，即“意志的</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 122 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p147.png" alt="书 122 页扫描" /></details>
+
 
 ## 正文 · 书 123 页
 
@@ -3949,7 +3949,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">说法对他也毫无帮助：“长子继承权制度可以使这一等级更有保证和</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 123 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p148.png" alt="书 123 页扫描" /></details>
+
 
 ## 正文 · 书 124 页
 
@@ -3981,7 +3981,7 @@ checked_on: '2026-11-09'
      <span data-ocr-row="26">现在让我们来考察各种不同的要素，考察它们在这里，在立法权</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 124 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p149.png" alt="书 124 页扫描" /></details>
+
 
 ## 正文 · 书 125 页
 
@@ -4015,7 +4015,7 @@ checked_on: '2026-11-09'
      <span data-ocr-row="26">因此，在长子继承权中，地产，即纯粹的私有财产，成了不可让渡</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 125 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p150.png" alt="书 125 页扫描" /></details>
+
 
 ## 正文 · 书 126 页
 
@@ -4049,7 +4049,7 @@ checked_on: '2026-11-09'
      <span data-ocr-row="26">(在长子继承权中，不是在共同意志的范围内，而仅仅“通过某物</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 126 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p151.png" alt="书 126 页扫描" /></details>
+
 
 ## 正文 · 书 127 页
 
@@ -4082,7 +4082,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">动的目的和成果中，获得自己的实体性自由。”</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 127 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p152.png" alt="书 127 页扫描" /></details>
+
 
 ## 正文 · 书 128 页
 
@@ -4116,7 +4116,7 @@ checked_on: '2026-11-09'
     <span data-ocr-row="25">① 国家的高级官员。见本卷第79页。——编者注</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 128 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p153.png" alt="书 128 页扫描" /></details>
+
 
 ## 正文 · 书 129 页
 
@@ -4148,7 +4148,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">——就在立法权中构成二者的中介和统一。无依赖性的私有财产即</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 129 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p154.png" alt="书 129 页扫描" /></details>
+
 
 ## 正文 · 书 130 页
 
@@ -4182,7 +4182,7 @@ checked_on: '2026-11-09'
     <span data-ocr-row="25">① 见本卷第132页及以下几页。——编者注</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 130 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p155.png" alt="书 130 页扫描" /></details>
+
 
 ## 正文 · 书 131 页
 
@@ -4214,7 +4214,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">类的直接产物。我凭借出生就成为人，用不着社会同意，可是我凭借</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 131 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p156.png" alt="书 131 页扫描" /></details>
+
 
 ## 正文 · 书 132 页
 
@@ -4246,7 +4246,7 @@ checked_on: '2026-11-09'
 <span data-ocr-row="26">的实际结果。德国主观性的深邃在所有场合都表现为无精神的客观</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 132 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p157.png" alt="书 132 页扫描" /></details>
+
 
 ## 正文 · 书 133 页
 
@@ -4278,7 +4278,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">基础的基础，岂不是原初的真正的国家制度！</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 133 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p158.png" alt="书 133 页扫描" /></details>
+
 
 ## 正文 · 书 134 页
 
@@ -4311,7 +4311,7 @@ checked_on: '2026-11-09'
   <span data-ocr-row="25">说得更正确些，私法的人和道德的主体是国家的人和主体。黑格尔</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 134 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p159.png" alt="书 134 页扫描" /></details>
+
 
 ## 正文 · 书 135 页
 
@@ -4343,7 +4343,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">这里指民族，是皇帝的私有财产。</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 135 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p160.png" alt="书 135 页扫描" /></details>
+
 
 ## 正文 · 书 136 页
 
@@ -4375,7 +4375,7 @@ checked_on: '2026-11-09'
      <span data-ocr-row="26">私有财产法是使用和支配的权利，是任意地处理实物的权利。</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 136 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p161.png" alt="书 136 页扫描" /></details>
+
 
 ## 正文 · 书 137 页
 
@@ -4407,7 +4407,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">体的结果，而不说政治解体是私有财产法发展的结果。此外，在罗</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 137 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p162.png" alt="书 137 页扫描" /></details>
+
 
 ## 正文 · 书 138 页
 
@@ -4442,7 +4442,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="27">的对立。关于这点可参看前面一节。此外，黑格尔借助同业公会等</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 138 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p163.png" alt="书 138 页扫描" /></details>
+
 
 ## 正文 · 书 139 页
 
@@ -4474,7 +4474,7 @@ checked_on: '2026-11-09'
      <span data-ocr-row="26">黑格尔认为，由于社会通过自已的同业公会等等委派议员，“它</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 139 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p164.png" alt="书 139 页扫描" /></details>
+
 
 ## 正文 · 书 140 页
 
@@ -4506,7 +4506,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">族院的作用等于零，不过，在黑格尔力图阐明的立宪君主制原则内，</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 140 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p165.png" alt="书 140 页扫描" /></details>
+
 
 ## 正文 · 书 141 页
 
@@ -4538,7 +4538,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">的保证”。于是，等级会议的存在的保证、它的真正的原初的存在就</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 141 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p166.png" alt="书 141 页扫描" /></details>
+
 
 ## 正文 · 书 142 页
 
@@ -4570,7 +4570,7 @@ checked_on: '2026-11-09'
      <span data-ocr-row="26">既然各等级的存在需要保证，那么这些等级就不是现实的国家</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 142 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p167.png" alt="书 142 页扫描" /></details>
+
 
 ## 正文 · 书 143 页
 
@@ -4604,7 +4604,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">现实的现代状况，因为它们以现实生活从国家生活分离为前提并且</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 143 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p168.png" alt="书 143 页扫描" /></details>
+
 
 ## 正文 · 书 144 页
 
@@ -4636,7 +4636,7 @@ checked_on: '2026-11-09'
     <span data-ocr-row="25">“有人认为，全体人员都应当单个地参与国家的普遍事务的讨论和决定。”</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 144 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p169.png" alt="书 144 页扫描" /></details>
+
 
 ## 正文 · 书 145 页
 
@@ -4668,7 +4668,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">规定中没有一个规定能改变主体的即单一性的本质。</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 145 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p170.png" alt="书 145 页扫描" /></details>
+
 
 ## 正文 · 书 146 页
 
@@ -4700,7 +4700,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">为真正的社会，会使社会成为多余的。单个人不得不同时去做一切</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 146 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p171.png" alt="书 146 页扫描" /></details>
+
 
 ## 正文 · 书 147 页
 
@@ -4732,7 +4732,7 @@ checked_on: '2026-11-09'
 <span data-ocr-row="26">是被看作社会活动，不是被看作社会性的职能，相反，是被看作惟一</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 147 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p172.png" alt="书 147 页扫描" /></details>
+
 
 ## 正文 · 书 148 页
 
@@ -4764,7 +4764,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">于它那形式上的政治意义。例如，行政权本身应当比立法的、形而上</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 148 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p173.png" alt="书 148 页扫描" /></details>
+
 
 ## 正文 · 书 149 页
 
@@ -4796,7 +4796,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">关的道地的政治的存在。</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 149 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p174.png" alt="书 149 页扫描" /></details>
+
 
 ## 正文 · 书 150 页
 
@@ -4828,7 +4828,7 @@ checked_on: '2026-11-09'
     <span data-ocr-row="25">① 见本卷第151—153页。——编者注</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 150 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p175.png" alt="书 150 页扫描" /></details>
+
 
 ## 正文 · 书 151 页
 
@@ -4865,7 +4865,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">活泼的、可以互通情报和彼此说服的、共同商讨问题的会议。”</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 151 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p176.png" alt="书 151 页扫描" /></details>
+
 
 ## 正文 · 书 152 页
 
@@ -4897,7 +4897,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">物的固有特征，怎样给具有局限形式的事物加上与这种局限性相反</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 152 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p177.png" alt="书 152 页扫描" /></details>
+
 
 ## 正文 · 书 153 页
 
@@ -4931,7 +4931,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="27">意识。”</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 153 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p178.png" alt="书 153 页扫描" /></details>
+
 
 ## 正文 · 书 154 页
 
@@ -4964,7 +4964,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">利益和职业，这里是偶然性、可变性和任意有其表现的场所。”</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 154 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p179.png" alt="书 154 页扫描" /></details>
+
 
 ## 正文 · 书 155 页
 
@@ -4997,7 +4997,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="25">前提来构思。</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 155 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p180.png" alt="书 155 页扫描" /></details>
+
 
 ## 正文 · 书 156 页
 
@@ -5031,7 +5031,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="26">说法，“选举”，即信任的实现，信任成为活动和信任的表现，“或者完</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 156 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p181.png" alt="书 156 页扫描" /></details>
+
 
 ## 正文 · 书 157 页
 
@@ -5067,7 +5067,7 @@ checked_on: '2026-11-09'
  <span data-ocr-row="28">再作专门的评论。因此，我们只是援引如下：</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 157 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p182.png" alt="书 157 页扫描" /></details>
+
 
 ## 正文 · 书 158 页
 
@@ -5093,7 +5093,7 @@ checked_on: '2026-11-09'
      <span data-ocr-row="16">②</span>  <span data-ocr-row="17">这两行字是马克思写在手稿第157页上的。——编者注</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 158 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p183.png" alt="书 158 页扫描" /></details>
+
 
 ## 正文 · 书 159 页
 
@@ -5122,7 +5122,7 @@ checked_on: '2026-11-09'
     <span data-ocr-row="26">⑨</span>  <span data-ocr-row="27">见本卷第127—128页。——编者注</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 159 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p184.png" alt="书 159 页扫描" /></details>
+
 
 ## 正文 · 书 160 页
 
@@ -5139,7 +5139,7 @@ checked_on: '2026-11-09'
 <span data-ocr-row="16">③</span>  <span data-ocr-row="17">见本卷第151—155页。——编者注</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 160 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p185.png" alt="书 160 页扫描" /></details>
+
 
 ## 卷末编者注 · 书 649 页
 
@@ -5171,7 +5171,7 @@ checked_on: '2026-11-09'
    <span data-ocr-row="25">国家的关系。他还把批判黑格尔的政治观同批判思辨唯心主义联系起</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 649 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p674.png" alt="书 649 页扫描" /></details>
+
 
 ## 卷末编者注 · 书 650 页
 
@@ -5209,7 +5209,7 @@ checked_on: '2026-11-09'
     <span data-ocr-row="32">中文第2版第31卷第412页）</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 650 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p675.png" alt="书 650 页扫描" /></details>
+
 
 ## 卷末编者注 · 书 651 页
 
@@ -5246,7 +5246,7 @@ checked_on: '2026-11-09'
     <span data-ocr-row="34">是皮·勒鲁、普·维·孔西得朗、泰·德萨米、皮·约·蒲鲁东等人。马</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 651 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p676.png" alt="书 651 页扫描" /></details>
+
 
 ## 卷末编者注 · 书 652 页
 
@@ -5285,7 +5285,7 @@ checked_on: '2026-11-09'
      <span data-ocr-row="32">动或表现，显示其本体。—61、114。</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 652 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p677.png" alt="书 652 页扫描" /></details>
+
 
 ## 卷末编者注 · 书 653 页
 
@@ -5323,7 +5323,7 @@ checked_on: '2026-11-09'
      <span data-ocr-row="34">307节后面写了两句话(见本卷94页)。在此之后，他才回到第87页评注</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 653 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p678.png" alt="书 653 页扫描" /></details>
+
 
 ## 卷末编者注 · 书 654 页
 
@@ -5360,7 +5360,7 @@ checked_on: '2026-11-09'
     <span data-ocr-row="31">选择，结果只好饿死。—115。</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 654 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p679.png" alt="书 654 页扫描" /></details>
+
 
 ## 卷末编者注 · 书 655 页
 
@@ -5388,5 +5388,5 @@ checked_on: '2026-11-09'
      <span data-ocr-row="24">节的评述。159。</span></pre></section>
 <!-- END OCR PAGE -->
 
-<details><summary>原页图：书 655 页</summary><img src="../../checks/early-core-1843-1844/assets/scan-hegel-critique-1843-p680.png" alt="书 655 页扫描" /></details>
+
 
