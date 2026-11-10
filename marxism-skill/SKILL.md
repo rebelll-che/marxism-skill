@@ -19,13 +19,9 @@ description: 当用户希望直接依据马克思、恩格斯原著理解马克�
 
 ## 当前文字使用限制
 
-本轮筛查未将以下三份现有整理稿计为合格的直接文字来源：两部经济学手稿仍依赖大量公式图片，1843年《黑格尔法哲学批判》仍按扫描OCR行组织。
+[1861—1863年经济学手稿](references/works/marx/economic-manuscripts-1861-1863-zh-de.md)仍含大量未文字化公式及表格图片，且采用中文各部分与德文第五部分的现有合稿；完整、可靠的统一文字替代尚未取得。确需其中尚未文字化的计算时，只有实际读到相关图片或核实文字后才据此解释，无法读取则说明限制，不根据目录或图片链接猜写。
 
-- [1857—1858年经济学手稿及相关稿本](references/works/marx/grundrisse-1857-1858.md)：主体已有[德文文字版](https://marx.works/me42/me42_gr_inhalt.htm)，它不覆盖合稿附收的全部其他篇目。
-- [1861—1863年经济学手稿](references/works/marx/economic-manuscripts-1861-1863-zh-de.md)：完整、可靠的文字替代尚未确认。
-- [1843年黑格尔法哲学批判](references/works/marx/early-core-hegel-critique-1843.md)：已有[英文正文](https://www.marxists.org/archive/marx/works/1843/critique-hpr/index.htm)，不把另列的1844年导言及不同编者注混作同一文本。
-
-相关问题优先使用其他已可直接读文字的原著；确需以上材料时，只有实际读到已核实的文字版本后才据此回答，并注明采用版本。无法读取时说明材料限制，不根据图片链接或目录补出原文。上述限制针对现有电子整理稿，不是否定作品的理论价值。
+[1857—1858年手稿](references/works/marx/grundrisse-1857-1858.md)现为MEGA II/1完整现存德文正文，[1843年黑格尔法哲学批判](references/works/marx/early-core-hegel-critique-1843.md)现为MEW1同版完整现存德文正文，可直接读文字、公式及表格。引用时注明实际版本；原稿未完成或失存不代表下载遗漏。分开的作者索引和1858年独立初稿不是另一份重复译本；[黑格尔批判的作者索引](references/works/marx/hegel-critique-manuscript-index.md)仍沿用两页既有中文OCR，少量字形和数字可能有误，应注意该独立文本的限制。
 
 ## 回答要求
 

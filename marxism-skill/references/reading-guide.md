@@ -22,7 +22,7 @@
 
 - **第一层：基础主干**：可从[《关于费尔巴哈的提纲》](works/marx/02-theses-on-feuerbach.md)、[《德意志意识形态》](works/marx-engels/german-ideology.md)、[《资本论》](works/marx/capital-volume-1.md)、[《共产党宣言》](works/marx-engels/03-communist-manifesto.md)、[《反杜林论》](works/engels/anti-duhring.md)进入各自问题。
 - **第二层：专题论述与历史应用**：按问题读取历史分析、调查、演说和思想书信。短篇或书信也可能对某一问题给出关键论述，阅读用途不表示证据权威高低。
-- **第三层：思想形成与研究深化**：结合[《黑格尔法哲学批判》](works/marx/early-core-hegel-critique-1843.md)、[《1844年经济学哲学手稿》](works/marx/01-1844-manuscripts.md)、[《1857—1858年经济学手稿及相关稿本》](works/marx/grundrisse-1857-1858.md)及作品内序言，按文本时间区分表述。
+- **第三层：思想形成与研究深化**：结合[《黑格尔法哲学批判》](works/marx/early-core-hegel-critique-1843.md)、[《1844年经济学哲学手稿》](works/marx/01-1844-manuscripts.md)、[《1857—1858年经济学手稿》](works/marx/grundrisse-1857-1858.md)及作品内序言，按文本时间区分表述。
 
 所有这些材料都属于“马克思主义 → 经典马克思主义”。层次表示阅读安排和文本用途，不是作者地位、真伪或证据权威的等级；具体问题的关键依据也可能是一封信。正式著作、研究手稿、早晚表述仍按各自性质阅读。一部作品仍只在作者目录保存一份，以下主题入口可以交叉引用。
 
@@ -79,6 +79,9 @@
 ### 剩余价值、利润、积累及资本再生产
 
 按问题阅读[《资本论》第一卷](works/marx/capital-volume-1.md)的剩余价值生产及积累相关篇，[第二卷](works/marx/capital-volume-2.md)的资本循环、周转及社会总资本再生产相关篇，[第三卷](works/marx/capital-volume-3.md)的利润、平均利润、利息和地租相关篇。需要追踪研究过程时，补读[1857—1858年经济学手稿](works/marx/grundrisse-1857-1858.md)。第二、三卷保留恩格斯编辑说明，原稿和编辑文字分别识别。
+
+- [《1857—1858年经济学手稿》](works/marx/grundrisse-1857-1858.md)采用MEGA II/1现存德文正文，含《巴师夏和凯里》《导言》及手稿主体。其[作者索引](works/marx/grundrisse-notebook-index-1858.md)与[1858年《政治经济学批判》初稿片断](works/marx/urtext-1858.md)独立保存中文版本，用于追踪研究安排与草稿发展，不与正文混编或重复收录1859年定稿。
+- [《黑格尔法哲学批判》作者索引](works/marx/hegel-critique-manuscript-index.md)是马克思另写的研究提纲，按中文版本理解其页码；正文另采用MEW1德文文字版，不能混同页码。
 
 - [《1861—1863年经济学手稿》](works/marx/economic-manuscripts-1861-1863-zh-de.md)：按六部分及具体问题查找，其中已包含《剩余价值理论》相关内容，不再把不同选编重复算新作品。五部分中文、第五部分用德文补缺；公式和表格部分保留图片。它是研究手稿，不能把编排和探索过程直接当成完成定稿。
 

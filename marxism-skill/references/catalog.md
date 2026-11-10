@@ -2,7 +2,7 @@
 
 自动生成自本Skill的references/works下全部Markdown原著；请修改原著标准源后重新运行维护工具，不手工维护本目录。
 
-本包包含 110 份马克思、恩格斯原著及相关文献，不代表完整收录马克思主义。
+本包包含 113 份马克思、恩格斯原著及相关文献，不代表完整收录马克思主义。
 
 原著正文、原有章节及元信息按原文件保留。来源、版本、原稿/修订等说明见各文件开头；整理检查记录不作为理论依据。用当前Agent自己的工具读取需要的章节，不必一次加载全库。正文和目录内链接均相对各自文件解析。头部source_file记录转换原件的位置，原件不随本包打包；需要对照来源时使用source字段已有的公共来源。
 
@@ -83,14 +83,16 @@
 | 政治经济学批判 | 卡尔·马克思 | 《马克思恩格斯全集》中文第一版第13卷，人民出版社1962年版；中共中央马克思恩格斯列宁斯大林著作编译局编译（MIA中文电子文本，具体印次未标） | [读取](works/marx/critique-of-political-economy.md) | [章目](chapters.md#works/marx/critique-of-political-economy.md) |
 | 第六届莱茵省议会的辩论(第三篇论文)　关于林木盗窃法的辩论 | 卡尔·马克思 | 中文第二版第1卷；页内编辑说明明示，具体中文出版印次待核。 | [读取](works/marx/early-01-016.md) | [章目](chapters.md#works/marx/early-01-016.md) |
 | 詹姆斯・穆勒《政治经济学原理》一书摘要 | 卡尔·马克思 | 中文第一版补卷第42卷；具体印次待核。 | [读取](works/marx/early-42-002.md) | [章目](chapters.md#works/marx/early-42-002.md) |
-| 黑格尔法哲学批判（附手稿索引） | 卡尔·马克思 | 马克思恩格斯全集，中文第二版第3卷，人民出版社，2002年10月第2版；ISBN 7-01-003169-X | [读取](works/marx/early-core-hegel-critique-1843.md) | [章目](chapters.md#works/marx/early-core-hegel-critique-1843.md) |
+| 黑格尔法哲学批判（德文现存正文） | 卡尔·马克思 | Marx/Engels Werke（MEW）第1卷，Dietz Verlag，Berlin/DDR，1976年，书203—333页 | [读取](works/marx/early-core-hegel-critique-1843.md) | [章目](chapters.md#works/marx/early-core-hegel-critique-1843.md) |
 | 《黑格尔法哲学批判》导言 | 卡尔·马克思 | 《马克思恩格斯文集》第1卷，人民出版社，2009年12月第1版；MIA文字页，已以同版扫描核范围及所列疑字。 | [读取](works/marx/early-core-hegel-critique-introduction-1843.md) | [章目](chapters.md#works/marx/early-core-hegel-critique-introduction-1843.md) |
 | 论犹太人问题 | 卡尔·马克思 | 《马克思恩格斯文集》第1卷，人民出版社，2009年12月第1版；MIA文字页，已以同版扫描核范围及所列疑字。 | [读取](works/marx/early-core-on-the-jewish-question-1843.md) | [章目](chapters.md#works/marx/early-core-on-the-jewish-question-1843.md) |
 | 马克思致阿尔诺德·卢格（1843年3月，《德法年鉴》公开通信） | 卡尔·马克思 | 马克思恩格斯文集第10卷，人民出版社，2009年12月第1版 | [读取](works/marx/early-core-ruge-public-letter-1843-03.md) | [章目](chapters.md#works/marx/early-core-ruge-public-letter-1843-03.md) |
 | 马克思致阿尔诺德·卢格（1843年9月，《德法年鉴》公开通信） | 卡尔·马克思 | 马克思恩格斯文集第10卷，人民出版社，2009年12月第1版 | [读取](works/marx/early-core-ruge-public-letter-1843-09.md) | [章目](chapters.md#works/marx/early-core-ruge-public-letter-1843-09.md) |
 | 1861—1863年经济学手稿（中文及德文补缺） | 卡尔·马克思 | 第一至四及第六部分为中文全集第二版32、33、34、35、37卷；第五部分据MEGA II/3.5德文原稿补缺，非同一中文译本全本。 | [读取](works/marx/economic-manuscripts-1861-1863-zh-de.md) | [章目](chapters.md#works/marx/economic-manuscripts-1861-1863-zh-de.md) |
 | 法国的动产信用公司（三篇论文） | 卡尔·马克思 | 《马克思恩格斯文集》第2卷，人民出版社2009年12月第1版；MIA文字页，对照项目已有同版扫描。 第一、二篇采用《马克思恩格斯全集》中文第1版第12卷。 | [读取](works/marx/french-credit-mobilier.md) | [章目](chapters.md#works/marx/french-credit-mobilier.md) |
-| 1857—1858年经济学手稿及相关稿本 | 卡尔·马克思 | 《马克思恩格斯全集》中文第二版第30、31卷，中共中央马克思恩格斯列宁斯大林著作编译局编译；人民出版社1995、1998年版；据JOJO公开书库同版EPUB整理，对照MIA网页及扫描原页 | [读取](works/marx/grundrisse-1857-1858.md) | [章目](chapters.md#works/marx/grundrisse-1857-1858.md) |
+| 1857—1858年经济学手稿（含巴师夏和凯里、导言） | 卡尔·马克思 | MEGA 第二部分第1卷（II/1），第1、2分册，德文原文；Dietz Verlag，1976、1981年 | [读取](works/marx/grundrisse-1857-1858.md) | [章目](chapters.md#works/marx/grundrisse-1857-1858.md) |
+| 七个笔记本的索引（第一部分） | 卡尔·马克思 | 《马克思恩格斯全集》中文第二版第31卷，人民出版社，1998年12月第2版；据原合稿所存同版EPUB文字分出 | [读取](works/marx/grundrisse-notebook-index-1858.md) | [章目](chapters.md#works/marx/grundrisse-notebook-index-1858.md) |
+| 《黑格尔法哲学批判》手稿索引 | 卡尔·马克思 | 《马克思恩格斯全集》中文第二版第3卷，人民出版社，2002年10月第2版，书159—160页 | [读取](works/marx/hegel-critique-manuscript-index.md) | [章目](chapters.md#works/marx/hegel-critique-manuscript-index.md) |
 | 马克思致路德维希·费尔巴哈（1843年10月3日） | 卡尔·马克思 | 《马克思恩格斯文集》第10卷，人民出版社2009年12月第1版第1次印刷，ISBN 978-7-01-007696-6。 | [读取](works/marx/letter-27-148.md) | [章目](chapters.md#works/marx/letter-27-148.md) |
 | 马克思致路德维希·费尔巴哈（1844年8月11日） | 卡尔·马克思 | 《马克思恩格斯文集》第10卷，人民出版社2009年12月第1版第1次印刷，ISBN 978-7-01-007696-6。 | [读取](works/marx/letter-27-151.md) | [章目](chapters.md#works/marx/letter-27-151.md) |
 | 马克思致巴维尔·瓦西里也维奇·安年柯夫（1846年12月28日） | 卡尔·马克思 | 《马克思恩格斯全集》中文第1版第27卷，MIA电子文字页；具体出版年份、印次未核。 | [读取](works/marx/letter-27-168.md) | [章目](chapters.md#works/marx/letter-27-168.md) |
@@ -118,3 +120,4 @@
 | 马克思致斐迪南·多梅拉·纽文胡斯（2月22日） | 卡尔·马克思 | 《马克思恩格斯文集》第10卷，人民出版社2009年12月第1版第1次印刷，ISBN 978-7-01-007696-6。 | [读取](works/marx/letter-35-079.md) | [章目](chapters.md#works/marx/letter-35-079.md) |
 | 评阿·瓦格纳的“政治经济学教科书” | 卡尔·马克思 | 《马克思恩格斯全集》中文第一版第19卷，人民出版社1963年；具体印次未核 | [读取](works/marx/notes-on-wagner.md) | [章目](chapters.md#works/marx/notes-on-wagner.md) |
 | 哲学的贫困 | 卡尔·马克思 | 《马克思恩格斯全集》中文第1版第4卷，中共中央马克思恩格斯列宁斯大林著作编译局译，北京：人民出版社，1958年8月；具体印次未核。MIA中文网页整理本。 | [读取](works/marx/poverty-of-philosophy.md) | [章目](chapters.md#works/marx/poverty-of-philosophy.md) |
+| 《政治经济学批判。第一分册》第二章初稿片断和第三章开头部分 | 卡尔·马克思 | 《马克思恩格斯全集》中文第二版第31卷，人民出版社，1998年12月第2版；据原合稿所存同版EPUB文字分出 | [读取](works/marx/urtext-1858.md) | [章目](chapters.md#works/marx/urtext-1858.md) |
