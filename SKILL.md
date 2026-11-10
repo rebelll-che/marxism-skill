@@ -15,7 +15,7 @@ description: 当用户希望直接依据马克思、恩格斯原著理解马克�
 
 搜索结果已呈现完整相关论述时可以直接使用；只有短匹配、无法区分引述与作者立场时，补读必要上下文。材料够用即可作答。已转写的公式和表格直接读文字；当前问题确实需要仍保留的图像、且宿主支持看图时，再按需打开。无法读图时说明该处尚未转写，不猜测图中内容。
 
-原著在references/works/下按marx、engels、marx-engels存一份；sources、checks是正文引用的附件。链接相对各自文件解析。文件行号包含头部，按原始LF计数；Python用read_bytes().decode("utf-8-sig").split("\n")读取，行号不是书本页码。
+原著在references/works/下按marx、engels、marx-engels存一份；references/checks/保存正文仍引用的图片附件。链接相对各自文件解析。文件行号包含头部，按原始LF计数；Python用read_bytes().decode("utf-8-sig").split("\n")读取，行号不是书本页码。
 
 ## 当前文字使用限制
 
