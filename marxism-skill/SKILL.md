@@ -17,6 +17,16 @@ description: 当用户希望直接依据马克思、恩格斯原著理解马克�
 
 原著在references/works/下按marx、engels、marx-engels存一份；sources、checks是正文引用的附件。链接相对各自文件解析。文件行号包含头部，按原始LF计数；Python用read_bytes().decode("utf-8-sig").split("\n")读取，行号不是书本页码。
 
+## 当前文字使用限制
+
+本轮筛查未将以下三份现有整理稿计为合格的直接文字来源：两部经济学手稿仍依赖大量公式图片，1843年《黑格尔法哲学批判》仍按扫描OCR行组织。
+
+- [1857—1858年经济学手稿及相关稿本](references/works/marx/grundrisse-1857-1858.md)：主体已有[德文文字版](https://marx.works/me42/me42_gr_inhalt.htm)，它不覆盖合稿附收的全部其他篇目。
+- [1861—1863年经济学手稿](references/works/marx/economic-manuscripts-1861-1863-zh-de.md)：完整、可靠的文字替代尚未确认。
+- [1843年黑格尔法哲学批判](references/works/marx/early-core-hegel-critique-1843.md)：已有[英文正文](https://www.marxists.org/archive/marx/works/1843/critique-hpr/index.htm)，不把另列的1844年导言及不同编者注混作同一文本。
+
+相关问题优先使用其他已可直接读文字的原著；确需以上材料时，只有实际读到已核实的文字版本后才据此回答，并注明采用版本。无法读取时说明材料限制，不根据图片链接或目录补出原文。上述限制针对现有电子整理稿，不是否定作品的理论价值。
+
 ## 回答要求
 
 - 作者观点和引文以实际读过的原著为据；书目和导读不作理论依据，不编造引文或理论。解释论证联系，区分原文表达、你的归纳和进一步推演。

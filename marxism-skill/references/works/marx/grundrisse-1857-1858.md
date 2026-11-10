@@ -5762,11 +5762,11 @@ S＝c（1+i）n。（S是资本c按利率i计算经过n年后的总额。）
 
 [^v31-c3-jz_1_110]: 
 
-![](../../checks/economic-manuscripts-1857/assets/261a5690082dadebb864930b6cbcd238714ee36b1c40d6113a122fb129dc3202.png)在手稿原文中是![](../../checks/economic-manuscripts-1857/assets/6f3c4526bc14aa18402c1f1bc5d415cc9a212b14921153f7fe9757d24b5b391a.png)——编者注
+    ![](../../checks/economic-manuscripts-1857/assets/261a5690082dadebb864930b6cbcd238714ee36b1c40d6113a122fb129dc3202.png)在手稿原文中是![](../../checks/economic-manuscripts-1857/assets/6f3c4526bc14aa18402c1f1bc5d415cc9a212b14921153f7fe9757d24b5b391a.png)——编者注
 
 [^v31-c3-jz_2_110]: 
 
-![](../../checks/economic-manuscripts-1857/assets/2665f896894a4f1f79ecdd71293f51b2f33489a1ec79fa8110f841f3b4ae4981.png)在手稿原文中是![](../../checks/economic-manuscripts-1857/assets/d14c22ad8fca7182b32bf7a39c57419656c7e710f087a56bf109fec31234e4e0.png)——编者注
+    ![](../../checks/economic-manuscripts-1857/assets/2665f896894a4f1f79ecdd71293f51b2f33489a1ec79fa8110f841f3b4ae4981.png)在手稿原文中是![](../../checks/economic-manuscripts-1857/assets/d14c22ad8fca7182b32bf7a39c57419656c7e710f087a56bf109fec31234e4e0.png)——编者注
 
 [^v31-c3-jz_1_111]: 见《马克思恩格斯全集》中文第2版第30卷第567—569、578—580页；并见本卷第75页。——编者注
 

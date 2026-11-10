@@ -7,13 +7,21 @@ dates:
   written: 1861—1863
   publication: '[1980, 1998, 2004, 2008, 2013, 2019]'
 text_status: 1861—1863年经济学研究手稿，中德文合稿
-source: works/marx/economic-manuscripts-1861-1863-zh-de.md
+source: JOJO公开书库第32、33、34、35、37卷EPUB及MEGA II/3.5德文PDF；原始地址见正文开头的来源说明。
 source_file: originals/f5ac541f206bbb357a88a052d9780dd704dcb1091125c04d2377d5b40acb03bb.md
 source_sha256: f5ac541f206bbb357a88a052d9780dd704dcb1091125c04d2377d5b40acb03bb
 checked_on: '2026-11-09'
 ---
 
 # 1861—1863年经济学手稿（中文及德文补缺）
+
+> 来源地址（仅用于追溯，版本说明见下文）：
+> 中文第32卷：https://blacknews.jojokanbao.cn/content/books/ma-ke-si-en-ge-si-quan-ji/items/volume-32/exports/oSvAR-ZsE8REvSw6No.jox
+> 中文第33卷：https://blacknews.jojokanbao.cn/content/books/ma-ke-si-en-ge-si-quan-ji/items/volume-33/exports/BTw5wSINMTB6gF9Vc2.jox
+> 中文第34卷：https://blacknews.jojokanbao.cn/content/books/ma-ke-si-en-ge-si-quan-ji/items/volume-34/exports/ByUYd3PnMBcuWp9exE.jox
+> 中文第35卷：https://blacknews.jojokanbao.cn/content/books/ma-ke-si-en-ge-si-quan-ji/items/volume-35/exports/9_hFdsMwS59BFaqgyU.jox
+> 中文第37卷：https://blacknews.jojokanbao.cn/content/books/ma-ke-si-en-ge-si-quan-ji/items/volume-37/exports/Qw29d13Dwpgfx2oGuU.jox
+> 德文第五部分：https://thecharnelhouse.org/wp-content/uploads/2016/02/megac2b2-ii-3-5-karl-marx-zur-kritik-der-politischen-occ88konomie-manuskript-1861e280931863-teil-5-text.pdf
 
 > 按现存23个手稿笔记本的编辑范围整理为六部分，分部顺序沿中文第二版编排，明确每部分语言和来源。中文第36卷现有扫描的数字/公式文字层未完成可靠恢复，因此用同范围德文原稿补齐；不能称为中文第二版完整电子本。保留作者研究、摘录、批注及原注，引用他人文字不等于马克思本人的主张。稿本原有中断依原件保留；不与《资本论》出版定稿重复归并。
 > 中文部分依据已保存EPUB整理，来源可能含OCR痕迹，不宣称非OCR；以同版扫描核对范围与已识别疑点。德文部分复用原PDF已有的OCR文字层；已恢复可确认的普通文字，并修正已发现的断词。部分公式已文字化，尚未可靠转换的公式和表格保留图片，图中字符不全可检索。作为排印展示的手稿影印及空白页不随Skill提供；印刷正文和两页表格仍保留。原件及具体修复记录留在维护资料中。
@@ -4310,7 +4318,7 @@ C+V+S就是产品。（V+S）是常量。如果在某种情况下工资降低了
 
 [^v32c42-jz_1_466]: 
 
-![](../../checks/economic-manuscripts-later/assets/5f1a00318ead79ef423871e9c84fe98ed8d1e36a3511fcf8667e2d0adefc671b.png)在手稿中是![](../../checks/economic-manuscripts-later/assets/83e482ccf98fa3b8f641a5a021fb05143d2e82804c43d796a005723ff4bd8b0c.png)——编者注
+    ![](../../checks/economic-manuscripts-later/assets/5f1a00318ead79ef423871e9c84fe98ed8d1e36a3511fcf8667e2d0adefc671b.png)在手稿中是![](../../checks/economic-manuscripts-later/assets/83e482ccf98fa3b8f641a5a021fb05143d2e82804c43d796a005723ff4bd8b0c.png)——编者注
 
 [^v32c42-jz_1_471]: “6 （c）”在手稿中是“6（a）”；见本卷第425页。——编者注
 
@@ -4751,7 +4759,7 @@ C＝v+c；m是剩余价值；m′是剩余价值率；P′是利润率；
 
 [^v32c43-jz_1_501]: 
 
-![](../../checks/economic-manuscripts-later/assets/d6a6a7d4d7a6fe5af9ec17a2778fae27185262a7613a741aa71d394c53dbf43d.png)在手稿中是![](../../checks/economic-manuscripts-later/assets/3c9aab4affa928756faebf1f07e1498fa86d595977e514db4b32c688cc414ed9.png)——编者注
+    ![](../../checks/economic-manuscripts-later/assets/d6a6a7d4d7a6fe5af9ec17a2778fae27185262a7613a741aa71d394c53dbf43d.png)在手稿中是![](../../checks/economic-manuscripts-later/assets/3c9aab4affa928756faebf1f07e1498fa86d595977e514db4b32c688cc414ed9.png)——编者注
 
 [^v32c43-jz_2_501]: 马克思在手稿第1008页的下半页上，写满了与上述比例有关的数字计算。——编者注
 
@@ -4773,7 +4781,7 @@ C＝v+c；m是剩余价值；m′是剩余价值率；P′是利润率；
 
 [^v32c43-jz_1_508]: 
 
-![](../../checks/economic-manuscripts-later/assets/b6993096ee186591cbdb105e7d4e9cfac820749d627bb3281bb2c7d2e622ef38.png)在手稿中是![](../../checks/economic-manuscripts-later/assets/0a977235d2bf8b48b44ee06ffc4ac5bbd407ba76ce105ff1e6cd98d26c951786.png)。——编者注
+    ![](../../checks/economic-manuscripts-later/assets/b6993096ee186591cbdb105e7d4e9cfac820749d627bb3281bb2c7d2e622ef38.png)在手稿中是![](../../checks/economic-manuscripts-later/assets/0a977235d2bf8b48b44ee06ffc4ac5bbd407ba76ce105ff1e6cd98d26c951786.png)。——编者注
 
 [^v32c43-jz_2_508]: 手稿此处破损。——编者注
 
@@ -4801,7 +4809,7 @@ C＝v+c；m是剩余价值；m′是剩余价值率；P′是利润率；
 
 [^v32c43-jz_3_517]: 
 
-![](../../checks/economic-manuscripts-later/assets/a36bae8eab7367a6fa80f534169928431315d9944935eaf46559310e696b3211.png)在手稿中是![](../../checks/economic-manuscripts-later/assets/44f00100348b3e5ccd494e7937cd36189561a863da448f31467819b0f110035a.png)。——编者注
+    ![](../../checks/economic-manuscripts-later/assets/a36bae8eab7367a6fa80f534169928431315d9944935eaf46559310e696b3211.png)在手稿中是![](../../checks/economic-manuscripts-later/assets/44f00100348b3e5ccd494e7937cd36189561a863da448f31467819b0f110035a.png)。——编者注
 
 [^v32c43-jz_1_518]: 手稿此处破损。——编者注
 
