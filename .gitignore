@@ -1,0 +1,13 @@
+/collection/
+/.tmp/
+/.venv/
+/dist/
+/build/
+__pycache__/
+.pytest_cache/
+.pytest-tmp/
+*.py[cod]
+*.egg-info/
+*.db
+*.sqlite*
+*.log

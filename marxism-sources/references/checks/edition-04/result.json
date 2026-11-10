@@ -1,0 +1,570 @@
+{
+  "work_id": "poverty-of-philosophy",
+  "task": "版本核验、同卷电子文本全文交叉比较和定点人工复核；不直接改共享正文",
+  "input_file": "corpus-collection/works/poverty-of-philosophy.md",
+  "input_sha256": "065a7ea54ce3dcd47825ece51b4687e3f330ebf63accead47e25a235ba5161dd",
+  "edition_evidence": {
+    "recommended_display": "《马克思恩格斯全集》中文第1版第4卷，中共中央马克思恩格斯列宁斯大林著作编译局译，北京：人民出版社，1958年8月；具体印次未核。MIA中文网页整理本。",
+    "established": {
+      "publisher": "人民出版社",
+      "place": "北京",
+      "publication_date": "1958-08",
+      "edition_series": "中文第1版",
+      "volume": "第4卷",
+      "translator": "中共中央马克思恩格斯列宁斯大林著作编译局",
+      "original_work_language": "法文",
+      "work_date": "1847年上半年",
+      "first_publication": "1847年，巴黎和布鲁塞尔，单行本",
+      "book_pages": "71—198",
+      "body_pages": "75—198（71题页，72—74人物/初版封面图页）"
+    },
+    "evidence": [
+      {
+        "fact": "人民出版社，北京，1958.08；xvi,667页；书目ID022599832",
+        "source_file": "corpus-collection/checks/edition-04/ndl-022599832.html",
+        "url": "https://ndlsearch.ndl.go.jp/en/books/R100000002-I022599832"
+      },
+      {
+        "fact": "MIA目录归入中文第1版；对应me04.pdf",
+        "source_file": "corpus-collection/checks/edition-04/me-old.html",
+        "url": "https://www.marxists.org/chinese/pdf/me-old.htm"
+      },
+      {
+        "fact": "卷首说明：编译局根据俄文第二版并参考原著翻译；无中文出版版权页",
+        "source_file": "corpus-collection/checks/edition-04/me04.pdf",
+        "pdf_page": 4,
+        "png": "pdf-p4.png"
+      },
+      {
+        "fact": "译后记：编译局翻译；《哲学的贫困》译校参考何思敬1956人民出版社译本；不能因此把现有文本署为“何思敬译”",
+        "source_file": "corpus-collection/checks/edition-04/me04.pdf",
+        "book_page": 667,
+        "pdf_page": 687,
+        "png": "pdf-p687.png"
+      },
+      {
+        "fact": "题页：写作、初刊、法文原文、俄文本底本及参考版本信息",
+        "source_file": "corpus-collection/checks/edition-04/me04.pdf",
+        "book_page": 71,
+        "pdf_page": 91,
+        "png": "pdf-p91.png"
+      }
+    ],
+    "limitations": [
+      "PDF是S22PDF生成的电子重排版，非纸本扫描/影印；自身有转录错字，不是权威纸本逐字校对底本。",
+      "无中文版权页，具体版次/印次和印刷日期未知；馆藏出版年月不能等同于MIA电子本所据册的印次。",
+      "不把1896等外文底本年份与1958中文出版年混为一项。"
+    ]
+  },
+  "actual_checked_scope": {
+    "body": "完整纳入序言及两章（印刷75—198/PDF95—218）的规范化机器比较，含两表内容；人工读全部差异上下文并对关键差异页视觉复核。未进行逐字逐标点纸本校对。",
+    "body_normalized_characters": 72136,
+    "body_difference_hunks": 77,
+    "normalization": "去空白标点、统一全半角和其它/其他；PDF按脚注短线及字型大小分离正文；因此未覆盖标点、版式、其它/其他异体。",
+    "footnotes": "32条网页随文注全纳入电子交叉比较与显式署名核对；相同译者注在PDF页81合用①②标记，提取顺序及多注同页造成机器误报已识别。04-013-n14包含马克思原注与恩格斯补注，标签应纠正。",
+    "editorial_notes": "核对网页编者注37—74编号连续且正文引用存在；未完成38条编者注全文的同版逐字校对。定点查看注48（印刷603/PDF623），两电子文本共享“几句断”疑误，未默改。",
+    "visual_pages_inspected": [
+      4,
+      91,
+      95,
+      97,
+      101,
+      137,
+      138,
+      139,
+      144,
+      173,
+      179,
+      186,
+      187,
+      196,
+      623,
+      687
+    ],
+    "completeness_finding": "与同卷电子文本对比未发现整段/整节遗漏；此结论不等于纸本完整性认证。题图不作为作者文字正文。",
+    "no_shared_files_modified": true
+  },
+  "reliable_corrections": [
+    {
+      "old": "蒲鲁东行先生",
+      "new": "蒲鲁东先生",
+      "scope": "全文",
+      "expected_occurrences": 1,
+      "source_url": "https://www.marxists.org/chinese/pdf/marx-engels/me04.pdf",
+      "source_file": "corpus-collection/checks/edition-04/me04.pdf",
+      "book_page": [
+        119
+      ],
+      "pdf_page": [
+        139
+      ],
+      "reason": "网页多出“行”字，电子卷页119无此字，语法及人名均支持删除。",
+      "evidence_type": "同卷S22PDF电子重排文本交叉核对；非纸本影印证据",
+      "confidence": "high"
+    },
+    {
+      "old": "即已承认",
+      "new": "既已承认",
+      "scope": "全文",
+      "expected_occurrences": 1,
+      "source_url": "https://www.marxists.org/chinese/pdf/marx-engels/me04.pdf",
+      "source_file": "corpus-collection/checks/edition-04/me04.pdf",
+      "book_page": [
+        119
+      ],
+      "pdf_page": [
+        139
+      ],
+      "reason": "电子卷页119为“既已承认”，承接已经承认的前提；仅限此短语，不全局替换“即已”。",
+      "evidence_type": "同卷S22PDF电子重排文本交叉核对；非纸本影印证据",
+      "confidence": "high"
+    },
+    {
+      "old": "这个问题的推进一步",
+      "new": "这个问题推进一步",
+      "scope": "全文",
+      "expected_occurrences": 1,
+      "source_url": "https://www.marxists.org/chinese/pdf/marx-engels/me04.pdf",
+      "source_file": "corpus-collection/checks/edition-04/me04.pdf",
+      "book_page": [
+        124
+      ],
+      "pdf_page": [
+        144
+      ],
+      "reason": "电子卷页124为“这个问题推进一步”；网页多“的”造成语法断裂。",
+      "evidence_type": "同卷S22PDF电子重排文本交叉核对；非纸本影印证据",
+      "confidence": "high"
+    },
+    {
+      "old": "重新变成从前那一个马克的这两个马克的这两个马克的价值",
+      "new": "重新变成从前那一个马克的这两个马克的价值",
+      "scope": "全文",
+      "expected_occurrences": 1,
+      "source_url": "https://www.marxists.org/chinese/pdf/marx-engels/me04.pdf",
+      "source_file": "corpus-collection/checks/edition-04/me04.pdf",
+      "book_page": [
+        124
+      ],
+      "pdf_page": [
+        144
+      ],
+      "reason": "网页重复“个马克的这两”；电子卷页124及上下文的两个半马克重新合为一个马克支持删除重复串。",
+      "evidence_type": "同卷S22PDF电子重排文本交叉核对；非纸本影印证据",
+      "confidence": "high"
+    },
+    {
+      "old": "分字应当解决的任务来解释",
+      "new": "“分”字来解释",
+      "scope": "全文",
+      "expected_occurrences": 1,
+      "source_url": "https://www.marxists.org/chinese/pdf/marx-engels/me04.pdf",
+      "source_file": "corpus-collection/checks/edition-04/me04.pdf",
+      "book_page": [
+        159
+      ],
+      "pdf_page": [
+        179
+      ],
+      "reason": "网页把上方分工表的栏目标题“应当解决的任务”误接到下一段；电子卷页159清楚分开。补回“分”的引号。",
+      "evidence_type": "同卷S22PDF电子重排文本交叉核对；非纸本影印证据",
+      "confidence": "high"
+    },
+    {
+      "old": "在解释一个事实添加",
+      "new": "在解释一个事实时添加",
+      "scope": "全文",
+      "expected_occurrences": 1,
+      "source_url": "https://www.marxists.org/chinese/pdf/marx-engels/me04.pdf",
+      "source_file": "corpus-collection/checks/edition-04/me04.pdf",
+      "book_page": [
+        121
+      ],
+      "pdf_page": [
+        141
+      ],
+      "reason": "电子卷页121有“时”；网页漏字使时间从句不完整。",
+      "evidence_type": "同卷S22PDF电子重排文本交叉核对；非纸本影印证据",
+      "confidence": "high"
+    },
+    {
+      "old": "生产数据",
+      "new": "生产资料",
+      "scope": "全文",
+      "expected_occurrences": 4,
+      "source_url": "https://www.marxists.org/chinese/pdf/marx-engels/me04.pdf",
+      "source_file": "corpus-collection/checks/edition-04/me04.pdf",
+      "book_page": [
+        153,
+        176
+      ],
+      "pdf_page": [
+        173,
+        196
+      ],
+      "reason": "网页4处误为数据；电子卷3处在页153、1处在页176均为资料，所指为生产资料，并与上下文原料/工具相合。",
+      "evidence_type": "同卷S22PDF电子重排文本交叉核对；非纸本影印证据",
+      "confidence": "high"
+    },
+    {
+      "old": "扎伊尔",
+      "new": "萨伊",
+      "scope": "全文",
+      "expected_occurrences": 11,
+      "source_url": "https://www.marxists.org/chinese/pdf/marx-engels/me04.pdf",
+      "source_file": "corpus-collection/checks/edition-04/me04.pdf",
+      "book_page": [
+        81,
+        89,
+        100,
+        125,
+        126,
+        160
+      ],
+      "pdf_page": [
+        101,
+        109,
+        120,
+        145,
+        146,
+        180
+      ],
+      "reason": "网页11处把经济学家让·巴·萨伊写成扎伊尔；同卷电子文本均为萨伊，网页自带编者注40、53也明确使用萨尔/Say，均指Jean-Baptiste Say。此处按当前同卷电子文本作人名修正，不引入其他译本段落。",
+      "evidence_type": "同卷S22PDF电子重排文本交叉核对；非纸本影印证据",
+      "confidence": "high"
+    },
+    {
+      "old": "工厂手工业",
+      "new": "工场手工业",
+      "scope": "全文",
+      "expected_occurrences": 13,
+      "source_url": "https://www.marxists.org/chinese/pdf/marx-engels/me04.pdf",
+      "source_file": "corpus-collection/checks/edition-04/me04.pdf",
+      "book_page": [
+        159,
+        161,
+        166,
+        167,
+        170
+      ],
+      "pdf_page": [
+        179,
+        181,
+        186,
+        187,
+        190
+      ],
+      "reason": "网页13处；同卷电子文本均为工场手工业，且此处讨论manufactory在大机器工业之前的发展。必须与同段现代工厂区分。",
+      "evidence_type": "同卷S22PDF电子重排文本交叉核对；非纸本影印证据",
+      "confidence": "high"
+    },
+    {
+      "old": "工厂劳动同农业劳动",
+      "new": "工场劳动同农业劳动",
+      "scope": "全文",
+      "expected_occurrences": 1,
+      "source_url": "https://www.marxists.org/chinese/pdf/marx-engels/me04.pdf",
+      "source_file": "corpus-collection/checks/edition-04/me04.pdf",
+      "book_page": [
+        168
+      ],
+      "pdf_page": [
+        188
+      ],
+      "reason": "同卷页168为工场劳动；与前后工场手工业语境一致。",
+      "evidence_type": "同卷S22PDF电子重排文本交叉核对；非纸本影印证据",
+      "confidence": "high"
+    },
+    {
+      "old": "这批拥护者对他们也永远失去了兴趣",
+      "new": "这批拥护者对它们也永远失去了兴趣",
+      "scope": "随文注04-013-n14",
+      "expected_occurrences": 1,
+      "source_url": "https://www.marxists.org/chinese/pdf/marx-engels/me04.pdf",
+      "source_file": "corpus-collection/checks/edition-04/me04.pdf",
+      "book_page": [
+        118
+      ],
+      "pdf_page": [
+        138
+      ],
+      "reason": "指前文劳动产品交换所，电子卷为“它们”；仅改代词，未照录PDF多出的“就”。",
+      "evidence_type": "同卷S22PDF电子重排文本交叉核对；非纸本影印证据",
+      "confidence": "high"
+    },
+    {
+      "old": "蒲鲁东先生可要注意这个敬告",
+      "new": "蒲鲁东先生可要注意这个警告",
+      "scope": "随文注04-013-n14",
+      "expected_occurrences": 1,
+      "source_url": "https://www.marxists.org/chinese/pdf/marx-engels/me04.pdf",
+      "source_file": "corpus-collection/checks/edition-04/me04.pdf",
+      "book_page": [
+        118
+      ],
+      "pdf_page": [
+        138
+      ],
+      "reason": "同卷电子页118为警告，下一句“没有接受这个警告”亦呼应。",
+      "evidence_type": "同卷S22PDF电子重排文本交叉核对；非纸本影印证据",
+      "confidence": "high"
+    },
+    {
+      "old": "**恩格斯增注（按原署名）**",
+      "new": "**马克思原注及恩格斯补注（各段按原署名）**",
+      "scope": "随文注04-013-n14 标签",
+      "expected_occurrences": 1,
+      "source_url": "https://www.marxists.org/chinese/pdf/marx-engels/me04.pdf",
+      "source_file": "corpus-collection/checks/edition-04/me04.pdf",
+      "book_page": [
+        117,
+        118
+      ],
+      "pdf_page": [
+        137,
+        138
+      ],
+      "reason": "04-013-n14第一段结尾明确署“马克思原注”，第二段才是恩格斯1885年补注，整体只标恩格斯会误认作者。应保留一个随文注编号、分段署名；不要拆正文或丢失任一段。",
+      "evidence_type": "同卷S22PDF电子重排文本交叉核对；非纸本影印证据",
+      "confidence": "high"
+    }
+  ],
+  "unresolved_questions": [
+    {
+      "issue": "未找到可靠中文版权页/真实纸本影印原件；具体印次未知。",
+      "action": "保留明确未知，不阻塞基本出版社和出版年月补录。"
+    },
+    {
+      "issue": "两电子文本共享“对于这第二版，我只想说几句断”疑误。",
+      "source_url": "https://www.marxists.org/chinese/pdf/marx-engels/me04.pdf",
+      "source_file": "corpus-collection/checks/edition-04/me04.pdf",
+      "book_page": 603,
+      "pdf_page": 623,
+      "action": "暂不改，待纸本或独立同版证据；不能因两电子本一致就认证正确。"
+    },
+    {
+      "issue": "剩余非机械异文：藉/借、协议/协定、传给/传给了、占/占居、智能/智慧、指针/指标、支持/支援，以及菲力蒲/菲利普/菲力浦等译名差异。",
+      "action": "不按电子PDF自动替换，等同版纸本；详情machine-differences.json。"
+    },
+    {
+      "issue": "PDF自身明显错字：已经→已解、疏忽→蔬忽、最有效用→量有效用、time→tine、探寻→深寻、经济学家→经该学家、他就→他说、童工→重工、痉挛→痉攀、占有者→占有考、感到→或到、引起→引建、币名→带名。",
+      "action": "保留网页较合理写法；这些反例证明不能OCR/电子文字自动覆盖。"
+    },
+    {
+      "issue": "括号/括弧、其它/其他和标点变化不影响当前署名或理论语义，但未逐项纸本核对。",
+      "action": "保留网页文字。"
+    }
+  ],
+  "references": [
+    {
+      "url": "https://www.marxists.org/chinese/pdf/marx-engels/me04.pdf",
+      "path": "corpus-collection/checks/edition-04/me04.pdf",
+      "sha256": "2d432639768bf1ece2d99a66fb55920ec48932923ffe5dcc612d7c280a7f7d08",
+      "bytes": 3693390,
+      "type": "同卷电子重排版"
+    },
+    {
+      "url": "https://ndlsearch.ndl.go.jp/en/books/R100000002-I022599832",
+      "path": "corpus-collection/checks/edition-04/ndl-022599832.html",
+      "sha256": "02385e0a31a1700022f0942bd7e4bd58fff1c36477c741cab83064797fe20391",
+      "bytes": 176816,
+      "type": "权威馆藏书目"
+    },
+    {
+      "url": "https://www.marxists.org/chinese/pdf/me-old.htm",
+      "path": "corpus-collection/checks/edition-04/me-old.html",
+      "sha256": "fe1992627f84da36c99752d1f9ceb8536adedfadcfaed6811e90a1c88fa30601",
+      "bytes": 9403,
+      "type": "MIA第一版PDF来源目录"
+    }
+  ],
+  "machine_diff_file": "corpus-collection/checks/edition-04/machine-differences.json",
+  "reproducible_comparison_script": "corpus-collection/checks/edition-04/compare.py",
+  "png_evidence": [
+    {
+      "file": "pdf-p101.png",
+      "pdf_page": 101,
+      "sha256": "146aef86b082dcbab9efb3036822a5eec89ef8a3bcc649d71f3383b84915d663"
+    },
+    {
+      "file": "pdf-p109.png",
+      "pdf_page": 109,
+      "sha256": "53c0e6c9de154a1a1502ba78ce8221e2e766bbcf1418e31a0deacef9e44beb49"
+    },
+    {
+      "file": "pdf-p120.png",
+      "pdf_page": 120,
+      "sha256": "98efc51ef3dac42472d3b2ca1aa2e17b27505f4c0fb17b60b572420f12e856ca"
+    },
+    {
+      "file": "pdf-p136.png",
+      "pdf_page": 136,
+      "sha256": "8ab58a3f4664c60cb11842b9bfd67e8096f1ee24926f7c4f2f55019677aa2690"
+    },
+    {
+      "file": "pdf-p137.png",
+      "pdf_page": 137,
+      "sha256": "1df69a53036b30880b32c051c90bd72e80bdcce4eb5387b140daf192888ac62b"
+    },
+    {
+      "file": "pdf-p138.png",
+      "pdf_page": 138,
+      "sha256": "b6fdd5411722953468708fe2ad51128aaf0977eca10d04d4570939eee7fd4591"
+    },
+    {
+      "file": "pdf-p139.png",
+      "pdf_page": 139,
+      "sha256": "77e88fa8ea2cd54677bcc1df1e13cc5b21e858db6c997363f343099cc14c7777"
+    },
+    {
+      "file": "pdf-p140.png",
+      "pdf_page": 140,
+      "sha256": "de471a01f8efc7e9deeec36cff73c2680fcf4fcb25360fe6bc73ca454df5dfa6"
+    },
+    {
+      "file": "pdf-p141.png",
+      "pdf_page": 141,
+      "sha256": "98d1905b8575b4036f2943a5c4ac3d8a470046b12bd307eb1c0537149136225c"
+    },
+    {
+      "file": "pdf-p144.png",
+      "pdf_page": 144,
+      "sha256": "f517064eb91caf36f4ecbc41cffb2426c0677ad40fdd0b6e3c57eb95e8214c0b"
+    },
+    {
+      "file": "pdf-p145.png",
+      "pdf_page": 145,
+      "sha256": "6bbe2a76dfe9a96c10bea1305a0bfa54f808fc31bf877acefc4930d535908999"
+    },
+    {
+      "file": "pdf-p146.png",
+      "pdf_page": 146,
+      "sha256": "b8dcd686f969a89f9e6cd9f3f6b132f77a0a3dd08c8a00bf9e83c417a1252a12"
+    },
+    {
+      "file": "pdf-p167.png",
+      "pdf_page": 167,
+      "sha256": "4dfed06c6f0cd1412b9a441e79580d6df6760bb7382e66981d5dfad0d5d73e21"
+    },
+    {
+      "file": "pdf-p173.png",
+      "pdf_page": 173,
+      "sha256": "d115136699e45812613f9567b671a8510577a0abf5c878bb148baf514422c0b6"
+    },
+    {
+      "file": "pdf-p178.png",
+      "pdf_page": 178,
+      "sha256": "cf64c9ebee7dff34cf50637e6a8ef1f3bf6266213b07a47ce57af5b7800e2eb2"
+    },
+    {
+      "file": "pdf-p179.png",
+      "pdf_page": 179,
+      "sha256": "835571cb456761699ab54312e7581dc35b5b025b2607fd35e9b0b0ea2057abc8"
+    },
+    {
+      "file": "pdf-p180.png",
+      "pdf_page": 180,
+      "sha256": "e08ea8fd540faac4a00c158c259e9853d130dc1caee56df4c841ddb3f14c33ed"
+    },
+    {
+      "file": "pdf-p181.png",
+      "pdf_page": 181,
+      "sha256": "813d104ab04a8b1bd574524c2d183aa1b03dae16ca42906245eafadbd1c4764c"
+    },
+    {
+      "file": "pdf-p186.png",
+      "pdf_page": 186,
+      "sha256": "70e084347f4736b1da58b3ea862e1a0138a9d160ec2d7930702e01cf1ba9a403"
+    },
+    {
+      "file": "pdf-p187.png",
+      "pdf_page": 187,
+      "sha256": "82d9d28eac22ad32a020e3ca77c9eb5c10c0f6b8b3f64eab38ea69092fcedae9"
+    },
+    {
+      "file": "pdf-p188.png",
+      "pdf_page": 188,
+      "sha256": "8d7932c994d38413ccd5a82c24ea31326184b4d7c08c8542eb79473cd5226547"
+    },
+    {
+      "file": "pdf-p190.png",
+      "pdf_page": 190,
+      "sha256": "00232d4fca8485405ea5ebc4d3f89d3c88d11bfeaa2cc895895b9d55c8c68eaf"
+    },
+    {
+      "file": "pdf-p195.png",
+      "pdf_page": 195,
+      "sha256": "b65887dd75e6447780aadf04a26b5039340a07396100f2ceb768ba5c97b0ef88"
+    },
+    {
+      "file": "pdf-p196.png",
+      "pdf_page": 196,
+      "sha256": "335404411fd49b38643e676fef92d084eb14e2e7842ae74b87eed47e695b88f4"
+    },
+    {
+      "file": "pdf-p201.png",
+      "pdf_page": 201,
+      "sha256": "96dfa180d0edae6b4ca6a98bb9e50ae20653632bab02d40922e6117f87e87f3b"
+    },
+    {
+      "file": "pdf-p207.png",
+      "pdf_page": 207,
+      "sha256": "93565c8a4b9f5b93c25e0638148e53802fdcfe0998dbed0396291bd36ed69886"
+    },
+    {
+      "file": "pdf-p216.png",
+      "pdf_page": 216,
+      "sha256": "6c68892c8520f94d5928b1cb3c4536af4b7e22a9662d2a57ce05db54d82a2e76"
+    },
+    {
+      "file": "pdf-p217.png",
+      "pdf_page": 217,
+      "sha256": "0c1b835ff0dac4aac97af02f449353cd814622e09a4ed2d39cc43cafc04d7c10"
+    },
+    {
+      "file": "pdf-p218.png",
+      "pdf_page": 218,
+      "sha256": "5e608141b993a854b3513b29f88393cc4f11b46d47c06b3f0475364cf40d70af"
+    },
+    {
+      "file": "pdf-p3.png",
+      "pdf_page": 3,
+      "sha256": "274e04d1c8838ad8775d23434e7d053297ebd7202eaf67a9a59b307aef5690d9"
+    },
+    {
+      "file": "pdf-p4.png",
+      "pdf_page": 4,
+      "sha256": "522553261bf4467a6af9cc99a079c4295cf936b76ffae25144cf929f2e3a9a0c"
+    },
+    {
+      "file": "pdf-p6.png",
+      "pdf_page": 6,
+      "sha256": "47b185ba731f502c65804335cacebb78422c7f14c58a36916c4066d8b68db89a"
+    },
+    {
+      "file": "pdf-p623.png",
+      "pdf_page": 623,
+      "sha256": "effc5c1f8c618c619bf2a093c71165abaee8fe6522739c69c2e4dc42feb4b6f6"
+    },
+    {
+      "file": "pdf-p687.png",
+      "pdf_page": 687,
+      "sha256": "0bbb60dbba1b08631f20d4bf7ec5c3b25a551e38a52b910515b29731ab3154e5"
+    },
+    {
+      "file": "pdf-p91.png",
+      "pdf_page": 91,
+      "sha256": "f9570f0e6a0f15ee7005d3f6132d26f14630784c39cda8c0904117cece617ef2"
+    },
+    {
+      "file": "pdf-p95.png",
+      "pdf_page": 95,
+      "sha256": "eb37f247d89bf2dfca1d11716aa61e8291ce7d896dbff56809407e9dbb73c6d1"
+    },
+    {
+      "file": "pdf-p97.png",
+      "pdf_page": 97,
+      "sha256": "3745a870dcccb86027d941402688b0a1e7aa2a8440b05451d30bb341869eacb8"
+    }
+  ]
+}

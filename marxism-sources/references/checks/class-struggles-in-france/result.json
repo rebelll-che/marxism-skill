@@ -1,0 +1,739 @@
+{
+  "work_id": "class-struggles-in-france",
+  "date": "2026-10-28",
+  "source_check": {
+    "status": "passed_with_localized_transcription_corrections",
+    "scope": "《马克思恩格斯文集》第2卷（2009年12月第1版）第77—187页；题页、开篇、四章正文、26条随文注、正文引用的卷末编者注、出版说明与两幅书影。",
+    "edition_evidence": {
+      "pdf_page": 5,
+      "book": "马克思恩格斯文集 第二卷",
+      "publisher": "人民出版社",
+      "edition": "2009年12月第1版、第1次印刷",
+      "isbn": "978-7-01-008456-5",
+      "compiler": "中共中央马克思恩格斯列宁斯大林著作编译局"
+    },
+    "source_selection": "以MIA同版网页04.htm为可提取文本基础，以既存同版扫描PDF核实目录、篇章首尾、关键命题、注号及识别疑点；二者可能同源，不声称两套独立全文。网页保存原字节，扫描PDF不修改、不冒认下载URL。",
+    "directory_check": {
+      "pdf_page": 9,
+      "web": "index.html",
+      "chapters": [
+        {
+          "heading": "一 1848年的六月失败",
+          "book_page": 80,
+          "pdf_page": 102
+        },
+        {
+          "heading": "二 1849年6月13日",
+          "book_page": 106,
+          "pdf_page": 128
+        },
+        {
+          "heading": "三 1849年六月十三日事件的后果",
+          "book_page": 138,
+          "pdf_page": 160
+        },
+        {
+          "heading": "四 1850年普选权的废除",
+          "book_page": 173,
+          "pdf_page": 195
+        }
+      ]
+    },
+    "boundary_check": {
+      "start_pdf_page": 101,
+      "start": "除了很少几章之外",
+      "end_pdf_page": 210,
+      "end": "他们的钱财都落到交易所大豺狼的腰包里去了。",
+      "next_work_pdf_page": 211,
+      "next_work": "共产主义者同盟中央委员会告同盟书"
+    },
+    "authorship": "题注56与第173页明确：第四章由恩格斯编入，章首括号内引言由恩格斯为1895年版所写；26条随文注保留编者署名及其所引恩格斯增注。恩格斯独作全书导言收于文集第4卷，不在本稿中。",
+    "images": [
+      {
+        "pdf_page": 100,
+        "book_position": "78—79页之间",
+        "caption": "载有《1848年至1850年的法兰西阶级斗争》部分内容的《新莱茵报·政治经济评论》"
+      },
+      {
+        "pdf_page": 209,
+        "book_position": "186—187页之间",
+        "caption": "1942年延安解放社出版的《1848年至1850年的法兰西阶级斗争》中译本"
+      }
+    ],
+    "limitations": [
+      "本地PDF原下载URL未知。",
+      "网页及PDF文字层可能共享OCR错误，不以彼此一致证明逐字无误。",
+      "按基本可靠全文标准核验，不是逐字学术校勘；局部OCR修正另列。",
+      "未进入应用语料包。"
+    ],
+    "evidence": [
+      "pdf-005.png",
+      "pdf-009.png",
+      "pdf-100.png",
+      "pdf-101.png",
+      "pdf-102.png",
+      "pdf-128.png",
+      "pdf-160.png",
+      "pdf-188.png",
+      "pdf-195.png",
+      "pdf-209.png",
+      "pdf-210.png",
+      "pdf-738.png",
+      "pdf-739.png"
+    ]
+  },
+  "conversion_check": {
+    "status": "passed_with_limits",
+    "body_matches_saved_html_after_listed_corrections": true,
+    "inline_notes_checked": 26,
+    "volume_notes_checked": 78,
+    "definitions": 104,
+    "references": 143,
+    "unresolved_footnote_links": 0,
+    "chapter_count": 4,
+    "image_count": 2,
+    "replacement_character_count": 0,
+    "pdf_text_pages_aligned": 108,
+    "min_alignment_ratio": 0.9825,
+    "correction_groups": 44,
+    "correction_occurrences": 46,
+    "tables": "网页仅一个出版说明排版表，已保留全部内容；正文无数据表。",
+    "limitations": [
+      "仍可能存在少量未抽查出的OCR错字或标点。",
+      "没有逐页人工审校或逐字零误保证。",
+      "原书书影以原图保留，图中文字未另作全文识别。"
+    ]
+  },
+  "sources": [
+    {
+      "role": "index",
+      "url": "https://www.marxists.org/chinese/marx-engels2/02/index.htm",
+      "path": "checks/class-struggles-in-france/index.html",
+      "sha256": "110c5b079f3f2da17a77b6ae5107c5b9ef7876d1435c612accb43aaf78d937de",
+      "bytes": 16330,
+      "usage": "directory_check"
+    },
+    {
+      "role": "body",
+      "url": "https://www.marxists.org/chinese/marx-engels2/02/04.htm",
+      "path": "checks/class-struggles-in-france/body.html",
+      "sha256": "0f19acd949a5e39c6529d3bbff476397b1ca3154f6c38fb0d4088dbe70166de6",
+      "bytes": 157476,
+      "usage": "selected_source"
+    },
+    {
+      "role": "notes",
+      "url": "https://www.marxists.org/chinese/marx-engels2/02/26.htm",
+      "path": "checks/class-struggles-in-france/notes.html",
+      "sha256": "b8423af4e946eb4305fb54d63c7abf07ff9dc4e169bf76d8ec5950c381b71965",
+      "bytes": 165197,
+      "usage": "selected_source"
+    },
+    {
+      "role": "bibliography",
+      "url": "https://liblsp.neau.edu.cn/mspace/searchDetailLocal/mbc0a7f8a2f4250285f3497f0a177efaa",
+      "path": "checks/class-struggles-in-france/bibliography.html",
+      "sha256": "2b08254dced91d19afe41c72895b72647ccdd8e0dfcc15e2fd65384ce290c122",
+      "bytes": 3263,
+      "usage": "discovery_only_not_edition_basis"
+    },
+    {
+      "role": "same_edition_scanned_source",
+      "url": null,
+      "original_download_url_status": "unknown",
+      "path": "../corpus-package/originals/volume-2/20e58cee32f55bc90be0f8feebb8569d59026ba0591f88f5ff117632f504affd.pdf",
+      "sha256": "20e58cee32f55bc90be0f8feebb8569d59026ba0591f88f5ff117632f504affd",
+      "usage": "edition_scope_and_visual_correction_evidence"
+    }
+  ],
+  "work": {
+    "path": "works/class-struggles-in-france.md",
+    "sha256": "28d0ba6da3d7285b13c9d4df2d07e63217c712962e43cf3f4906e9429395fb42",
+    "bytes": 263905,
+    "characters": 94205
+  },
+  "corrections": [
+    {
+      "area": "body",
+      "note": null,
+      "old": "平衡昵",
+      "new": "平衡呢",
+      "count": 1,
+      "pdf_page": 103,
+      "book_page": 81,
+      "reason": "扫描原页为“呢”。",
+      "evidence": "pdf-103.png"
+    },
+    {
+      "area": "body",
+      "note": null,
+      "old": "背日的达官贵人",
+      "new": "昔日的达官贵人",
+      "count": 1,
+      "pdf_page": 112,
+      "book_page": 90,
+      "reason": "扫描原页为“昔日”。",
+      "evidence": "pdf-112.png"
+    },
+    {
+      "area": "body",
+      "note": null,
+      "old": "革命运动的结品",
+      "new": "革命运动的结晶",
+      "count": 1,
+      "pdf_page": 146,
+      "book_page": 124,
+      "reason": "扫描原页为“结晶”。",
+      "evidence": "pdf-146.png"
+    },
+    {
+      "area": "body",
+      "note": null,
+      "old": "虽然元政府派",
+      "new": "虽然无政府派",
+      "count": 1,
+      "pdf_page": 187,
+      "book_page": 165,
+      "reason": "扫描原页为“无政府派”。",
+      "evidence": "pdf-187.png"
+    },
+    {
+      "area": "body",
+      "note": null,
+      "old": "不会重演了自",
+      "new": "不会重演了；",
+      "count": 1,
+      "pdf_page": 192,
+      "book_page": 170,
+      "reason": "扫描原页为分号。",
+      "evidence": "pdf-192.png"
+    },
+    {
+      "area": "body",
+      "note": null,
+      "old": "[^v2-174]",
+      "new": "[^v2-114]",
+      "count": 1,
+      "pdf_page": 193,
+      "book_page": 171,
+      "reason": "科布伦茨原页注号为114，174属于另一篇的鞭笞派注。",
+      "evidence": "pdf-193.png"
+    },
+    {
+      "area": "body",
+      "note": null,
+      "old": "自己的1848年至1850年的法兰西阶级斗争青春活力",
+      "new": "自己的青春活力",
+      "count": 1,
+      "pdf_page": 194,
+      "book_page": 172,
+      "reason": "删除混入句中的页眉，纸页171—172正文在“自己的／青春活力”相接。",
+      "evidence": "pdf-194.png"
+    },
+    {
+      "area": "body",
+      "note": null,
+      "old": "（1492万英镑 ）01849",
+      "new": "（1492万英镑）。1849",
+      "count": 1,
+      "pdf_page": 196,
+      "book_page": 174,
+      "reason": "扫描页174为句号，不是数字0。",
+      "evidence": "pdf-196.png"
+    },
+    {
+      "area": "body",
+      "note": null,
+      "old": "英雄甲胃",
+      "new": "英雄甲胄",
+      "count": 1,
+      "pdf_page": 199,
+      "book_page": 177,
+      "reason": "扫描原页为“甲胄”。",
+      "evidence": "pdf-199.png"
+    },
+    {
+      "area": "body",
+      "note": null,
+      "old": "自己的愧偏",
+      "new": "自己的傀儡",
+      "count": 1,
+      "pdf_page": 206,
+      "book_page": 184,
+      "reason": "扫描原页为“傀儡”。",
+      "evidence": "pdf-206.png"
+    },
+    {
+      "area": "body",
+      "note": null,
+      "old": "交易所大街狼",
+      "new": "交易所大豺狼",
+      "count": 1,
+      "pdf_page": 210,
+      "book_page": 187,
+      "reason": "扫描原页末句为“大豺狼”。",
+      "evidence": "pdf-210.png"
+    },
+    {
+      "area": "body",
+      "note": null,
+      "old": "议员，105而",
+      "new": "议员，[^v2-105]而",
+      "count": 1,
+      "pdf_page": 183,
+      "book_page": 161,
+      "reason": "原页105为上标卷末注号，恢复落点。",
+      "evidence": "pdf-183.png"
+    },
+    {
+      "area": "body",
+      "note": null,
+      "old": "自由贸易派109",
+      "new": "自由贸易派[^v2-109]",
+      "count": 1,
+      "pdf_page": 187,
+      "book_page": 165,
+      "reason": "原页109为上标卷末注号，恢复落点。",
+      "evidence": "pdf-187.png"
+    },
+    {
+      "area": "body",
+      "note": null,
+      "old": "伏尔泰主义87",
+      "new": "伏尔泰主义[^v2-87]",
+      "count": 1,
+      "pdf_page": 187,
+      "book_page": 165,
+      "reason": "原页87为上标卷末注号，恢复落点。",
+      "evidence": "pdf-187.png"
+    },
+    {
+      "area": "inline",
+      "note": 3,
+      "old": "I1月底",
+      "new": "1月底",
+      "count": 1,
+      "pdf_page": 105,
+      "book_page": 83,
+      "reason": "扫描原页为1月底。",
+      "evidence": "pdf-105.png"
+    },
+    {
+      "area": "inline",
+      "note": 7,
+      "old": "《六月革命}）《（马克思恩格斯全集》",
+      "new": "《六月革命》（《马克思恩格斯全集》",
+      "count": 1,
+      "pdf_page": 125,
+      "book_page": 103,
+      "reason": "按扫描原页恢复书名号及括号。",
+      "evidence": "pdf-125.png"
+    },
+    {
+      "area": "metadata",
+      "note": null,
+      "old": "1849年底1850年3月底",
+      "new": "1849年底―1850年3月底",
+      "count": 1,
+      "pdf_page": 210,
+      "book_page": 187,
+      "reason": "扫描原页写作日期有破折号，网页漏失。",
+      "evidence": "pdf-210.png"
+    },
+    {
+      "area": "notes",
+      "note": 56,
+      "old": "必然的过搜阶段",
+      "new": "必然的过渡阶段",
+      "count": 1,
+      "pdf_page": 738,
+      "book_page": 711,
+      "reason": "扫描原页711及正文166均为“过渡”。",
+      "evidence": "pdf-738.png"
+    },
+    {
+      "area": "notes",
+      "note": 56,
+      "old": "《1848年的六月失败队",
+      "new": "《1848年的六月失败》",
+      "count": 2,
+      "pdf_page": 739,
+      "book_page": 712,
+      "reason": "扫描原页两处均为闭书名号。",
+      "evidence": "pdf-739.png"
+    },
+    {
+      "area": "notes",
+      "note": 56,
+      "old": "、”月13日在大陆上产生的后果》",
+      "new": "、《6月13日在大陆上产生的后果》",
+      "count": 1,
+      "pdf_page": 739,
+      "book_page": 712,
+      "reason": "按扫描原页712恢复篇名起首。",
+      "evidence": "pdf-739.png"
+    },
+    {
+      "area": "notes",
+      "note": 56,
+      "old": "《1848年至1849年儿",
+      "new": "《1848年至1849年》。",
+      "count": 1,
+      "pdf_page": 739,
+      "book_page": 712,
+      "reason": "扫描原页712为闭书名号和句号。",
+      "evidence": "pdf-739.png"
+    },
+    {
+      "area": "notes",
+      "note": 56,
+      "old": "《从1849年6月13日到1850年3月10日》在本卷中",
+      "new": "《从1849年6月13日到1850年3月10日》。在本卷中",
+      "count": 1,
+      "pdf_page": 739,
+      "book_page": 712,
+      "reason": "扫描原页712有句号。",
+      "evidence": "pdf-739.png"
+    },
+    {
+      "area": "notes",
+      "note": 56,
+      "old": "书名为《法兰西阶级斗争》——77",
+      "new": "书名为《法兰西阶级斗争》。——77",
+      "count": 1,
+      "pdf_page": 739,
+      "book_page": 712,
+      "reason": "扫描原页712有句号。",
+      "evidence": "pdf-739.png"
+    },
+    {
+      "area": "notes",
+      "note": 5,
+      "old": "枫丹自露",
+      "new": "枫丹白露",
+      "count": 1,
+      "pdf_page": 725,
+      "book_page": 698,
+      "reason": "逐处回看同版扫描原页后修复网页OCR，未引入其他版本。",
+      "evidence": "pdf-725.png"
+    },
+    {
+      "area": "notes",
+      "note": 37,
+      "old": "第lO卷",
+      "new": "第10卷",
+      "count": 1,
+      "pdf_page": 733,
+      "book_page": 706,
+      "reason": "逐处回看同版扫描原页后修复网页OCR，未引入其他版本。",
+      "evidence": "pdf-733.png"
+    },
+    {
+      "area": "notes",
+      "note": 45,
+      "old": "封建摇役",
+      "new": "封建徭役",
+      "count": 1,
+      "pdf_page": 735,
+      "book_page": 708,
+      "reason": "逐处回看同版扫描原页后修复网页OCR，未引入其他版本。",
+      "evidence": "pdf-735.png"
+    },
+    {
+      "area": "notes",
+      "note": 49,
+      "old": "国民今会",
+      "new": "国民公会",
+      "count": 1,
+      "pdf_page": 736,
+      "book_page": 709,
+      "reason": "逐处回看同版扫描原页后修复网页OCR，未引入其他版本。",
+      "evidence": "pdf-736.png"
+    },
+    {
+      "area": "notes",
+      "note": 61,
+      "old": "巴勒真起义",
+      "new": "巴勒莫起义",
+      "count": 1,
+      "pdf_page": 741,
+      "book_page": 714,
+      "reason": "逐处回看同版扫描原页后修复网页OCR，未引入其他版本。",
+      "evidence": "pdf-741.png"
+    },
+    {
+      "area": "notes",
+      "note": 63,
+      "old": "以及43—437页",
+      "new": "以及430—437页",
+      "count": 1,
+      "pdf_page": 742,
+      "book_page": 715,
+      "reason": "逐处回看同版扫描原页后修复网页OCR，未引入其他版本。",
+      "evidence": "pdf-742.png"
+    },
+    {
+      "area": "notes",
+      "note": 64,
+      "old": "领导人进人了",
+      "new": "领导人进入了",
+      "count": 1,
+      "pdf_page": 742,
+      "book_page": 715,
+      "reason": "逐处回看同版扫描原页后修复网页OCR，未引入其他版本。",
+      "evidence": "pdf-742.png"
+    },
+    {
+      "area": "notes",
+      "note": 66,
+      "old": "国‘旗",
+      "new": "国旗",
+      "count": 1,
+      "pdf_page": 742,
+      "book_page": 715,
+      "reason": "逐处回看同版扫描原页后修复网页OCR，未引入其他版本。",
+      "evidence": "pdf-742.png"
+    },
+    {
+      "area": "notes",
+      "note": 66,
+      "old": "红色的旗缘",
+      "new": "红色的旗绦",
+      "count": 1,
+      "pdf_page": 742,
+      "book_page": 715,
+      "reason": "逐处回看同版扫描原页后修复网页OCR，未引入其他版本。",
+      "evidence": "pdf-742.png"
+    },
+    {
+      "area": "notes",
+      "note": 74,
+      "old": "必须人所",
+      "new": "必须入所",
+      "count": 1,
+      "pdf_page": 743,
+      "book_page": 716,
+      "reason": "逐处回看同版扫描原页后修复网页OCR，未引入其他版本。",
+      "evidence": "pdf-743.png"
+    },
+    {
+      "area": "notes",
+      "note": 74,
+      "old": "制度—与",
+      "new": "制度与",
+      "count": 1,
+      "pdf_page": 744,
+      "book_page": 717,
+      "reason": "逐处回看同版扫描原页后修复网页OCR，未引入其他版本。",
+      "evidence": "pdf-744.png"
+    },
+    {
+      "area": "notes",
+      "note": 74,
+      "old": "无产者的巴土底狱",
+      "new": "无产者的巴士底狱",
+      "count": 1,
+      "pdf_page": 744,
+      "book_page": 717,
+      "reason": "逐处回看同版扫描原页后修复网页OCR，未引入其他版本。",
+      "evidence": "pdf-744.png"
+    },
+    {
+      "area": "notes",
+      "note": 81,
+      "old": "该报又称新山岳党",
+      "new": "该派又称新山岳党",
+      "count": 1,
+      "pdf_page": 745,
+      "book_page": 718,
+      "reason": "逐处回看同版扫描原页后修复网页OCR，未引入其他版本。",
+      "evidence": "pdf-745.png"
+    },
+    {
+      "area": "notes",
+      "note": 86,
+      "old": "摸密地校审",
+      "new": "缜密地校审",
+      "count": 1,
+      "pdf_page": 746,
+      "book_page": 719,
+      "reason": "逐处回看同版扫描原页后修复网页OCR，未引入其他版本。",
+      "evidence": "pdf-746.png"
+    },
+    {
+      "area": "notes",
+      "note": 87,
+      "old": "18世纪未期",
+      "new": "18世纪末期",
+      "count": 1,
+      "pdf_page": 746,
+      "book_page": 719,
+      "reason": "逐处回看同版扫描原页后修复网页OCR，未引入其他版本。",
+      "evidence": "pdf-746.png"
+    },
+    {
+      "area": "notes",
+      "note": 88,
+      "old": "1849年5一7月",
+      "new": "1849年5—7月",
+      "count": 1,
+      "pdf_page": 746,
+      "book_page": 719,
+      "reason": "逐处回看同版扫描原页后修复网页OCR，未引入其他版本。",
+      "evidence": "pdf-746.png"
+    },
+    {
+      "area": "notes",
+      "note": 104,
+      "old": "这里静及",
+      "new": "这里涉及",
+      "count": 1,
+      "pdf_page": 748,
+      "book_page": 721,
+      "reason": "逐处回看同版扫描原页后修复网页OCR，未引入其他版本。",
+      "evidence": "pdf-748.png"
+    },
+    {
+      "area": "notes",
+      "note": 117,
+      "old": "所谓”人民银行”",
+      "new": "所谓“人民银行”",
+      "count": 1,
+      "pdf_page": 751,
+      "book_page": 724,
+      "reason": "逐处回看同版扫描原页后修复网页OCR，未引入其他版本。",
+      "evidence": "pdf-751.png"
+    },
+    {
+      "area": "notes",
+      "note": 66,
+      "old": "法丛西",
+      "new": "法兰西",
+      "count": 2,
+      "pdf_page": 742,
+      "book_page": 715,
+      "reason": "两处原页均为法兰西。",
+      "evidence": "pdf-742.png"
+    },
+    {
+      "area": "body",
+      "note": null,
+      "old": "禁果70的渴望",
+      "new": "禁果[^v2-70]的渴望",
+      "count": 1,
+      "pdf_page": 183,
+      "book_page": 161,
+      "reason": "扫描第161页的70是上标注号，恢复已存在的编者注70链接。",
+      "evidence": "pdf-183.png"
+    },
+    {
+      "area": "body",
+      "note": null,
+      "old": "山岳党81和",
+      "new": "山岳党[^v2-81]和",
+      "count": 1,
+      "pdf_page": 198,
+      "book_page": 176,
+      "reason": "扫描第176页的81是上标注号，恢复已存在的编者注81链接。",
+      "evidence": "pdf-198.png"
+    }
+  ],
+  "work_record": {
+    "title": "1848年至1850年的法兰西阶级斗争",
+    "author": "卡尔·马克思",
+    "edition": "《马克思恩格斯文集》第2卷，中共中央马克思恩格斯列宁斯大林著作编译局编译，人民出版社，2009年12月第1版；MIA同版网页整理本，对照扫描原页。",
+    "publisher": "人民出版社",
+    "publication_year": 2009,
+    "language": "zh",
+    "selected_sources": [
+      "https://www.marxists.org/chinese/marx-engels2/02/04.htm",
+      "https://www.marxists.org/chinese/marx-engels2/02/26.htm"
+    ],
+    "path": "works/class-struggles-in-france.md",
+    "sha256": "28d0ba6da3d7285b13c9d4df2d07e63217c712962e43cf3f4906e9429395fb42",
+    "status": "source_and_conversion_reviewed",
+    "book_pages": "77—187",
+    "source_check": {
+      "status": "passed_with_localized_transcription_corrections",
+      "evidence": "checks/class-struggles-in-france/result.json#source_check"
+    },
+    "conversion_check": {
+      "status": "passed_with_limits",
+      "evidence": "checks/class-struggles-in-france/result.json#conversion_check"
+    },
+    "proofreading": {
+      "report": "checks/class-struggles-in-france/result.json",
+      "corrections": "checks/class-struggles-in-france/corrections.json",
+      "correction_groups": 44,
+      "correction_occurrences": 46
+    },
+    "limits": [
+      "本地PDF原下载URL未知。",
+      "网页及PDF文字层可能共享OCR错误，不以彼此一致证明逐字无误。",
+      "按基本可靠全文标准核验，不是逐字学术校勘；局部OCR修正另列。",
+      "未进入应用语料包。",
+      "仍可能存在少量未抽查出的OCR错字或标点。",
+      "没有逐页人工审校或逐字零误保证。",
+      "原书书影以原图保留，图中文字未另作全文识别。"
+    ],
+    "review": {
+      "reviewer": "/root/capital_three_refine",
+      "checked_on": "2026-10-28",
+      "status": "passed_with_limits",
+      "sha256": "28d0ba6da3d7285b13c9d4df2d07e63217c712962e43cf3f4906e9429395fb42",
+      "result": "独立对照完整原字节、四章和104条注释；恢复两处被写成普通数字的注号后复核通过，抽查扫描页校正和恩格斯引言归属。",
+      "report": "checks/class-struggles-in-france/independent-review.json",
+      "report_sha256": "18da1b04467d39a1d57133df6485db93e3895794afb09902de27131593b340f7"
+    },
+    "kind": "book"
+  },
+  "duplicate_relations": [
+    {
+      "relation": "same_work_different_edition_candidate_not_collected",
+      "existing": "https://www.marxists.org/chinese/marx-engels/07/003.htm",
+      "selected": "works/class-struggles-in-france.md",
+      "action_for_parent": "将旧全集一版第7卷目录候选登记为同作未选版本，不另下载为第二份主用正文；若旧包含同作则正式入库前排重。"
+    },
+    {
+      "relation": "whole_volume_contains_work",
+      "existing": "../corpus-package/originals/volume-2/20e58cee32f55bc90be0f8feebb8569d59026ba0591f88f5ff117632f504affd.pdf",
+      "part": "works/class-struggles-in-france.md",
+      "scope": "文集2第77—187页及相关编者注",
+      "action_for_parent": "正式入库只保留一份正文；本次不改旧包或应用。"
+    },
+    {
+      "relation": "separate_author_preface",
+      "other": "https://www.marxists.org/chinese/marx-engels2/04/25.htm",
+      "author": "弗里德里希·恩格斯",
+      "included": false,
+      "note": "独立导言不是马克思本文，后续若收应单独登记。"
+    }
+  ],
+  "review": {
+    "reviewer": "/root/capital_three_refine",
+    "checked_on": "2026-10-28",
+    "status": "passed_with_limits",
+    "sha256": "28d0ba6da3d7285b13c9d4df2d07e63217c712962e43cf3f4906e9429395fb42",
+    "result": "独立对照完整原字节、四章和104条注释；恢复两处被写成普通数字的注号后复核通过，抽查扫描页校正和恩格斯引言归属。",
+    "report": "checks/class-struggles-in-france/independent-review.json",
+    "report_sha256": "18da1b04467d39a1d57133df6485db93e3895794afb09902de27131593b340f7"
+  },
+  "not_changed": [
+    "catalog.json",
+    "README",
+    "shared scripts",
+    "corpus-package",
+    "app",
+    "user data",
+    "Git"
+  ],
+  "independent_review": {
+    "reviewer": "/root/capital_three_refine",
+    "checked_on": "2026-10-28",
+    "status": "passed_with_limits",
+    "sha256": "28d0ba6da3d7285b13c9d4df2d07e63217c712962e43cf3f4906e9429395fb42",
+    "result": "独立对照完整原字节、四章和104条注释；恢复两处被写成普通数字的注号后复核通过，抽查扫描页校正和恩格斯引言归属。",
+    "report": "checks/class-struggles-in-france/independent-review.json",
+    "report_sha256": "18da1b04467d39a1d57133df6485db93e3895794afb09902de27131593b340f7"
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "work": "政治经济学批判",
+  "target_work_file": "corpus-collection\\works\\critique-of-political-economy.md",
+  "modified_work_file": false,
+  "edition_evidence": {
+    "recommended_edition": "《马克思恩格斯全集》中文第一版第13卷，人民出版社1962年版；中共中央马克思恩格斯列宁斯大林著作编译局编译（MIA中文电子文本，具体印次未标）",
+    "publisher_year": {
+      "status": "confirmed_by_primary_library_catalogue",
+      "source_url": "https://lit.snnu.edu.cn/info/1041/1358.htm",
+      "source_file": "1374d3415935543631b3a114d6faa9746da7d93dccb30822407d8beb45ecd05a.html",
+      "locator": "图书目录首表第8行，索书号A1/2/13，题名第十三卷，人民出版社，1962"
+    },
+    "edition_family": {
+      "source_url": "https://www.marxists.org/chinese/pdf/me-old.htm",
+      "source_file": "fe1992627f84da36c99752d1f9ceb8536adedfadcfaed6811e90a1c88fa30601.html",
+      "locator": "页面标题“中文第1版（文字版PDF）”及me13.pdf链接；附官方编译局馆藏简介ac366...html作版本时间背景"
+    },
+    "compiler": {
+      "source_url": "https://www.marxists.org/chinese/pdf/marx-engels/me13.pdf",
+      "file": "me13.pdf",
+      "pdf_page": 4,
+      "book_page": "无印刷页码",
+      "evidence_png": "pdf-page-0004.png",
+      "observed": "本页明载中文版由中共中央马克思恩格斯列宁斯大林著作编译局依照俄文第二版译出"
+    },
+    "same_volume_correspondence": "MIA目录、PDF目录均有本作品书页3—177；序言7—11，第一章15—53，第二章54—177；卷内说明范围1859.1—1860.2，与新版第13卷(1854)不同。",
+    "not_verified": [
+      "MIA据以录入的纸本印次、印刷时间",
+      "中文版权页扫描图",
+      "1962年11月/1965年10月第二印等具体月次未采为正式元数据"
+    ]
+  },
+  "check_scope": {
+    "completed": [
+      "读取并核对catalog中13/001.htm至007.htm的已有原始字节映射",
+      "对全作品正文及随文注运行仅汉字归一化的段落对齐，比较PDF书3—177（PDF36—210）文字层；该筛查不涵盖数字、拉丁文、标点或排版，144个非完全连续匹配候选含页眉脚注插入和少量PDF劣化字",
+      "已视觉检查PDF标题/编译说明与书40、46、49、114、123、126、141、147页；不是全文逐字纸本校对",
+      "银价表书147/PDF180：7年×3月21格逐格核对，19数值和2缺值均与现稿一致，单位辨士一致",
+      "161个注定义和161个引用均唯一，无悬空引用或未引用定义；遍历7页所有font注容器终止，发现两处容器缺注末：贺雷西/西尼耳注和银价表注；前者实有归属丢失，后者仅缺编辑括号",
+      "检查全部完整多行随文注方括号，9个区块不配对，多为源网页自身缺陷，见pending",
+      "2009版译本序言未作来源或并入候选"
+    ],
+    "limits": [
+      "PDF与网页很可能共享电子制作来源，文本一致不能证明纸本正确",
+      "PDF的少量明显错误（如奠基误尊基、退出误是出、相反误相汉）不覆盖当前正确文字",
+      "未做OCR、未上传源文、无付费服务",
+      "卷末编者注的正文尚未逐条与书699页起PDF作全文视觉校对"
+    ],
+    "comparison_candidates": "text-comparison-candidates.json",
+    "extracted_pdf_text": "me13-text.txt"
+  },
+  "corrections": [
+    {
+      "id": "note-005-n15-boundary",
+      "kind": "footnote_scope",
+      "old": "西尼耳先生却比较了解，他说“货币似乎是唯一的普遍要求的东西，这是因为货币是抽象的财富，人们有了货币，就可以满足自己的一切需要，不管是哪一种”。《Principes fondamentaux de l'Ec．pol．》，traduit par le comte Jean Arrivabene，Paris，1836，p．221［“政治经济学基本原理”让・阿里瓦本伯爵译1836年巴黎版第221页］；施托尔希也说：“因为货币代表着一切其他财富，人们只要把货币积累起来，就可以取得世界上一切种类的财富。”（“政治经济学教程”第2卷第135页）]。",
+      "new": "从正文删除该完整段，将其接到[^13-005-n15]贺雷西诗后，末尾ASCII ]改为］作为完整脚注终止；尾句句点位置按整理说明记录，文字本身不改写",
+      "source_url": "https://www.marxists.org/chinese/marx-engels/13/005.htm",
+      "file": "notes-book123-pdf156.png",
+      "book_page": 123,
+      "pdf_page": 156,
+      "reason": "PDF视觉可见同一脚注①从贺雷西诗一直延续到施托尔希引文第135页；网页在诗末提前关闭font/span，然而注末]位于西尼耳段末。按颜色容器提取导致整段误入正文。现有161注不增减，只修归属。"
+    },
+    {
+      "id": "note-006-n3-close",
+      "kind": "editorial_bracket",
+      "old": "    | 1858 | 61+5/8 | ― | ― |",
+      "new": "    | 1858 | 61+5/8 | ― | ― |\n\n    ］",
+      "source_url": "https://www.marxists.org/chinese/marx-engels/13/006.htm",
+      "file": "silver-table-book147-pdf180.png",
+      "book_page": 147,
+      "pdf_page": 180,
+      "reason": "源网页［注：包装在表末未闭合。视觉确认脚注①结束于该行，补整理稿包装右括号；纸排脚注不使用［注：包装，不把补号冒称纸本原字。"
+    }
+  ],
+  "retain_without_correction": [
+    {
+      "text": "辨士",
+      "source_url": "https://www.marxists.org/chinese/marx-engels/13/006.htm",
+      "file": "silver-table-book147-pdf180.png",
+      "book_page": 147,
+      "pdf_page": 180,
+      "reason": "网页及同卷电子PDF表格均如此，历史用字保留。"
+    }
+  ],
+  "pending": [
+    {
+      "id": "13-002-n15",
+      "book_page": 40,
+      "pdf_page": 73,
+      "file": "notes-book40-pdf73.png",
+      "issue": "托·霍吉斯金书目信息［开后未闭；电子PDF同样如此。内嵌“本卷引文中...”明确为译者注，PDF单列②；保留署名，不能误认作马克思引文。"
+    },
+    {
+      "id": "13-002-n26",
+      "book_page": 46,
+      "pdf_page": 79,
+      "file": "notes-book46-pdf79.png",
+      "issue": "书目译名［开而〕闭，电子PDF也不配对；可作为显式标点整理，不当正文错误。"
+    },
+    {
+      "id": "13-002-n31",
+      "book_page": 49,
+      "pdf_page": 82,
+      "file": "notes-book49-pdf82.png",
+      "issue": "“滥用的农业”后缺］，电子PDF同样缺；未据此擅改。"
+    },
+    {
+      "id": "13-005-n2",
+      "book_page": 114,
+      "pdf_page": 147,
+      "file": "notes-book114-pdf147.png",
+      "issue": "“一般财富”后方括号和外引号不闭，电子PDF亦如此。"
+    },
+    {
+      "id": "13-005-n4",
+      "issue": "外层［注：用ASCII ]闭，属源文标点形态，不是丢字；可显式统一全角。"
+    },
+    {
+      "id": "13-005-n19",
+      "book_page": 126,
+      "pdf_page": 159,
+      "file": "notes-book126-pdf159.png",
+      "issue": "外层［注：用ASCII ]闭，可显式统一全角。"
+    },
+    {
+      "id": "13-005-n29",
+      "book_page": 141,
+      "pdf_page": 174,
+      "file": "notes-book141-pdf174.png",
+      "issue": "内部第162页后有多余］，电子PDF本身如此，未擅删。"
+    },
+    {
+      "issue": "需要真正纸本逐字校对时，须取得同版扫描并逐字核对，包括数字、外文、标点、全部卷末编者注；现结果不满足该更强声明。"
+    }
+  ],
+  "source_downloads": [
+    {
+      "url": "https://www.marxists.org/chinese/pdf/marx-engels/me13.pdf",
+      "final_url": "https://www.marxists.org/chinese/pdf/marx-engels/me13.pdf",
+      "file": "me13.pdf",
+      "sha256": "fc56d4d5c061575c83f55ad2bcc5308f210faa31d066403d9c24eb13eb5fb296",
+      "bytes": 4314394,
+      "pdf_pages": 868,
+      "format": "S22PDF电子排版文字PDF，非纸本扫描；不含中文版权页",
+      "retrieved_at": "2026-10-27T14:08:00+00:00"
+    },
+    {
+      "url": "https://www.marxists.org/chinese/pdf/me-old.htm",
+      "final_url": "https://www.marxists.org/chinese/pdf/me-old.htm",
+      "path": "corpus-collection\\checks\\edition-13\\fe1992627f84da36c99752d1f9ceb8536adedfadcfaed6811e90a1c88fa30601.html",
+      "sha256": "fe1992627f84da36c99752d1f9ceb8536adedfadcfaed6811e90a1c88fa30601",
+      "bytes": 9403,
+      "retrieved_at": "2026-10-27T14:11:29.641808+00:00",
+      "evidence": [
+        "EGA1到MEGA2的历程——马克思恩格斯全集历史考证版的诞生与发展》.pdf 马克思印度编年史稿 以上文件由中共中央马克思恩格斯列宁斯大林著作编译局编译，\r\n人民出版社出版，红旗出版社出品(青苹果制作中心制作，北京翔宇空间技术公司，广州兴瑞丰实业公司协办)"
+      ],
+      "links": []
+    },
+    {
+      "url": "https://opac.uibe.edu.cn/opac/browseByCategory?pager.offset=402675",
+      "error": "[WinError 10054] 远程主机强迫关闭了一个现有的连接。"
+    },
+    {
+      "url": "https://lit.snnu.edu.cn/info/1041/1358.htm",
+      "final_url": "https://lit.snnu.edu.cn/info/1041/1358.htm",
+      "path": "corpus-collection\\checks\\edition-13\\1374d3415935543631b3a114d6faa9746da7d93dccb30822407d8beb45ecd05a.html",
+      "sha256": "1374d3415935543631b3a114d6faa9746da7d93dccb30822407d8beb45ecd05a",
+      "bytes": 30685324,
+      "retrieved_at": "2026-10-27T14:11:38.619507+00:00",
+      "evidence": [
+        " 马克思 A1/2/11 人民出版社 1962 7 马克思恩格斯全集.   第十二卷 马克思 A1/2/12 人民出版社 1962 8 马克思恩格斯全集.   第十三卷 马克思 A1/2/13 人民出版社 1962 9 马克思恩格斯全集.   第十四卷 马克思 A1/2/14 人民出版社 1964 10 马克思恩格斯全集.   第十五卷 马克思 A1/2/15 人民出版社 1963 11 马克思恩格斯全集.   第十六卷 马克思 A1/2/16 人民出版社 1964 12 马克思恩格斯全集.   第十七卷 马克思 A1/2/17 人民出版社 1963 1",
+        "怀沙 832.181/1 文艺联合出版社 1954 3 《自然辩证法》注释 A1/1 不详 1962 4 马克思恩格斯全集.   第一卷 马克思 A1/2/1 人民出版社 1956 5 马克思恩格斯全集.   第十卷 马克思 A1/2/10 人民出版社 1962 6 马克思恩格斯全集.   第十一卷 马克思 A1/2/11 人民出版社 1962 7 马克思恩格斯全集.   第十二卷 马克思 A1/2/12 人民出版社 1962 8 马克思恩格斯全集.   第十三卷 马克思 A1/2/13 人民出版社 1962 9 马克思恩格斯全集.   第十四卷 马克思"
+      ],
+      "links": []
+    },
+    {
+      "url": "https://www.dswxyjy.org.cn/n1/2019/0617/c427195-31158081.html",
+      "final_url": "https://www.dswxyjy.org.cn/n1/2019/0617/c427195-31158081.html",
+      "path": "corpus-collection\\checks\\edition-13\\ac366110567460d90fa5c9ccc5615acb718daf9f3b4dce70ab05a57dd8c952fd.html",
+      "sha256": "ac366110567460d90fa5c9ccc5615acb718daf9f3b4dce70ab05a57dd8c952fd",
+      "bytes": 30812,
+      "retrieved_at": "2026-10-27T14:11:25.047200+00:00",
+      "evidence": [
+        "思恩格斯著作及其研究资料的收藏情况 1 ．《马克思恩格斯全集》（分全精装和纸精装两种版本） （ 1 ）《马克思恩格斯全集》中文第 1 版。从 1956 年开始由人民出版社出版第 1 卷，至 1985 年完成，共计 50 卷， 53 册。 （ 2 ）《马克思恩格斯全集》中文第 2 版，计划出 60 余卷。从 1995 年开始由人民出版社出版第 1 卷，到目前已出版 21 卷（第 1 、 2 、 3 、 10 、 11 、 12 、 13 、 16 、 19 、 21 、 25 、 30 、 31 、 32 、 33 、 34 、 44 、 45 、 46 "
+      ],
+      "links": []
+    }
+  ],
+  "evidence_files": [
+    {
+      "file": "notes-book114-pdf147.png",
+      "sha256": "9aa990b6d7d6a45e1d688087ab6e67b07fc637a97981e6148fb1b9b82452c86e",
+      "bytes": 146866
+    },
+    {
+      "file": "notes-book123-pdf156.png",
+      "sha256": "054a8c6379ba81a0199e97e979acef71de9ef2465f82af2cd57cc5954f7e2c0b",
+      "bytes": 140356
+    },
+    {
+      "file": "notes-book126-pdf159.png",
+      "sha256": "c12b3580005f094cb6ba46195f8638436867d9e1d7f2447e93c8df8d7263b501",
+      "bytes": 153792
+    },
+    {
+      "file": "notes-book141-pdf174.png",
+      "sha256": "6fa24f241f025f4a143ba9fd3624f62920047810122757b7c661115a0f7377d2",
+      "bytes": 153127
+    },
+    {
+      "file": "notes-book40-pdf73.png",
+      "sha256": "1bac3207ef1193c74b15768d7ab8aa3647ba1d01703b8231a2c48c7ccc26a31c",
+      "bytes": 148761
+    },
+    {
+      "file": "notes-book46-pdf79.png",
+      "sha256": "7c699055136b4e4d92dbc01309d091a6ec0c7c039a6fe10d7d101d0078ac5ea5",
+      "bytes": 133497
+    },
+    {
+      "file": "notes-book49-pdf82.png",
+      "sha256": "cbfa0a01795a6c46c0d9f115e4d9a2caf8654406293a363e1c7f4b9a7b4d41d6",
+      "bytes": 155378
+    },
+    {
+      "file": "pdf-page-0003.png",
+      "sha256": "c1627fb70f693704291098bcf9a4a3dde4e13a6d7ec61102fdd113a058d5d9ba",
+      "bytes": 16712
+    },
+    {
+      "file": "pdf-page-0004.png",
+      "sha256": "8428b98bac43d2e8dc11ca08be8904ffab1b6fef36f64bec411d22e67f7aee5b",
+      "bytes": 39483
+    },
+    {
+      "file": "silver-table-book147-pdf180.png",
+      "sha256": "2c5e1b64fbdbc01a43e5aa4dcf1d3716677625070b5d66c16cb68321cc50dd0c",
+      "bytes": 165872
+    }
+  ]
+}

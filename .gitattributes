@@ -1,0 +1,2 @@
+# Preserve original UTF-8 bytes and LF-based chapter positions on every checkout.
+* -text
