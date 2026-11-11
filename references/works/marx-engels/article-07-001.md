@@ -6,18 +6,14 @@ authors:
 edition: 《马克思恩格斯全集》中文第1版第7卷，人民出版社；MIA电子页，具体印次未核。
 dates:
   written: 未标明
-text_status: source_and_conversion_reviewed
 source: https://www.marxists.org/chinese/marx-engels/07/001.htm
-source_file: originals/d36a8e27b3275f776d37280fa076247bd4b567cff7a7432db91a93e572a99bb1.md
-source_sha256: d36a8e27b3275f776d37280fa076247bd4b567cff7a7432db91a93e572a99bb1
-checked_on: '2026-11-09'
 ---
 
 # “新莱茵报。政治经济评论”出版启事
 
-> 整理候选，尚未进入应用知识库；当前检查结论见收集清单。
-> 范围与参与方式：卷目录与原页作者题头/写作刊行说明相符；题名起至原注完整，无占位页或明显乱码。
-> 他人发言、附文、引文和编译者注依原标识保留，不全部作为马克思本人的表达。
+
+
+> 他人发言、附文、引文和编译者注按原标识分别列出。
 
 ## 正文及出版说明
 

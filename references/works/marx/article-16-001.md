@@ -2,21 +2,17 @@
 title: 国际工人协会成立宣言
 authors:
 - 卡尔·马克思
-edition: 《马克思恩格斯文集》第3卷，人民出版社2009年12月第1版；MIA文字页，对照项目已有同版扫描。
+edition: 《马克思恩格斯文集》第3卷，人民出版社2009年12月第1版；MIA文字页。
 dates:
   written: 未标明
-text_status: source_and_conversion_reviewed
 source: https://www.marxists.org/chinese/marx-engels2/03/01.htm
-source_file: originals/cf1ada064db2b636cb30c92400e2a7831d51d8d2e15848b235dba93de0c17bc9.md
-source_sha256: cf1ada064db2b636cb30c92400e2a7831d51d8d2e15848b235dba93de0c17bc9
-checked_on: '2026-11-09'
 ---
 
 # 国际工人协会成立宣言
 
-> 整理候选，尚未进入应用知识库；当前检查结论见收集清单。
-> 范围：逐篇对照已刊正文首尾、实质段落及随文注；采用2009文集完整篇，不重复旧译。
-> 原页引文、编者/译者说明及恩格斯附注按其署名保留，不全部作为马克思个人正文。
+
+
+
 
 ## 2009文集正文
 

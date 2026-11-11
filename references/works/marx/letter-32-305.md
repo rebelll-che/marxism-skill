@@ -5,18 +5,14 @@ authors:
 edition: 《马克思恩格斯全集》中文第1版第32卷；MIA电子文字页，具体印次未核。
 dates:
   written: 未标明
-text_status: source_and_conversion_reviewed
 source: https://www.marxists.org/chinese/marx-engels/32/305.htm
-source_file: originals/cce8192683bd6af9e8717d070e35f2c38372fb774f36d4b7a14e272e51f97e98.md
-source_sha256: cce8192683bd6af9e8717d070e35f2c38372fb774f36d4b7a14e272e51f97e98
-checked_on: '2026-11-09'
 ---
 
 # 马克思致路德维希·库格曼（7月11日）
 
-> 整理候选，尚未进入应用知识库；当前检查结论见收集清单。
-> 选版：逐封核对发现文集对应篇省去连续实质段落，保留本卷完整现存文本；具体缺段位置见独立选版检查。
-> 原版附笔、编辑或译者注依其标识保留，不全部归为马克思正文。
+
+> 采用本卷所载完整现存文本。
+
 
 ## 书信正文
 

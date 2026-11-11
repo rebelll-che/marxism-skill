@@ -7,9 +7,6 @@ dates:
   written: 1895年3月6日
 text_status: 已刊序言／导言
 source: https://www.marxists.org/chinese/marx-engels/22/082.htm
-source_file: originals/3b07f711e63c0c10a22f4a0898339844e4850a881abb0cce165eb0b018a410c3.md
-source_sha256: 3b07f711e63c0c10a22f4a0898339844e4850a881abb0cce165eb0b018a410c3
-checked_on: '2026-11-09'
 publisher: 人民出版社
 ---
 

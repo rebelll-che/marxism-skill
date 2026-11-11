@@ -5,11 +5,7 @@ authors:
 edition: 《马克思恩格斯文集》第9卷，人民出版社2009年；MIA电子文字版
 dates:
   written: 未标明
-text_status: source_and_conversion_reviewed
 source: https://www.marxists.org/chinese/marx-engels2/09/01.htm
-source_file: originals/04ecd587a0ff54801315ad27519bcab1de4d8daa3d04de8883c2f450a7fb942a.md
-source_sha256: 04ecd587a0ff54801315ad27519bcab1de4d8daa3d04de8883c2f450a7fb942a
-checked_on: '2026-11-09'
 publisher: 人民出版社
 ---
 

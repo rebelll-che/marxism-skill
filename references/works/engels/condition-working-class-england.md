@@ -5,11 +5,7 @@ authors:
 edition: 《马克思恩格斯全集》中文第1版第2卷；MIA电子文字版，具体印次未核；1892年德文第二版序言取中文第1版第22卷
 dates:
   written: 未标明
-text_status: source_and_conversion_reviewed
 source: https://www.marxists.org/chinese/marx-engels/02/011.htm
-source_file: originals/872d6456c31d01307b3c51ff5c1f6b12deadbdfe33de5fee46e8197223a56277.md
-source_sha256: 872d6456c31d01307b3c51ff5c1f6b12deadbdfe33de5fee46e8197223a56277
-checked_on: '2026-11-09'
 publisher: 人民出版社
 ---
 

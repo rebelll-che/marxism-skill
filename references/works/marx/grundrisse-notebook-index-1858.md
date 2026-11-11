@@ -5,18 +5,14 @@ authors:
 edition: 《马克思恩格斯全集》中文第二版第31卷，人民出版社，1998年12月第2版；据原合稿所存同版EPUB文字分出
 dates:
   publication: '1998'
-text_status: source_and_conversion_reviewed
 source: https://blacknews.jojokanbao.cn/content/books/ma-ke-si-en-ge-si-quan-ji/items/volume-31/exports/dcOTAAaF0IgBzueWLs.jox
-source_file: originals/a7ffde8c1642e0282cc221156219994fdaffead58278dc6cd4b3ac79f2ef5e49.md
-source_sha256: a7ffde8c1642e0282cc221156219994fdaffead58278dc6cd4b3ac79f2ef5e49
-checked_on: '2026-11-10'
 publisher: 人民出版社
 language: 中文
 ---
 
 # 七个笔记本的索引（第一部分）
 
-> 整理说明：马克思为研究手稿所写的索引与提纲，不是本仓库生成的目录。保留旧合稿中文第二版第31卷的文字及注释；其中三幅书影或手稿定位符号图片省略，原位置明确标示。文内原笔记本和中文卷页编号仍按原版解释，不指向德文替换稿当前行号。
+> 马克思所编的研究手稿索引与提纲，采用中文第二版第31卷。文内页码指原笔记本和该中文卷的页码。
 
 
 > 范围说明（整理者）：1858年6月；第31卷书页297—312。保留第一稿和第二稿，属于马克思所编索引。

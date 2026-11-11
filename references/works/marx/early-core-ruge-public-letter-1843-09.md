@@ -6,18 +6,14 @@ edition: 马克思恩格斯文集第10卷，人民出版社，2009年12月第1�
 dates:
   written: 1843年9月
   publication: '2009'
-text_status: source_and_conversion_reviewed_with_limits
 source: https://www.marxists.org/chinese/marx-engels2/10/003.htm
-source_file: originals/140027ef0056ef65434e817775bd1c91c571b8133d40285a7eed2ea41b0a65a4.md
-source_sha256: 140027ef0056ef65434e817775bd1c91c571b8133d40285a7eed2ea41b0a65a4
-checked_on: '2026-11-09'
 ---
 
 # 马克思致阿尔诺德·卢格（1843年9月，《德法年鉴》公开通信）
 
 作者：卡尔·马克思。来源：《马克思恩格斯文集》第10卷，人民出版社，2009年12月第1版。
 
-范围：2009年文集第10卷书6—10页该信全文、3条随文编者注及卷末注6—9。1844年《德法年鉴》已刊通信文本；不把同月其他私人通信当作重复。 原始网页与同版扫描均保留；网页明显错字仅按列出的原页校正。当前检查结论见收集清单。
+范围：2009年文集第10卷书6—10页该信全文、3条随文编者注及卷末注6—9。1844年《德法年鉴》已刊通信文本。网页中的明显错字已按原页校正。
 
 <!-- BEGIN SOURCE BODY -->
 <div data-source-part="body">

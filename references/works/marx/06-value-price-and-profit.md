@@ -1,9 +1,10 @@
 ---
 title: 工资、价格和利润
-authors: [卡尔·马克思]
+authors:
+- 卡尔·马克思
 contributors:
-  - name: 爱琳娜·马克思-艾威林
-    role: 首次整理出版者
+- name: 爱琳娜·马克思-艾威林
+  role: 首次整理出版者
 edition: 2009年《马克思恩格斯文集》第3卷中文译本
 publisher: 人民出版社
 translator: 中共中央马克思恩格斯列宁斯大林著作编译局
@@ -11,11 +12,7 @@ dates:
   written: 1865
   first_published: 1898
 text_status: 马克思1865年在国际工人协会总委员会会议上的14节英文报告稿；现用总标题及前六节标题由爱琳娜·马克思-艾威林首次整理出版时补加
-source: "人民出版社2009年《马克思恩格斯文集》第3卷本地PDF；正文转写参考 https://www.marxists.org/chinese/marx-engels2/03/03.htm"
-source_file: originals/volume-3/58ff369d9dcad08553547d61e45a65a30cf554427bc8e56e646a3bac33737fa1.pdf
-source_sha256: 58ff369d9dcad08553547d61e45a65a30cf554427bc8e56e646a3bac33737fa1
-check_notes: "正文按开头、中段、结尾和章节顺序检查，并抽样对照同版PDF；正文引用的卷末注释取自 https://www.marxists.org/chinese/marx-engels2/03/29.htm，本地文件为 originals/web/17cdd0d0bef7b270af5d63cdf9d29d6f539bdc476635e8b0583761bd397dd1b9.html。本文件是供检索使用的校订转写，不替代纸质或PDF版本。"
-checked_on: 2026-10-12
+source: 人民出版社2009年《马克思恩格斯文集》第3卷本地PDF；正文转写参考 https://www.marxists.org/chinese/marx-engels2/03/03.htm
 ---
 
 # 工资、价格和利润

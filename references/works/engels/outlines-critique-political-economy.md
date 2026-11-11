@@ -5,11 +5,7 @@ authors:
 edition: 《马克思恩格斯文集》第1卷，人民出版社2009年；MIA电子文字版
 dates:
   written: 未标明
-text_status: source_and_conversion_reviewed
 source: https://www.marxists.org/chinese/marx-engels2/01/03.htm
-source_file: originals/c97edad2bf2e5e8480dd4e3cb40e677d6dd85940899edb5dbb74f2c75c07fa8e.md
-source_sha256: c97edad2bf2e5e8480dd4e3cb40e677d6dd85940899edb5dbb74f2c75c07fa8e
-checked_on: '2026-11-09'
 publisher: 人民出版社
 ---
 

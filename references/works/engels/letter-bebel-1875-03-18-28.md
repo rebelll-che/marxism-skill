@@ -5,11 +5,8 @@ authors:
 edition: 《马克思恩格斯文集》第3卷，人民出版社2009年；MIA中文电子文字版
 dates:
   written: 未标明
-text_status: 本版完整书信，包括称呼、国家与纲领论述、私事结尾、署名、附言及出版说明；不只摘论国家段落。
+text_status: 本版完整书信，包括称呼、国家与纲领论述、私事结尾、署名、附言及出版说明。
 source: https://www.marxists.org/chinese/marx-engels2/03/16.htm
-source_file: originals/eb7d7dc7819d10950527693728101d43a2da8d3dbf2e7bdb50cbed2d2e261f18.md
-source_sha256: eb7d7dc7819d10950527693728101d43a2da8d3dbf2e7bdb50cbed2d2e261f18
-checked_on: '2026-11-09'
 publisher: 人民出版社
 ---
 

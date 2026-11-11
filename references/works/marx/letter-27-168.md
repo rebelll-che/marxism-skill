@@ -5,18 +5,14 @@ authors:
 edition: 《马克思恩格斯全集》中文第1版第27卷，MIA电子文字页；具体出版年份、印次未核。
 dates:
   written: 未标明
-text_status: source_and_conversion_reviewed
 source: https://www.marxists.org/chinese/marx-engels/27/168.htm
-source_file: originals/123845b0b68af8a351a580ed97bf68cc7d9d9549904100bfd7b70d303545a867.md
-source_sha256: 123845b0b68af8a351a580ed97bf68cc7d9d9549904100bfd7b70d303545a867
-checked_on: '2026-11-09'
 ---
 
 # 马克思致巴维尔·瓦西里也维奇·安年柯夫（1846年12月28日）
 
-> 整理候选，尚未进入应用知识库；当前检查结论见收集清单。
+
 > 范围：本版所载信件正文、署名、现有附笔、随文注和页末注释。
-> 原页随文注在原位置保留；页末注释另列，编者、译者说明及他人附笔不作马克思本人主张。
+
 
 <!-- source-body-start: https://www.marxists.org/chinese/marx-engels/27/168.htm -->
 ### 马克思致巴维尔·瓦西里也维奇·安年柯夫

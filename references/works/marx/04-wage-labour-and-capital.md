@@ -1,9 +1,10 @@
 ---
 title: 雇佣劳动与资本
-authors: [卡尔·马克思]
+authors:
+- 卡尔·马克思
 contributors:
-  - name: 弗里德里希·恩格斯
-    role: 修订者
+- name: 弗里德里希·恩格斯
+  role: 修订者
 edition: 1891年恩格斯修订版，收录于2009年《马克思恩格斯文集》第1卷
 publisher: 人民出版社
 translator: 中共中央马克思恩格斯列宁斯大林著作编译局
@@ -12,11 +13,7 @@ dates:
   first_published: 1849
   revised: 1891
 text_status: 马克思原连载未完成，当前采用恩格斯1891年修订版并附恩格斯导言
-source: "人民出版社2009年《马克思恩格斯文集》第1卷本地PDF；正文转写参考 https://www.marxists.org/chinese/marx-engels2/01/21.htm"
-source_file: originals/volume-1/27c69609e88ada5bc51aab3bbff626fac9f2e8ed363033e19db682144b94c14b.pdf
-source_sha256: 27c69609e88ada5bc51aab3bbff626fac9f2e8ed363033e19db682144b94c14b
-check_notes: "正文按开头、中段、结尾和章节顺序检查，并抽样对照同版PDF；正文引用的卷末注释取自 https://www.marxists.org/chinese/marx-engels2/01/23.htm，本地文件为 originals/web/f09235800c9d10f77225836c809577d31e2026c1c40b807351e90402b9c225c8.html。本文件是供检索使用的校订转写，不替代纸质或PDF版本。"
-checked_on: 2026-10-12
+source: 人民出版社2009年《马克思恩格斯文集》第1卷本地PDF；正文转写参考 https://www.marxists.org/chinese/marx-engels2/01/21.htm
 ---
 
 # 雇佣劳动与资本〔233〕

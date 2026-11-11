@@ -5,17 +5,13 @@ authors:
 edition: 《马克思恩格斯全集》中文第一版第9卷，MIA文字页；具体印次未标
 dates:
   written: 未标明
-text_status: source_and_conversion_reviewed
 source: https://www.marxists.org/chinese/marx-engels/09/022.htm
-source_file: originals/659d8b2deb51a7e7709f42be6e4029c029ac6fa0634f730065ce46be7cc8e766.md
-source_sha256: 659d8b2deb51a7e7709f42be6e4029c029ac6fa0634f730065ce46be7cc8e766
-checked_on: '2026-11-09'
 ---
 
 # 不列颠在印度的统治
 
-> 本Skill收录文本。作者、日期、正文与已有9部的重复关系已核；尚未做同卷全文校对。
-> 保留源页正文、随文注及页末注释；页末注释可能含作者、编者或译者文字，不能全部当成编者注或作者主张。复杂表格保留HTML行列结构，公式图片保留原位置，未伪造逐段书页。
+
+
 
 <!-- 原页：https://www.marxists.org/chinese/marx-engels/09/022.htm；原文件：sources/fca0746bf75a9f74a0fe91dd7f48d5a303d1f853710243ad1e90a072fcd61513.html -->
 卡·马克思

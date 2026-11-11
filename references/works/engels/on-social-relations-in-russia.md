@@ -7,9 +7,6 @@ dates:
   written: 未标明
 text_status: 1875年《流亡者文献》第五篇主体（排除前四篇）；合附1894年跋。主体用2009文集3，跋复用中文第一版全集22完整原件，分处注明版本和写作时间。
 source: https://www.marxists.org/chinese/marx-engels2/03/14.htm
-source_file: originals/2acd3d3acb29ff9807ba5a2fcb3bf828290304cdb8df41236f6ef92d1576c158.md
-source_sha256: 2acd3d3acb29ff9807ba5a2fcb3bf828290304cdb8df41236f6ef92d1576c158
-checked_on: '2026-11-09'
 publisher: 人民出版社
 ---
 

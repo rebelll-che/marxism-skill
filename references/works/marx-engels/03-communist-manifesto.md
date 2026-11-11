@@ -1,6 +1,8 @@
 ---
 title: 共产党宣言
-authors: [卡尔·马克思, 弗里德里希·恩格斯]
+authors:
+- 卡尔·马克思
+- 弗里德里希·恩格斯
 edition: 2009年《马克思恩格斯文集》第2卷中文译本，含1872—1893年各版序言
 publisher: 人民出版社
 translator: 中共中央马克思恩格斯列宁斯大林著作编译局
@@ -8,11 +10,7 @@ dates:
   written: 1847—1848
   first_published: 1848
 text_status: 1848年合著正文，并附马克思、恩格斯后来为不同版本撰写的序言
-source: "人民出版社2009年《马克思恩格斯文集》第2卷本地PDF；正文转写参考 https://www.marxists.org/chinese/marx-engels2/02/01.htm"
-source_file: originals/volume-2/20e58cee32f55bc90be0f8feebb8569d59026ba0591f88f5ff117632f504affd.pdf
-source_sha256: 20e58cee32f55bc90be0f8feebb8569d59026ba0591f88f5ff117632f504affd
-check_notes: "正文按开头、中段、结尾和章节顺序检查，并抽样对照同版PDF；正文引用的卷末注释取自 https://www.marxists.org/chinese/marx-engels2/02/26.htm，本地文件为 originals/web/b8423af4e946eb4305fb54d63c7abf07ff9dc4e169bf76d8ec5950c381b71965.html。本文件是供检索使用的校订转写，不替代纸质或PDF版本。"
-checked_on: 2026-10-12
+source: 人民出版社2009年《马克思恩格斯文集》第2卷本地PDF；正文转写参考 https://www.marxists.org/chinese/marx-engels2/02/01.htm
 ---
 
 # 共产党宣言

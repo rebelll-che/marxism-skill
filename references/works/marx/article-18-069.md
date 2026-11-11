@@ -7,15 +7,12 @@ dates:
   written: 未标明
 text_status: 研究摘要与批注，非完成论著
 source: https://www.marxists.org/chinese/marx-engels/18/069.htm
-source_file: originals/7e37977d3168e0fb9435e67cc8953dc192e3006f70ceb9f5b2914947d15f4615.md
-source_sha256: 7e37977d3168e0fb9435e67cc8953dc192e3006f70ceb9f5b2914947d15f4615
-checked_on: '2026-11-09'
 ---
 
 # 巴枯宁《国家制度和无政府状态》一书摘要
 
-> 范围与参与方式：卷目录与原页作者题头/写作刊行说明相符；题名起至原注完整，无占位页或明显乱码。
-> 他人发言、附文、引文和编译者注依原标识保留，不全部作为马克思本人的表达。
+
+> 他人发言、附文、引文和编译者注按原标识分别列出。
 
 ## 正文及出版说明
 

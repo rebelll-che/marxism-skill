@@ -5,17 +5,13 @@ authors:
 edition: 《马克思恩格斯全集》中文第一版第9卷，MIA文字页；具体印次未标
 dates:
   written: 未标明
-text_status: source_and_conversion_reviewed
 source: https://www.marxists.org/chinese/marx-engels/09/017.htm
-source_file: originals/e7b562b2968f9eb72bb4c8d003adf1c3815ba2baf98002b80916693debd036c9.md
-source_sha256: e7b562b2968f9eb72bb4c8d003adf1c3815ba2baf98002b80916693debd036c9
-checked_on: '2026-11-09'
 ---
 
 # 中国革命和欧洲革命
 
-> 本Skill收录文本。作者、日期、正文与已有9部的重复关系已核；尚未做同卷全文校对。原页注93还含文库读者意见，该部分仅作为网页后加说明保留，不能当作马克思或原卷编者的话。
-> 保留源页正文、随文注及页末注释；页末注释可能含作者、编者或译者文字，不能全部当成编者注或作者主张。复杂表格保留HTML行列结构，公式图片保留原位置，未伪造逐段书页。
+> 原页注93包含文库读者的后加意见。
+
 
 <!-- 原页：https://www.marxists.org/chinese/marx-engels/09/017.htm；原文件：sources/d4658614fbc757bbd4068b8a40e7c4d5096ea846df5d256d18d8dabc592cf6f0.html -->
 卡·马克思

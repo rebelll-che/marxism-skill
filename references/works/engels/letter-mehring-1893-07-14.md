@@ -5,11 +5,7 @@ authors:
 edition: 《马克思恩格斯文集》第10卷，人民出版社2009年；MIA电子文字版
 dates:
   written: 未标明
-text_status: source_and_conversion_reviewed
 source: https://www.marxists.org/chinese/marx-engels2/10/263.htm
-source_file: originals/1142209af9ba6c3432d954ed114ac8b404df4e1fd09e313a5d5952e2325a5475.md
-source_sha256: 1142209af9ba6c3432d954ed114ac8b404df4e1fd09e313a5d5952e2325a5475
-checked_on: '2026-11-09'
 publisher: 人民出版社
 ---
 

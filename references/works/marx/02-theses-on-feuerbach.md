@@ -1,6 +1,7 @@
 ---
 title: 关于费尔巴哈的提纲
-authors: [卡尔·马克思]
+authors:
+- 卡尔·马克思
 edition: 2009年《马克思恩格斯文集》第1卷中文译本，收录1845年稿本和1888年恩格斯发表稿本
 publisher: 人民出版社
 translator: 中共中央马克思恩格斯列宁斯大林著作编译局
@@ -8,11 +9,7 @@ dates:
   written: 1845
   first_published: 1888
 text_status: 同时收录马克思1845年稿本和恩格斯1888年发表稿本
-source: "人民出版社2009年《马克思恩格斯文集》第1卷本地PDF；正文转写参考 https://www.marxists.org/chinese/marx-engels2/01/15.htm"
-source_file: originals/volume-1/27c69609e88ada5bc51aab3bbff626fac9f2e8ed363033e19db682144b94c14b.pdf
-source_sha256: 27c69609e88ada5bc51aab3bbff626fac9f2e8ed363033e19db682144b94c14b
-check_notes: "正文按开头、中段、结尾和章节顺序检查，并抽样对照同版PDF；正文引用的卷末注释取自 https://www.marxists.org/chinese/marx-engels2/01/23.htm，本地文件为 originals/web/f09235800c9d10f77225836c809577d31e2026c1c40b807351e90402b9c225c8.html。本文件是供检索使用的校订转写，不替代纸质或PDF版本。"
-checked_on: 2026-10-12
+source: 人民出版社2009年《马克思恩格斯文集》第1卷本地PDF；正文转写参考 https://www.marxists.org/chinese/marx-engels2/01/15.htm
 ---
 
 # 关于费尔巴哈的提纲〔180〕

@@ -2,21 +2,17 @@
 title: 新的对华战争（四篇）
 authors:
 - 卡尔·马克思
-edition: 《马克思恩格斯文集》第2卷，人民出版社2009年12月第1版；MIA文字页，对照项目已有同版扫描。
+edition: 《马克思恩格斯文集》第2卷，人民出版社2009年12月第1版；MIA文字页。
 dates:
   written: 未标明
-text_status: source_and_conversion_reviewed
 source: https://www.marxists.org/chinese/marx-engels2/02/22.htm
-source_file: originals/b7bbcc3af451963d8cd23b806049808cec480f82de719a7ca2b277d0317e7aad.md
-source_sha256: b7bbcc3af451963d8cd23b806049808cec480f82de719a7ca2b277d0317e7aad
-checked_on: '2026-11-09'
 ---
 
 # 新的对华战争（四篇）
 
-> 整理候选，尚未进入应用知识库；当前检查结论见收集清单。
-> 范围：逐篇对照已刊正文首尾、实质段落及随文注；采用2009文集完整篇，不重复旧译。
-> 原页引文、编者/译者说明及恩格斯附注按其署名保留，不全部作为马克思个人正文。
+
+
+
 
 ## 2009文集正文
 

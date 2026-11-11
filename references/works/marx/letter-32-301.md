@@ -5,18 +5,14 @@ authors:
 edition: 《马克思恩格斯文集》第10卷，人民出版社2009年12月第1版第1次印刷，ISBN 978-7-01-007696-6。
 dates:
   written: 未标明
-text_status: source_and_conversion_reviewed
 source: https://www.marxists.org/chinese/marx-engels2/10/106.htm
-source_file: originals/36d114424eca35767f1d78dffa3f2f3cb8d59103f47b3bc7c1d2cbbe83693b82.md
-source_sha256: 36d114424eca35767f1d78dffa3f2f3cb8d59103f47b3bc7c1d2cbbe83693b82
-checked_on: '2026-11-09'
 ---
 
 # 马克思致约瑟夫·狄慈根（5月9日）
 
-> 整理候选，尚未进入应用知识库；当前检查结论见收集清单。
-> 选版：逐段比较旧版正文及又及，所载范围完整，优先采用2009年修订译文；不以相似度代替范围判断。本信仅存他人文章所引片段，保留原版说明，不称已找到完整原信。
-> 原版附笔、编辑或译者注依其标识保留，不全部归为马克思正文。
+
+> 本信仅存他人文章所引片段。
+
 
 ## 书信正文
 

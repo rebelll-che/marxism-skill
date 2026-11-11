@@ -2,21 +2,17 @@
 title: 关于巴黎公社的发言记录——1871年5月23日
 authors:
 - 卡尔·马克思
-edition: 《马克思恩格斯文集》第3卷，人民出版社2009年12月第1版第1次印刷；MIA文字页，对照已存扫描。
+edition: 《马克思恩格斯文集》第3卷，人民出版社2009年12月第1版第1次印刷；MIA文字页。
 dates:
   written: 未标明
-text_status: source_and_conversion_reviewed
 source: https://www.marxists.org/chinese/marx-engels2/03/26.htm
-source_file: originals/52ddc3d04ffa63908e71213b1b37eea6711f1090f39aa268473d19bafc9baa23.md
-source_sha256: 52ddc3d04ffa63908e71213b1b37eea6711f1090f39aa268473d19bafc9baa23
-checked_on: '2026-11-09'
 ---
 
 # 关于巴黎公社的发言记录——1871年5月23日
 
-> 整理候选，尚未进入应用语料；当前检查结论见收集清单。
+
 > 范围与归属：采用2009文集1871年5月23日发言记录；旧卷目录“卡·克思”漏字造成初筛遗漏，原正文与新版确认马克思归属。
-> 编者注、引文和联署名单保留原位置；他人说法不全部归为作者本人意见。
+> 编者注、引文和联署名单保留原有位置与署名。
 
 ## 正文与出版说明
 
@@ -56,5 +52,5 @@ checked_on: '2026-11-09'
 
 - 原卷对应篇：https://www.marxists.org/chinese/marx-engels/17/078.htm
 - 原字节：checks/articles-17-remaining/volume17-078.html；SHA-256：67b36b511fb06b69a854da16004d7537407751b6fb10bd04a1e96e4755d65d9a。
-- 采用完整存世/本版所刊范围，不保证逐字零错。源文疑字无证据不改，原注对其他卷页的交叉引用保留。
+
 - 原卷目录页码：677—678。

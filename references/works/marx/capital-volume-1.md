@@ -5,17 +5,13 @@ authors:
 edition: 《马克思恩格斯全集》中文第二版第44卷，人民出版社2001年6月版；MIA文字页，具体印次未标
 dates:
   written: 未标明
-text_status: source_and_conversion_reviewed
 source: https://www.marxists.org/chinese/marx-engels-2/44/001.htm
-source_file: originals/c5587ccec0f95adbeba1bfad4ecddfa5760ee4370d69fa0240c52fb4bfb1312f.md
-source_sha256: c5587ccec0f95adbeba1bfad4ecddfa5760ee4370d69fa0240c52fb4bfb1312f
-checked_on: '2026-11-09'
 ---
 
 # 资本论第一卷
 
-> 本Skill收录：包括25章正文、马克思序跋与献辞；恩格斯的三篇编辑序言保留署名，不能当作马克思正文。
-> 正文、作者原注、编者与译者说明按原标识保留。表格保持行列和上下标，两处大括号图改以明确标注的文字转写呈现，原图留在维护资料中。网页少量疑字未作无依据改写，未伪造逐段页码。
+> 包括25章正文、马克思序跋与献辞，以及署名恩格斯的三篇编辑序言。
+> 两处大括号图以文字转写呈现，转写处已标注。
 
 <!-- 献辞：保存的全集第二版第44卷扫描本PDF第18页；据实际原页转写，网页目录中‘沃乐弗’与原页‘沃尔弗’不同，采用原页。 -->
 ## 献辞

@@ -5,11 +5,7 @@ authors:
 edition: 《马克思恩格斯文集》第4卷，人民出版社2009年；MIA电子文字版
 dates:
   written: 未标明
-text_status: source_and_conversion_reviewed
 source: https://www.marxists.org/chinese/marx-engels2/04/07.htm
-source_file: originals/1fdc67d2420e3b92ee940a9dd2fde7039b7bc5ceca947c93f8e0ea96ec11abd5.md
-source_sha256: 1fdc67d2420e3b92ee940a9dd2fde7039b7bc5ceca947c93f8e0ea96ec11abd5
-checked_on: '2026-11-09'
 publisher: 人民出版社
 ---
 

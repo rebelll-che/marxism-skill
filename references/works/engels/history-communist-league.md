@@ -5,11 +5,7 @@ authors:
 edition: 《马克思恩格斯全集》中文第1版第21卷；MIA电子文字版，具体印次未核
 dates:
   written: 未标明
-text_status: source_and_conversion_reviewed
 source: https://www.marxists.org/chinese/marx-engels/21/012.htm
-source_file: originals/481a61da9a4616aecd8ac7222b4916c7c23872ed5af0a44e7ebae9c2c58503cb.md
-source_sha256: 481a61da9a4616aecd8ac7222b4916c7c23872ed5af0a44e7ebae9c2c58503cb
-checked_on: '2026-11-09'
 publisher: 人民出版社
 ---
 

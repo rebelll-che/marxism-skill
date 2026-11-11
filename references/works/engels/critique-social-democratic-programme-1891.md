@@ -5,11 +5,7 @@ authors:
 edition: 《马克思恩格斯全集》中文第1版第22卷；MIA电子文字版，具体印次未核
 dates:
   written: 未标明
-text_status: source_and_conversion_reviewed
 source: https://www.marxists.org/chinese/marx-engels/22/025.htm
-source_file: originals/e015149385e6df8b25c682a023fae31ec963e383ce8ed9abfa20e2666ce8f6a7.md
-source_sha256: e015149385e6df8b25c682a023fae31ec963e383ce8ed9abfa20e2666ce8f6a7
-checked_on: '2026-11-09'
 publisher: 人民出版社
 ---
 

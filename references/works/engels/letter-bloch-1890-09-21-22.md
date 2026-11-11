@@ -5,11 +5,7 @@ authors:
 edition: 《马克思恩格斯全集》中文第1版第37卷；MIA电子文字版，具体印次未核
 dates:
   written: 未标明
-text_status: source_and_conversion_reviewed
 source: https://www.marxists.org/chinese/marx-engels/37/220.htm
-source_file: originals/17a3d1b63a6cf24ecfe1f1d427ad5711b648bb19447ae95dc344e3489d9fe8a2.md
-source_sha256: 17a3d1b63a6cf24ecfe1f1d427ad5711b648bb19447ae95dc344e3489d9fe8a2
-checked_on: '2026-11-09'
 publisher: 人民出版社
 ---
 

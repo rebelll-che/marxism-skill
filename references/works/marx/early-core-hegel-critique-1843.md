@@ -9,15 +9,13 @@ dates:
   written: '1843'
   publication: '1976'
 source: https://marx.works/me01/me01_203.htm
-text_status: native_text_source_and_conversion_reviewed
-checked_on: '2026-11-10'
 ---
 
 # 黑格尔法哲学批判（德文现存正文）
 
 > 整理说明：采用MEW第1卷1976年版书203—333页的同版德文文字网页，按五部分顺序合并，保留现存对《法哲学》第261—313节的批判。原手稿前部失存、末尾中断；“完整”指现存已刊正文，不是完整写就的著作。不混入另作1844年《导言》，也不把旧中文版编者注拼到德文正文里。
 >
-> 引用黑格尔的段落保留为引用块，与马克思的评论分开；斜体、下划线及原页码标记保留。采用原生文字，不再使用旧中文稿的逐行OCR框。旧稿附收的马克思[《手稿索引》](hegel-critique-manuscript-index.md)单独保存中文版本及其来源限制。
+> 引用黑格尔的段落保留为引用块，与马克思的评论分开；斜体、下划线及原页码标记保留。采用原生文字，不再使用旧中文稿的逐行OCR框。
 >
 > 同版五部分来源：[203页起](https://marx.works/me01/me01_203.htm)、[234页起](https://marx.works/me01/me01_234.htm)、[263页起](https://marx.works/me01/me01_263.htm)、[288页起](https://marx.works/me01/me01_288.htm)、[316页起](https://marx.works/me01/me01_316.htm)。网页导航及页首重复的出版说明不混入正文，页码为德文版页码。
 

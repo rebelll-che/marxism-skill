@@ -5,11 +5,8 @@ authors:
 edition: 《马克思恩格斯文集》第2卷，人民出版社2009年；MIA中文电子文字版
 dates:
   written: 未标明
-text_status: 1851—1852年十九篇通讯的本版全部正文；第十九篇末预告未写成的后续通讯，依原文保留，不伪补。
+text_status: 1851—1852年十九篇通讯的本版全部正文；第十九篇末预告未写成的后续通讯，依原文保留。
 source: https://www.marxists.org/chinese/marx-engels2/02/08.htm
-source_file: originals/208b7f2405f52b9193e262fe0a2d4876bb67ee6763ccfb212ab0e9a3e70f263e.md
-source_sha256: 208b7f2405f52b9193e262fe0a2d4876bb67ee6763ccfb212ab0e9a3e70f263e
-checked_on: '2026-11-09'
 publisher: 人民出版社
 ---
 

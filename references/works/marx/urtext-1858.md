@@ -5,18 +5,14 @@ authors:
 edition: 《马克思恩格斯全集》中文第二版第31卷，人民出版社，1998年12月第2版；据原合稿所存同版EPUB文字分出
 dates:
   publication: '1998'
-text_status: source_and_conversion_reviewed
 source: https://blacknews.jojokanbao.cn/content/books/ma-ke-si-en-ge-si-quan-ji/items/volume-31/exports/dcOTAAaF0IgBzueWLs.jox
-source_file: originals/a7ffde8c1642e0282cc221156219994fdaffead58278dc6cd4b3ac79f2ef5e49.md
-source_sha256: a7ffde8c1642e0282cc221156219994fdaffead58278dc6cd4b3ac79f2ef5e49
-checked_on: '2026-11-10'
 publisher: 人民出版社
 language: 中文
 ---
 
 # 《政治经济学批判。第一分册》第二章初稿片断和第三章开头部分
 
-> 整理说明：1858年独立初稿（Urtext），保留旧合稿中文第二版第31卷全文及注释，不重复收录1859年正式出版定稿，不与1857—1858年德文手稿混编。
+> 1858年的独立初稿（Urtext），采用中文第二版第31卷所载文本。
 
 
 > 范围说明（整理者）：1858年8—10月；第31卷书页313—403。现存第二章结尾、第三章开头及补记；原稿前半没有保存，第三章在“生产劳动和非生产劳动”标题后中断。

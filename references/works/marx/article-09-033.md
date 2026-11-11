@@ -7,15 +7,12 @@ dates:
   written: 未标明
 text_status: 1853年殖民问题时评
 source: https://www.marxists.org/chinese/marx-engels/09/033.htm
-source_file: originals/313bb27ffc7d50b3779758ab69cf165e7713b976ee448eba1136ba49284d4efe.md
-source_sha256: 313bb27ffc7d50b3779758ab69cf165e7713b976ee448eba1136ba49284d4efe
-checked_on: '2026-11-09'
 ---
 
 # 不列颠在印度统治的未来结果
 
-> 本Skill收录文本。作者、日期、正文与已有9部的重复关系已核；尚未做同卷全文校对。
-> 保留源页正文、随文注及页末注释；页末注释可能含作者、编者或译者文字，不能全部当成编者注或作者主张。复杂表格保留HTML行列结构，公式图片保留原位置，未伪造逐段书页。
+
+
 
 <!-- 原页：https://www.marxists.org/chinese/marx-engels/09/033.htm；原文件：sources/db2f533258be6b6fb9e097a4d78895183d3a8b78a76cfe345416c956dd3d3bc5.html -->
 卡·马克思

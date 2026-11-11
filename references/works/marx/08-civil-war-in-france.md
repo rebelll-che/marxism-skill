@@ -1,6 +1,7 @@
 ---
 title: 法兰西内战
-authors: [卡尔·马克思]
+authors:
+- 卡尔·马克思
 edition: 2009年《马克思恩格斯文集》第3卷中文译本，含相关宣言、正文和手稿摘录
 publisher: 人民出版社
 translator: 中共中央马克思恩格斯列宁斯大林著作编译局
@@ -8,11 +9,7 @@ dates:
   written: 1870—1871
   first_published: 1871
 text_status: 收录马克思的两篇普法战争宣言、《法兰西内战》正文和两份手稿摘录，并附恩格斯1891年版导言
-source: "人民出版社2009年《马克思恩格斯文集》第3卷本地PDF；正文转写参考 https://www.marxists.org/chinese/marx-engels2/03/07.htm"
-source_file: originals/volume-3/58ff369d9dcad08553547d61e45a65a30cf554427bc8e56e646a3bac33737fa1.pdf
-source_sha256: 58ff369d9dcad08553547d61e45a65a30cf554427bc8e56e646a3bac33737fa1
-check_notes: "正文按开头、中段、结尾和章节顺序检查，并抽样对照同版PDF；正文引用的卷末注释取自 https://www.marxists.org/chinese/marx-engels2/03/29.htm，本地文件为 originals/web/17cdd0d0bef7b270af5d63cdf9d29d6f539bdc476635e8b0583761bd397dd1b9.html。本文件是供检索使用的校订转写，不替代纸质或PDF版本。"
-checked_on: 2026-10-12
+source: 人民出版社2009年《马克思恩格斯文集》第3卷本地PDF；正文转写参考 https://www.marxists.org/chinese/marx-engels2/03/07.htm
 ---
 
 # 法兰西内战

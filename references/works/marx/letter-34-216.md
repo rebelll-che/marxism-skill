@@ -5,18 +5,14 @@ authors:
 edition: 《马克思恩格斯文集》第10卷，人民出版社2009年12月第1版第1次印刷，ISBN 978-7-01-007696-6。
 dates:
   written: 未标明
-text_status: source_and_conversion_reviewed
 source: https://www.marxists.org/chinese/marx-engels2/10/159.htm
-source_file: originals/ed2a1a7f59324bc16831f2e2f56518e7faa866cee0ecb0b6c20185dd80e43bdc.md
-source_sha256: ed2a1a7f59324bc16831f2e2f56518e7faa866cee0ecb0b6c20185dd80e43bdc
-checked_on: '2026-11-09'
 ---
 
 # 马克思致马克西姆·马克西莫维奇·柯瓦列夫斯基（4月）
 
-> 整理候选，尚未进入应用知识库；当前检查结论见收集清单。
-> 选版：逐段比较旧版正文及又及，所载范围完整，优先采用2009年修订译文；不以相似度代替范围判断。旧原注428说明原信未保存，本处保留现存转引范围，不称已找到完整原信；重农学派注号已核同版扫描。
-> 原版附笔、编辑或译者注依其标识保留，不全部归为马克思正文。
+
+> 本信原件未保存，此处为原版注428所载的转引片段。
+
 
 ## 书信正文
 

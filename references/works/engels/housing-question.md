@@ -5,11 +5,7 @@ authors:
 edition: 《马克思恩格斯文集》第3卷，人民出版社2009年；MIA电子文字版
 dates:
   written: 未标明
-text_status: source_and_conversion_reviewed
 source: https://www.marxists.org/chinese/marx-engels2/03/11.htm
-source_file: originals/9a3c45c4bba8e69efd1efce113955282ad020c101d4c20ee9ddade7eb0e30a98.md
-source_sha256: 9a3c45c4bba8e69efd1efce113955282ad020c101d4c20ee9ddade7eb0e30a98
-checked_on: '2026-11-09'
 publisher: 人民出版社
 ---
 

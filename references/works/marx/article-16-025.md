@@ -7,15 +7,12 @@ dates:
   written: 未标明
 text_status: 1866年国际工人协会代表指示
 source: https://www.marxists.org/chinese/marx-engels/16/025.htm
-source_file: originals/97454883e12f64100c37abc14b0f0e6985a3b16bcb9815e84a52ea60545e8293.md
-source_sha256: 97454883e12f64100c37abc14b0f0e6985a3b16bcb9815e84a52ea60545e8293
-checked_on: '2026-11-09'
 ---
 
 # 临时中央委员会就若干问题给代表的指示
 
-> 范围与参与方式：卷目录与原页作者题头/写作刊行说明相符；题名起至原注完整，无占位页或明显乱码。
-> 他人发言、附文、引文和编译者注依原标识保留，不全部作为马克思本人的表达。
+
+> 他人发言、附文、引文和编译者注按原标识分别列出。
 
 ## 正文及出版说明
 

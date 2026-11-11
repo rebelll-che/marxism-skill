@@ -1,10 +1,8 @@
 # 原著材料目录
 
-自动生成自本Skill的references/works下全部Markdown原著；请修改原著标准源后重新运行维护工具，不手工维护本目录。
+按作品名查找作者与采用版本，通过“正文”阅读原著，通过“章目”定位章节。
 
-本包包含 113 份马克思、恩格斯原著及相关文献，不代表完整收录马克思主义。
-
-原著正文、原有章节及元信息按原文件保留。来源、版本、原稿/修订等说明见各文件开头；整理检查记录不作为理论依据。用当前Agent自己的工具读取需要的章节，不必一次加载全库。正文和目录内链接均相对各自文件解析。头部source_file记录转换原件的位置，原件不随本包打包；需要对照来源时使用source字段已有的公共来源。
+共收录 110 份文献。来源和出版信息见各作品开头。
 
 | 作品 | 作者 | 采用版本 | 正文 | 章目 |
 | --- | --- | --- | --- | --- |
@@ -35,64 +33,61 @@
 | 卡尔·马克思《政治经济学批判。第一分册》 | 弗里德里希·恩格斯 | 《马克思恩格斯文集》第2卷，人民出版社2009年；MIA中文电子文字版 | [读取](works/engels/review-critique-of-political-economy-1859.md) | [章目](chapters.md#works/engels/review-critique-of-political-economy-1859.md) |
 | 德国的革命和反革命 | 弗里德里希·恩格斯 | 《马克思恩格斯文集》第2卷，人民出版社2009年；MIA中文电子文字版 | [读取](works/engels/revolution-and-counter-revolution-in-germany.md) | [章目](chapters.md#works/engels/revolution-and-counter-revolution-in-germany.md) |
 | 共产党宣言 | 卡尔·马克思、弗里德里希·恩格斯 | 2009年《马克思恩格斯文集》第2卷中文译本，含1872—1893年各版序言 | [读取](works/marx-engels/03-communist-manifesto.md) | [章目](chapters.md#works/marx-engels/03-communist-manifesto.md) |
-| 关于波兰的演说——1847年11月29日在伦敦纪念1830年波兰起义十七周年的国际大会上 | 卡尔·马克思、弗里德里希·恩格斯 | 《马克思恩格斯文集》第1卷，中共中央马克思恩格斯列宁斯大林著作编译局编译，北京：人民出版社，2009年12月第1版第1次印刷；ISBN 978-7-01-008461-9。MIA中文网页整理本，以已有同版扫描页图核对。 | [读取](works/marx-engels/article-04-033.md) | [章目](chapters.md#works/marx-engels/article-04-033.md) |
+| 关于波兰的演说——1847年11月29日在伦敦纪念1830年波兰起义十七周年的国际大会上 | 卡尔·马克思、弗里德里希·恩格斯 | 《马克思恩格斯文集》第1卷，中共中央马克思恩格斯列宁斯大林著作编译局编译，北京：人民出版社，2009年12月第1版第1次印刷；ISBN 978-7-01-008461-9。MIA中文网页整理本。 | [读取](works/marx-engels/article-04-033.md) | [章目](chapters.md#works/marx-engels/article-04-033.md) |
 | 共产党在德国的要求 | 卡尔·马克思、弗里德里希·恩格斯 | 《马克思恩格斯全集》中文第一版第5卷，人民出版社；MIA电子文字页，具体出版印次未核。 | [读取](works/marx-engels/article-05-001.md) | [章目](chapters.md#works/marx-engels/article-05-001.md) |
 | “新莱茵报。政治经济评论”出版启事 | 卡尔·马克思、弗里德里希·恩格斯 | 《马克思恩格斯全集》中文第1版第7卷，人民出版社；MIA电子页，具体印次未核。 | [读取](works/marx-engels/article-07-001.md) | [章目](chapters.md#works/marx-engels/article-07-001.md) |
-| 共产主义者同盟中央委员会告同盟书（1850年3月） | 卡尔·马克思、弗里德里希·恩格斯 | 《马克思恩格斯文集》第2卷，人民出版社2009年12月第1版；MIA文字页，对照项目已有同版扫描。 | [读取](works/marx-engels/article-07-017.md) | [章目](chapters.md#works/marx-engels/article-07-017.md) |
-| 给奥·倍倍尔、威·李卜克内西、威·白拉克等人的通告信 | 卡尔·马克思、弗里德里希·恩格斯 | 《马克思恩格斯文集》第3卷，人民出版社2009年12月第1版第1次印刷；MIA电子文字页，对照已存扫描PDF。 | [读取](works/marx-engels/article-19-018.md) | [章目](chapters.md#works/marx-engels/article-19-018.md) |
+| 共产主义者同盟中央委员会告同盟书（1850年3月） | 卡尔·马克思、弗里德里希·恩格斯 | 《马克思恩格斯文集》第2卷，人民出版社2009年12月第1版；MIA文字页。 | [读取](works/marx-engels/article-07-017.md) | [章目](chapters.md#works/marx-engels/article-07-017.md) |
+| 给奥·倍倍尔、威·李卜克内西、威·白拉克等人的通告信 | 卡尔·马克思、弗里德里希·恩格斯 | 《马克思恩格斯文集》第3卷，人民出版社2009年12月第1版第1次印刷；MIA电子文字页。 | [读取](works/marx-engels/article-19-018.md) | [章目](chapters.md#works/marx-engels/article-19-018.md) |
 | 德意志意识形态 | 卡尔·马克思、弗里德里希·恩格斯 | 《马克思恩格斯全集》中文第一版第3卷，人民出版社1960年版体系；MIA文字页，具体印次未标 | [读取](works/marx-engels/german-ideology.md) | [章目](chapters.md#works/marx-engels/german-ideology.md) |
 | 神圣家族，或对批判的批判所做的批判。驳布鲁诺·鲍威尔及其伙伴 | 卡尔·马克思、弗里德里希·恩格斯 | 《马克思恩格斯全集》中文第一版第2卷（人民出版社）；MIA文字页，具体印次未标 | [读取](works/marx-engels/holy-family.md) | [章目](chapters.md#works/marx-engels/holy-family.md) |
 | 1844年经济学哲学手稿 | 卡尔·马克思 | 2009年《马克思恩格斯文集》第1卷中文译本 | [读取](works/marx/01-1844-manuscripts.md) | [章目](chapters.md#works/marx/01-1844-manuscripts.md) |
 | 关于费尔巴哈的提纲 | 卡尔·马克思 | 2009年《马克思恩格斯文集》第1卷中文译本，收录1845年稿本和1888年恩格斯发表稿本 | [读取](works/marx/02-theses-on-feuerbach.md) | [章目](chapters.md#works/marx/02-theses-on-feuerbach.md) |
 | 雇佣劳动与资本 | 卡尔·马克思 | 1891年恩格斯修订版，收录于2009年《马克思恩格斯文集》第1卷 | [读取](works/marx/04-wage-labour-and-capital.md) | [章目](chapters.md#works/marx/04-wage-labour-and-capital.md) |
-| 〈政治经济学批判〉序言 | 卡尔·马克思 | 2009年《马克思恩格斯文集》第2卷中文译本 | [读取](works/marx/05-preface-critique-political-economy.md) | [章目](chapters.md#works/marx/05-preface-critique-political-economy.md) |
 | 工资、价格和利润 | 卡尔·马克思 | 2009年《马克思恩格斯文集》第3卷中文译本 | [读取](works/marx/06-value-price-and-profit.md) | [章目](chapters.md#works/marx/06-value-price-and-profit.md) |
 | 路易·波拿巴的雾月十八日 | 卡尔·马克思 | 1869年第二版正文，收录于2009年《马克思恩格斯文集》第2卷 | [读取](works/marx/07-eighteenth-brumaire.md) | [章目](chapters.md#works/marx/07-eighteenth-brumaire.md) |
 | 法兰西内战 | 卡尔·马克思 | 2009年《马克思恩格斯文集》第3卷中文译本，含相关宣言、正文和手稿摘录 | [读取](works/marx/08-civil-war-in-france.md) | [章目](chapters.md#works/marx/08-civil-war-in-france.md) |
 | 哥达纲领批判 | 卡尔·马克思 | 2009年《马克思恩格斯文集》第3卷中文译本 | [读取](works/marx/09-critique-gotha-programme.md) | [章目](chapters.md#works/marx/09-critique-gotha-programme.md) |
-| 关于自由贸易问题的演说——1848年1月9日在布鲁塞尔民主协会召开的公众大会上 | 卡尔·马克思 | 《马克思恩格斯文集》第1卷，中共中央马克思恩格斯列宁斯大林著作编译局编译，北京：人民出版社，2009年12月第1版第1次印刷；ISBN 978-7-01-008461-9。MIA中文网页整理本，以已有同版扫描页图核对。 | [读取](works/marx/article-04-043.md) | [章目](chapters.md#works/marx/article-04-043.md) |
+| 关于自由贸易问题的演说——1848年1月9日在布鲁塞尔民主协会召开的公众大会上 | 卡尔·马克思 | 《马克思恩格斯文集》第1卷，中共中央马克思恩格斯列宁斯大林著作编译局编译，北京：人民出版社，2009年12月第1版第1次印刷；ISBN 978-7-01-008461-9。MIA中文网页整理本。 | [读取](works/marx/article-04-043.md) | [章目](chapters.md#works/marx/article-04-043.md) |
 | 中国革命和欧洲革命 | 卡尔·马克思 | 《马克思恩格斯全集》中文第一版第9卷，MIA文字页；具体印次未标 | [读取](works/marx/article-09-017.md) | [章目](chapters.md#works/marx/article-09-017.md) |
 | 不列颠在印度的统治 | 卡尔·马克思 | 《马克思恩格斯全集》中文第一版第9卷，MIA文字页；具体印次未标 | [读取](works/marx/article-09-022.md) | [章目](chapters.md#works/marx/article-09-022.md) |
 | 不列颠在印度统治的未来结果 | 卡尔·马克思 | 《马克思恩格斯全集》中文第一版第9卷，MIA文字页；具体印次未标 | [读取](works/marx/article-09-033.md) | [章目](chapters.md#works/marx/article-09-033.md) |
-| 在《人民报》创刊纪念会上的演说 | 卡尔·马克思 | 《马克思恩格斯文集》第2卷，人民出版社2009年12月第1版；MIA文字页，对照项目已有同版扫描。 | [读取](works/marx/article-12-001.md) | [章目](chapters.md#works/marx/article-12-001.md) |
-| 英人在华的残暴行动 | 卡尔·马克思 | 《马克思恩格斯文集》第2卷，人民出版社2009年12月第1版；MIA文字页，对照项目已有同版扫描。 | [读取](works/marx/article-12-029.md) | [章目](chapters.md#works/marx/article-12-029.md) |
-| 鸦片贸易史（两篇） | 卡尔·马克思 | 《马克思恩格斯文集》第2卷，人民出版社2009年12月第1版；MIA文字页，对照项目已有同版扫描。 | [读取](works/marx/article-12-104.md) | [章目](chapters.md#works/marx/article-12-104.md) |
-| 英中条约 | 卡尔·马克思 | 《马克思恩格斯文集》第2卷，人民出版社2009年12月第1版；MIA文字页，对照项目已有同版扫描。 | [读取](works/marx/article-12-107.md) | [章目](chapters.md#works/marx/article-12-107.md) |
-| 中国和英国的条约 | 卡尔·马克思 | 《马克思恩格斯文集》第2卷，人民出版社2009年12月第1版；MIA文字页，对照项目已有同版扫描。 | [读取](works/marx/article-12-111.md) | [章目](chapters.md#works/marx/article-12-111.md) |
-| 新的对华战争（四篇） | 卡尔·马克思 | 《马克思恩格斯文集》第2卷，人民出版社2009年12月第1版；MIA文字页，对照项目已有同版扫描。 | [读取](works/marx/article-13-069.md) | [章目](chapters.md#works/marx/article-13-069.md) |
-| 对华贸易 | 卡尔·马克思 | 《马克思恩格斯文集》第2卷，人民出版社2009年12月第1版；MIA文字页，对照项目已有同版扫描。 | [读取](works/marx/article-13-073.md) | [章目](chapters.md#works/marx/article-13-073.md) |
-| 国际工人协会成立宣言 | 卡尔·马克思 | 《马克思恩格斯文集》第3卷，人民出版社2009年12月第1版；MIA文字页，对照项目已有同版扫描。 | [读取](works/marx/article-16-001.md) | [章目](chapters.md#works/marx/article-16-001.md) |
-| 论蒲鲁东（给约·巴·施韦泽的信） | 卡尔·马克思 | 《马克思恩格斯文集》第3卷，人民出版社2009年12月第1版；MIA文字页，对照项目已有同版扫描。 | [读取](works/marx/article-16-007.md) | [章目](chapters.md#works/marx/article-16-007.md) |
+| 在《人民报》创刊纪念会上的演说 | 卡尔·马克思 | 《马克思恩格斯文集》第2卷，人民出版社2009年12月第1版；MIA文字页。 | [读取](works/marx/article-12-001.md) | [章目](chapters.md#works/marx/article-12-001.md) |
+| 英人在华的残暴行动 | 卡尔·马克思 | 《马克思恩格斯文集》第2卷，人民出版社2009年12月第1版；MIA文字页。 | [读取](works/marx/article-12-029.md) | [章目](chapters.md#works/marx/article-12-029.md) |
+| 鸦片贸易史（两篇） | 卡尔·马克思 | 《马克思恩格斯文集》第2卷，人民出版社2009年12月第1版；MIA文字页。 | [读取](works/marx/article-12-104.md) | [章目](chapters.md#works/marx/article-12-104.md) |
+| 英中条约 | 卡尔·马克思 | 《马克思恩格斯文集》第2卷，人民出版社2009年12月第1版；MIA文字页。 | [读取](works/marx/article-12-107.md) | [章目](chapters.md#works/marx/article-12-107.md) |
+| 中国和英国的条约 | 卡尔·马克思 | 《马克思恩格斯文集》第2卷，人民出版社2009年12月第1版；MIA文字页。 | [读取](works/marx/article-12-111.md) | [章目](chapters.md#works/marx/article-12-111.md) |
+| 新的对华战争（四篇） | 卡尔·马克思 | 《马克思恩格斯文集》第2卷，人民出版社2009年12月第1版；MIA文字页。 | [读取](works/marx/article-13-069.md) | [章目](chapters.md#works/marx/article-13-069.md) |
+| 对华贸易 | 卡尔·马克思 | 《马克思恩格斯文集》第2卷，人民出版社2009年12月第1版；MIA文字页。 | [读取](works/marx/article-13-073.md) | [章目](chapters.md#works/marx/article-13-073.md) |
+| 国际工人协会成立宣言 | 卡尔·马克思 | 《马克思恩格斯文集》第3卷，人民出版社2009年12月第1版；MIA文字页。 | [读取](works/marx/article-16-001.md) | [章目](chapters.md#works/marx/article-16-001.md) |
+| 论蒲鲁东（给约·巴·施韦泽的信） | 卡尔·马克思 | 《马克思恩格斯文集》第3卷，人民出版社2009年12月第1版；MIA文字页。 | [读取](works/marx/article-16-007.md) | [章目](chapters.md#works/marx/article-16-007.md) |
 | 临时中央委员会就若干问题给代表的指示 | 卡尔·马克思 | 《马克思恩格斯全集》中文第1版第16卷，人民出版社；MIA电子页，具体印次未核。 | [读取](works/marx/article-16-025.md) | [章目](chapters.md#works/marx/article-16-025.md) |
-| 总委员会关于继承权的报告 | 卡尔·马克思 | 《马克思恩格斯文集》第3卷，人民出版社2009年12月第1版；MIA文字页，对照项目已有同版扫描。 | [读取](works/marx/article-16-062.md) | [章目](chapters.md#works/marx/article-16-062.md) |
-| 纪念国际成立七周年——1871年9月24日讲话报道节录 | 卡尔·马克思 | 《马克思恩格斯文集》第3卷，人民出版社2009年12月第1版第1次印刷；MIA文字页，对照已存扫描。 | [读取](works/marx/article-17-050.md) | [章目](chapters.md#works/marx/article-17-050.md) |
-| 关于巴黎公社的发言记录——1871年5月23日 | 卡尔·马克思 | 《马克思恩格斯文集》第3卷，人民出版社2009年12月第1版第1次印刷；MIA文字页，对照已存扫描。 | [读取](works/marx/article-17-078.md) | [章目](chapters.md#works/marx/article-17-078.md) |
-| 同《世界报》记者谈话的记录 | 卡尔·马克思 | 《马克思恩格斯文集》第3卷，人民出版社2009年12月第1版第1次印刷；MIA文字页，对照已存扫描。 | [读取](works/marx/article-17-080.md) | [章目](chapters.md#works/marx/article-17-080.md) |
-| 论土地国有化 | 卡尔·马克思 | 《马克思恩格斯文集》第3卷，人民出版社2009年12月第1版；MIA文字页，对照项目已有同版扫描。 | [读取](works/marx/article-18-006.md) | [章目](chapters.md#works/marx/article-18-006.md) |
-| 政治冷淡主义 | 卡尔·马克思 | 《马克思恩格斯文集》第3卷，人民出版社2009年12月第1版；MIA文字页，对照项目已有同版扫描。 | [读取](works/marx/article-18-047.md) | [章目](chapters.md#works/marx/article-18-047.md) |
+| 总委员会关于继承权的报告 | 卡尔·马克思 | 《马克思恩格斯文集》第3卷，人民出版社2009年12月第1版；MIA文字页。 | [读取](works/marx/article-16-062.md) | [章目](chapters.md#works/marx/article-16-062.md) |
+| 纪念国际成立七周年——1871年9月24日讲话报道节录 | 卡尔·马克思 | 《马克思恩格斯文集》第3卷，人民出版社2009年12月第1版第1次印刷；MIA文字页。 | [读取](works/marx/article-17-050.md) | [章目](chapters.md#works/marx/article-17-050.md) |
+| 关于巴黎公社的发言记录——1871年5月23日 | 卡尔·马克思 | 《马克思恩格斯文集》第3卷，人民出版社2009年12月第1版第1次印刷；MIA文字页。 | [读取](works/marx/article-17-078.md) | [章目](chapters.md#works/marx/article-17-078.md) |
+| 同《世界报》记者谈话的记录 | 卡尔·马克思 | 《马克思恩格斯文集》第3卷，人民出版社2009年12月第1版第1次印刷；MIA文字页。 | [读取](works/marx/article-17-080.md) | [章目](chapters.md#works/marx/article-17-080.md) |
+| 论土地国有化 | 卡尔·马克思 | 《马克思恩格斯文集》第3卷，人民出版社2009年12月第1版；MIA文字页。 | [读取](works/marx/article-18-006.md) | [章目](chapters.md#works/marx/article-18-006.md) |
+| 政治冷淡主义 | 卡尔·马克思 | 《马克思恩格斯文集》第3卷，人民出版社2009年12月第1版；MIA文字页。 | [读取](works/marx/article-18-047.md) | [章目](chapters.md#works/marx/article-18-047.md) |
 | 巴枯宁《国家制度和无政府状态》一书摘要 | 卡尔·马克思 | 《马克思恩格斯全集》中文第1版第18卷，人民出版社；MIA电子页，具体印次未核。 | [读取](works/marx/article-18-069.md) | [章目](chapters.md#works/marx/article-18-069.md) |
-| 给《祖国纪事》杂志编辑部的信 | 卡尔·马克思 | 《马克思恩格斯文集》第3卷，人民出版社2009年12月第1版第1次印刷；MIA电子文字页，对照已存扫描PDF。 | [读取](works/marx/article-19-011.md) | [章目](chapters.md#works/marx/article-19-011.md) |
+| 给《祖国纪事》杂志编辑部的信 | 卡尔·马克思 | 《马克思恩格斯文集》第3卷，人民出版社2009年12月第1版第1次印刷；MIA电子文字页。 | [读取](works/marx/article-19-011.md) | [章目](chapters.md#works/marx/article-19-011.md) |
 | 工人调查表 | 卡尔·马克思 | 《马克思恩格斯全集》中文第1版第19卷，人民出版社1963年；MIA电子文字页，具体印次未核。 | [读取](works/marx/article-19-022.md) | [章目](chapters.md#works/marx/article-19-022.md) |
-| 法国工人党纲领导言（草案） | 卡尔·马克思 | 《马克思恩格斯文集》第3卷，人民出版社2009年12月第1版第1次印刷；MIA电子文字页，对照已存扫描PDF。 | [读取](works/marx/article-19-024.md) | [章目](chapters.md#works/marx/article-19-024.md) |
-| 给维·伊·查苏利奇的复信（定稿） | 卡尔·马克思 | 《马克思恩格斯文集》第3卷，人民出版社2009年12月第1版第1次印刷；MIA电子文字页，对照已存扫描PDF。 | [读取](works/marx/article-19-026.md) | [章目](chapters.md#works/marx/article-19-026.md) |
-| 给维·伊·查苏利奇的复信草稿（初稿、二稿、三稿） | 卡尔·马克思 | 《马克思恩格斯文集》第3卷，人民出版社2009年12月第1版第1次印刷；MIA电子文字页，对照已存扫描PDF。 二稿单独使用《马克思恩格斯全集》中文第1版第19卷，人民出版社1963年；MIA电子文字页，具体印次未核。 | [读取](works/marx/article-19-055.md) | [章目](chapters.md#works/marx/article-19-055.md) |
+| 法国工人党纲领导言（草案） | 卡尔·马克思 | 《马克思恩格斯文集》第3卷，人民出版社2009年12月第1版第1次印刷；MIA电子文字页。 | [读取](works/marx/article-19-024.md) | [章目](chapters.md#works/marx/article-19-024.md) |
+| 给维·伊·查苏利奇的复信（定稿） | 卡尔·马克思 | 《马克思恩格斯文集》第3卷，人民出版社2009年12月第1版第1次印刷；MIA电子文字页。 | [读取](works/marx/article-19-026.md) | [章目](chapters.md#works/marx/article-19-026.md) |
+| 给维·伊·查苏利奇的复信草稿（初稿、二稿、三稿） | 卡尔·马克思 | 《马克思恩格斯文集》第3卷，人民出版社2009年12月第1版第1次印刷；MIA电子文字页。 二稿单独使用《马克思恩格斯全集》中文第1版第19卷，人民出版社1963年；MIA电子文字页，具体印次未核。 | [读取](works/marx/article-19-055.md) | [章目](chapters.md#works/marx/article-19-055.md) |
 | 资本论第一卷 | 卡尔·马克思 | 《马克思恩格斯全集》中文第二版第44卷，人民出版社2001年6月版；MIA文字页，具体印次未标 | [读取](works/marx/capital-volume-1.md) | [章目](chapters.md#works/marx/capital-volume-1.md) |
 | 资本论第二卷 | 卡尔·马克思 | 2009年《马克思恩格斯文集》第6卷；MIA文字页 | [读取](works/marx/capital-volume-2.md) | [章目](chapters.md#works/marx/capital-volume-2.md) |
 | 资本论第三卷 | 卡尔·马克思 | 2009年《马克思恩格斯文集》第7卷；MIA文字页 | [读取](works/marx/capital-volume-3.md) | [章目](chapters.md#works/marx/capital-volume-3.md) |
-| 1848年至1850年的法兰西阶级斗争 | 卡尔·马克思 | 《马克思恩格斯文集》第2卷，人民出版社，2009年12月第1版；同版MIA网页整理并对照扫描本。 | [读取](works/marx/class-struggles-in-france.md) | [章目](chapters.md#works/marx/class-struggles-in-france.md) |
+| 1848年至1850年的法兰西阶级斗争 | 卡尔·马克思 | 《马克思恩格斯文集》第2卷，人民出版社，2009年12月第1版；同版MIA网页整理。 | [读取](works/marx/class-struggles-in-france.md) | [章目](chapters.md#works/marx/class-struggles-in-france.md) |
 | 政治经济学批判 | 卡尔·马克思 | 《马克思恩格斯全集》中文第一版第13卷，人民出版社1962年版；中共中央马克思恩格斯列宁斯大林著作编译局编译（MIA中文电子文本，具体印次未标） | [读取](works/marx/critique-of-political-economy.md) | [章目](chapters.md#works/marx/critique-of-political-economy.md) |
 | 第六届莱茵省议会的辩论(第三篇论文)　关于林木盗窃法的辩论 | 卡尔·马克思 | 中文第二版第1卷；页内编辑说明明示，具体中文出版印次待核。 | [读取](works/marx/early-01-016.md) | [章目](chapters.md#works/marx/early-01-016.md) |
 | 詹姆斯・穆勒《政治经济学原理》一书摘要 | 卡尔·马克思 | 中文第一版补卷第42卷；具体印次待核。 | [读取](works/marx/early-42-002.md) | [章目](chapters.md#works/marx/early-42-002.md) |
 | 黑格尔法哲学批判（德文现存正文） | 卡尔·马克思 | Marx/Engels Werke（MEW）第1卷，Dietz Verlag，Berlin/DDR，1976年，书203—333页 | [读取](works/marx/early-core-hegel-critique-1843.md) | [章目](chapters.md#works/marx/early-core-hegel-critique-1843.md) |
-| 《黑格尔法哲学批判》导言 | 卡尔·马克思 | 《马克思恩格斯文集》第1卷，人民出版社，2009年12月第1版；MIA文字页，已以同版扫描核范围及所列疑字。 | [读取](works/marx/early-core-hegel-critique-introduction-1843.md) | [章目](chapters.md#works/marx/early-core-hegel-critique-introduction-1843.md) |
-| 论犹太人问题 | 卡尔·马克思 | 《马克思恩格斯文集》第1卷，人民出版社，2009年12月第1版；MIA文字页，已以同版扫描核范围及所列疑字。 | [读取](works/marx/early-core-on-the-jewish-question-1843.md) | [章目](chapters.md#works/marx/early-core-on-the-jewish-question-1843.md) |
+| 《黑格尔法哲学批判》导言 | 卡尔·马克思 | 《马克思恩格斯文集》第1卷，人民出版社，2009年12月第1版；MIA文字页。 | [读取](works/marx/early-core-hegel-critique-introduction-1843.md) | [章目](chapters.md#works/marx/early-core-hegel-critique-introduction-1843.md) |
+| 论犹太人问题 | 卡尔·马克思 | 《马克思恩格斯文集》第1卷，人民出版社，2009年12月第1版；MIA文字页。 | [读取](works/marx/early-core-on-the-jewish-question-1843.md) | [章目](chapters.md#works/marx/early-core-on-the-jewish-question-1843.md) |
 | 马克思致阿尔诺德·卢格（1843年3月，《德法年鉴》公开通信） | 卡尔·马克思 | 马克思恩格斯文集第10卷，人民出版社，2009年12月第1版 | [读取](works/marx/early-core-ruge-public-letter-1843-03.md) | [章目](chapters.md#works/marx/early-core-ruge-public-letter-1843-03.md) |
 | 马克思致阿尔诺德·卢格（1843年9月，《德法年鉴》公开通信） | 卡尔·马克思 | 马克思恩格斯文集第10卷，人民出版社，2009年12月第1版 | [读取](works/marx/early-core-ruge-public-letter-1843-09.md) | [章目](chapters.md#works/marx/early-core-ruge-public-letter-1843-09.md) |
-| 1861—1863年经济学手稿（中文及德文补缺） | 卡尔·马克思 | 第一至四及第六部分为中文全集第二版32、33、34、35、37卷；第五部分据MEGA II/3.5德文原稿补缺，非同一中文译本全本。 | [读取](works/marx/economic-manuscripts-1861-1863-zh-de.md) | [章目](chapters.md#works/marx/economic-manuscripts-1861-1863-zh-de.md) |
-| 法国的动产信用公司（三篇论文） | 卡尔·马克思 | 《马克思恩格斯文集》第2卷，人民出版社2009年12月第1版；MIA文字页，对照项目已有同版扫描。 第一、二篇采用《马克思恩格斯全集》中文第1版第12卷。 | [读取](works/marx/french-credit-mobilier.md) | [章目](chapters.md#works/marx/french-credit-mobilier.md) |
+| 法国的动产信用公司（三篇论文） | 卡尔·马克思 | 《马克思恩格斯文集》第2卷，人民出版社2009年12月第1版；MIA文字页。 第一、二篇采用《马克思恩格斯全集》中文第1版第12卷。 | [读取](works/marx/french-credit-mobilier.md) | [章目](chapters.md#works/marx/french-credit-mobilier.md) |
 | 1857—1858年经济学手稿（含巴师夏和凯里、导言） | 卡尔·马克思 | MEGA 第二部分第1卷（II/1），第1、2分册，德文原文；Dietz Verlag，1976、1981年 | [读取](works/marx/grundrisse-1857-1858.md) | [章目](chapters.md#works/marx/grundrisse-1857-1858.md) |
 | 七个笔记本的索引（第一部分） | 卡尔·马克思 | 《马克思恩格斯全集》中文第二版第31卷，人民出版社，1998年12月第2版；据原合稿所存同版EPUB文字分出 | [读取](works/marx/grundrisse-notebook-index-1858.md) | [章目](chapters.md#works/marx/grundrisse-notebook-index-1858.md) |
-| 《黑格尔法哲学批判》手稿索引 | 卡尔·马克思 | 《马克思恩格斯全集》中文第二版第3卷，人民出版社，2002年10月第2版，书159—160页 | [读取](works/marx/hegel-critique-manuscript-index.md) | [章目](chapters.md#works/marx/hegel-critique-manuscript-index.md) |
 | 马克思致路德维希·费尔巴哈（1843年10月3日） | 卡尔·马克思 | 《马克思恩格斯文集》第10卷，人民出版社2009年12月第1版第1次印刷，ISBN 978-7-01-007696-6。 | [读取](works/marx/letter-27-148.md) | [章目](chapters.md#works/marx/letter-27-148.md) |
 | 马克思致路德维希·费尔巴哈（1844年8月11日） | 卡尔·马克思 | 《马克思恩格斯文集》第10卷，人民出版社2009年12月第1版第1次印刷，ISBN 978-7-01-007696-6。 | [读取](works/marx/letter-27-151.md) | [章目](chapters.md#works/marx/letter-27-151.md) |
 | 马克思致巴维尔·瓦西里也维奇·安年柯夫（1846年12月28日） | 卡尔·马克思 | 《马克思恩格斯全集》中文第1版第27卷，MIA电子文字页；具体出版年份、印次未核。 | [读取](works/marx/letter-27-168.md) | [章目](chapters.md#works/marx/letter-27-168.md) |

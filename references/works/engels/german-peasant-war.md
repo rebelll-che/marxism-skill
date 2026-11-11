@@ -7,9 +7,6 @@ dates:
   written: 未标明
 text_status: 1850年正文七章；1870年第二版序言；1874年所写的该序言补充，按2009年文集编排合为一份。
 source: https://www.marxists.org/chinese/marx-engels2/02/06.htm
-source_file: originals/445371b7eb592844b0e0e22db5c2d311b41eef3c19f91bd31510fcd53e05f964.md
-source_sha256: 445371b7eb592844b0e0e22db5c2d311b41eef3c19f91bd31510fcd53e05f964
-checked_on: '2026-11-09'
 publisher: 人民出版社
 ---
 

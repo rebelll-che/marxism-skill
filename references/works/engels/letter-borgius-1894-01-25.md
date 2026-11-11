@@ -5,17 +5,13 @@ authors:
 edition: 《马克思恩格斯文集》第10卷，人民出版社2009年；MIA电子文字版
 dates:
   written: 未标明
-text_status: source_and_conversion_reviewed
 source: https://www.marxists.org/chinese/marx-engels2/10/266.htm
-source_file: originals/2a400a89494a7bda8370a8268b19acdf3ba8aa795aab7c44cbfc5e088d5a23cc.md
-source_sha256: 2a400a89494a7bda8370a8268b19acdf3ba8aa795aab7c44cbfc5e088d5a23cc
-checked_on: '2026-11-09'
 publisher: 人民出版社
 ---
 
 # 恩格斯致瓦尔特·博尔吉乌斯（1894年1月25日）
 
-> 收录范围：本版所载书信正文、署名及脚注；原信末尾两处缺损保持省略号和原注，不补造缺字。
+> 收录范围：本版所载书信正文、署名及脚注；原信末尾两处缺损保持省略号和原注。
 
 <!-- source-page: https://www.marxists.org/chinese/marx-engels2/10/266.htm; section: 正文与原出版说明 -->
 ### 266． 恩格斯致瓦尔特·博尔吉乌斯

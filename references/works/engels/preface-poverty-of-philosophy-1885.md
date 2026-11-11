@@ -7,9 +7,6 @@ dates:
   written: 1884年10月23日
 text_status: 已刊序言／导言
 source: https://www.marxists.org/chinese/marx-engels/21/007.htm
-source_file: originals/2ec0ad23a08892717623877c3b7e3ac46849578c81595e3092dad064bcdf0396.md
-source_sha256: 2ec0ad23a08892717623877c3b7e3ac46849578c81595e3092dad064bcdf0396
-checked_on: '2026-11-09'
 publisher: 人民出版社
 ---
 

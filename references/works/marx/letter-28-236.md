@@ -5,16 +5,12 @@ authors:
 edition: 《马克思恩格斯全集》中文第1版第28卷；MIA电子文字页，具体印次未核。
 dates:
   written: 未标明
-text_status: source_and_conversion_reviewed
 source: https://www.marxists.org/chinese/marx-engels/28/236.htm
-source_file: originals/87ca48fa754006612fe4ca93c09caff70afacc8bd0c9f280b575b998f72762de.md
-source_sha256: 87ca48fa754006612fe4ca93c09caff70afacc8bd0c9f280b575b998f72762de
-checked_on: '2026-11-09'
 ---
 
 # 马克思致约瑟夫·魏德迈（1852年3月5日）
 
-> 整理候选；选版与独立复核完成前不进入应用知识库。
+
 > 保留本版实际所载正文及原注；源文标明的残信、引文、草稿、删节及他人附笔仍按原标识理解，不据下载成功宣称原信完整。
 
 <!-- source-body-start: https://www.marxists.org/chinese/marx-engels/28/236.htm -->

@@ -2,21 +2,17 @@
 title: 总委员会关于继承权的报告
 authors:
 - 卡尔·马克思
-edition: 《马克思恩格斯文集》第3卷，人民出版社2009年12月第1版；MIA文字页，对照项目已有同版扫描。
+edition: 《马克思恩格斯文集》第3卷，人民出版社2009年12月第1版；MIA文字页。
 dates:
   written: 未标明
-text_status: source_and_conversion_reviewed
 source: https://www.marxists.org/chinese/marx-engels2/03/05.htm
-source_file: originals/8326bab4215cea9c7e036fa685ac82a4bfdd82c50e3552366e3646c1af326117.md
-source_sha256: 8326bab4215cea9c7e036fa685ac82a4bfdd82c50e3552366e3646c1af326117
-checked_on: '2026-11-09'
 ---
 
 # 总委员会关于继承权的报告
 
-> 整理候选，尚未进入应用知识库；当前检查结论见收集清单。
-> 范围：逐篇对照已刊正文首尾、实质段落及随文注；采用2009文集完整篇，不重复旧译。
-> 原页引文、编者/译者说明及恩格斯附注按其署名保留，不全部作为马克思个人正文。
+
+
+
 
 ## 2009文集正文
 

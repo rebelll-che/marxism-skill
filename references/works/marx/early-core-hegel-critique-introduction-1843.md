@@ -2,22 +2,18 @@
 title: 《黑格尔法哲学批判》导言
 authors:
 - 卡尔·马克思
-edition: 《马克思恩格斯文集》第1卷，人民出版社，2009年12月第1版；MIA文字页，已以同版扫描核范围及所列疑字。
+edition: 《马克思恩格斯文集》第1卷，人民出版社，2009年12月第1版；MIA文字页。
 dates:
   written: 1843年10月中—12月中
   publication: '2009'
-text_status: source_and_conversion_reviewed
 source: https://www.marxists.org/chinese/marx-engels2/01/01.htm
-source_file: originals/6e21be291b565145bc232c1043dc536ab7046cf61bfbe01632eadd2f3cce9595.md
-source_sha256: 6e21be291b565145bc232c1043dc536ab7046cf61bfbe01632eadd2f3cce9595
-checked_on: '2026-11-09'
 ---
 
 # 《黑格尔法哲学批判》导言
 
-> 整理候选；当前检查结论见收集清单。
+
 > 范围：文集书3—18页全文、6条随文编者注及卷末注1—15；与1843年未完成手稿《黑格尔法哲学批判》分别成篇。
-> 以原网页完整流为底稿；经扫描定位的少量识别错误另有校正记录，未作逐字零误差校勘。
+
 
 <!-- source-body-start -->
 <div class="source-text">

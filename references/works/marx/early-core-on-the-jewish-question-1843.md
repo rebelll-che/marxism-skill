@@ -2,22 +2,18 @@
 title: 论犹太人问题
 authors:
 - 卡尔·马克思
-edition: 《马克思恩格斯文集》第1卷，人民出版社，2009年12月第1版；MIA文字页，已以同版扫描核范围及所列疑字。
+edition: 《马克思恩格斯文集》第1卷，人民出版社，2009年12月第1版；MIA文字页。
 dates:
   written: 1843年10月中—12月中
   publication: '2009'
-text_status: source_and_conversion_reviewed
 source: https://www.marxists.org/chinese/marx-engels2/01/02.htm
-source_file: originals/1351c8a4b6782a442cf94811dce7ceb7f756b9821bf9ea108a2ecf1c9165b41e.md
-source_sha256: 1351c8a4b6782a442cf94811dce7ceb7f756b9821bf9ea108a2ecf1c9165b41e
-checked_on: '2026-11-09'
 ---
 
 # 论犹太人问题
 
-> 整理候选；当前检查结论见收集清单。
+
 > 范围：文集书21—55页两部分全文、18条随文编者注及卷末注16—24。标题中的“犹太人问题”是1843年原文；引文、作者论述及编者术语说明保持各自边界。
-> 以原网页完整流为底稿；经扫描定位的少量识别错误另有校正记录，未作逐字零误差校勘。
+
 
 <!-- source-body-start -->
 <div class="source-text">

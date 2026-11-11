@@ -1,6 +1,7 @@
 ---
 title: 路易·波拿巴的雾月十八日
-authors: [卡尔·马克思]
+authors:
+- 卡尔·马克思
 edition: 1869年第二版正文，收录于2009年《马克思恩格斯文集》第2卷
 publisher: 人民出版社
 translator: 中共中央马克思恩格斯列宁斯大林著作编译局
@@ -9,11 +10,7 @@ dates:
   first_published: 1852
   revised: 1869
 text_status: 采用马克思1869年第二版正文，并附马克思第二版序言和恩格斯1885年第三版序言
-source: "人民出版社2009年《马克思恩格斯文集》第2卷本地PDF；正文转写参考 https://www.marxists.org/chinese/marx-engels2/02/09.htm"
-source_file: originals/volume-2/20e58cee32f55bc90be0f8feebb8569d59026ba0591f88f5ff117632f504affd.pdf
-source_sha256: 20e58cee32f55bc90be0f8feebb8569d59026ba0591f88f5ff117632f504affd
-check_notes: "正文按开头、中段、结尾和章节顺序检查，并抽样对照同版PDF；正文引用的卷末注释取自 https://www.marxists.org/chinese/marx-engels2/02/26.htm，本地文件为 originals/web/b8423af4e946eb4305fb54d63c7abf07ff9dc4e169bf76d8ec5950c381b71965.html。本文件是供检索使用的校订转写，不替代纸质或PDF版本。"
-checked_on: 2026-10-12
+source: 人民出版社2009年《马克思恩格斯文集》第2卷本地PDF；正文转写参考 https://www.marxists.org/chinese/marx-engels2/02/09.htm
 ---
 
 # 路易·波拿巴的雾月十八日

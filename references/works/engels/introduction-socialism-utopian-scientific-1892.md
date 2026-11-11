@@ -7,9 +7,6 @@ dates:
   written: 1892年4月20日
 text_status: 已刊序言／导言
 source: https://www.marxists.org/chinese/marx-engels/22/037.htm
-source_file: originals/338a596fee1e8bc00b2dd74c4f48cb783bfef954509c29073e643175e831fd6a.md
-source_sha256: 338a596fee1e8bc00b2dd74c4f48cb783bfef954509c29073e643175e831fd6a
-checked_on: '2026-11-09'
 publisher: 人民出版社
 ---
 

@@ -7,9 +7,6 @@ dates:
   written: 未标明
 text_status: 现存未完成手稿，采用本版编排，非作者定稿
 source: https://www.marxists.org/chinese/marx-engels/20/006.htm
-source_file: originals/41f4147ff311785c0a7857d3c39a76650a10cd0c8bccdac76b1ffd7b8f84cc3b.md
-source_sha256: 41f4147ff311785c0a7857d3c39a76650a10cd0c8bccdac76b1ffd7b8f84cc3b
-checked_on: '2026-11-09'
 publisher: 人民出版社
 ---
 

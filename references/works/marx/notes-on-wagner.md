@@ -7,9 +7,6 @@ dates:
   written: 未标明
 text_status: 1879—1880年经济学评注手稿
 source: https://www.marxists.org/chinese/marx-engels/19/054.htm
-source_file: originals/5ec69e3bb8d23af10252e585360318a9cce7bd50afb6f19803c617e92873d3b4.md
-source_sha256: 5ec69e3bb8d23af10252e585360318a9cce7bd50afb6f19803c617e92873d3b4
-checked_on: '2026-11-09'
 publisher: 人民出版社
 ---
 
@@ -414,4 +411,3 @@ Quedlinburg　und　Leipzig，1838，S．634—635）。——第417页。
 
 - https://www.marxists.org/chinese/marx-engels/19/054.htm
 - 出处：《马克思恩格斯全集》中文第一版第19卷，人民出版社1963年；具体印次未核，第396—429页。
-- 书页仅对应全篇范围，未伪造逐段页码。

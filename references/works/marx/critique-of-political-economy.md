@@ -5,17 +5,13 @@ authors:
 edition: 《马克思恩格斯全集》中文第一版第13卷，人民出版社1962年版；中共中央马克思恩格斯列宁斯大林著作编译局编译（MIA中文电子文本，具体印次未标）
 dates:
   publication: '1962'
-text_status: source_and_conversion_reviewed
 source: https://www.marxists.org/chinese/marx-engels/13/001.htm
-source_file: originals/e7980b744bb1bdd96b40356e0b33a90f84e470b5480d98677e5714453ca0bc69.md
-source_sha256: e7980b744bb1bdd96b40356e0b33a90f84e470b5480d98677e5714453ca0bc69
-checked_on: '2026-11-09'
 publisher: 人民出版社
 ---
 
 # 政治经济学批判
 
-> 整理稿，尚未进入应用知识库。以同卷网页为正文基础，经过同卷电子文本交叉校对；仅采用下文列明的修正，不整篇覆盖另一电子本。版本信息据馆藏书目与卷内说明补齐，具体印次未标。此处不是纸本逐字校对认证。
+
 > 随文注保留原文和显式署名；未署名者不自动判为马克思原注。卷末编者注释及出版说明置于文后，不能直接当作作者立场。
 
 <!-- 原页：https://www.marxists.org/chinese/marx-engels/13/001.htm；目录所列书页：7—11；原文件：sources/625d0d9d2b4e640259b42e8d60901c83e12c841a7521349805d03f24f1caf817.html -->
@@ -1140,14 +1136,3 @@ G―W，买，是W―G的逆运动，同时又是商品的第二形态变化或�
 - [马恩全集第十三卷――第二章。3.货币](https://www.marxists.org/chinese/marx-engels/13/005.htm)：112起。
 - [马恩全集第十三卷――第二章。4．贵金属](https://www.marxists.org/chinese/marx-engels/13/006.htm)：143起。
 - [马恩全集第十三卷――第二章。C．关于流通手段和货币的学说](https://www.marxists.org/chinese/marx-engels/13/007.htm)：148起。
-
-## 本次校对说明
-
-编译者：中共中央马克思恩格斯列宁斯大林著作编译局。对照PDF为S22PDF电子重排版，自身也存在错字；未采用其全部差异。原始网页和PDF均保留，以下改动仅作用于整理稿。
-
-出版信息依据：[陕西师范大学文学院馆藏目录](https://lit.snnu.edu.cn/info/1041/1358.htm)第13卷记录，以及同卷编译说明。
-
-- 将西尼耳、施托尔希引文段移回原所属随文注，恢复书123页显示的注释范围；补全网页注释包装的右括号。
-- 银价表数值及‘辨士’保留，按书147页核对；补全表末网页注释包装的右括号，不把补号冒称纸本原字。
-
-完整证据、检查范围和未解疑点见 校对记录（维护记录，不随Skill提供）。具体印次、剩余异文及部分源文标点尚未有独立纸本证据，不作无依据替换。

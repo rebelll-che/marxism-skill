@@ -5,17 +5,13 @@ authors:
 edition: 《马克思恩格斯全集》中文第1版第37卷；MIA电子文字版，具体印次未核
 dates:
   written: 未标明
-text_status: source_and_conversion_reviewed
 source: https://www.marxists.org/chinese/marx-engels/37/208.htm
-source_file: originals/5b666a0ae067c3e27f8ff1253396363aac782e45a99bf825ff0f03e6000192ca.md
-source_sha256: 5b666a0ae067c3e27f8ff1253396363aac782e45a99bf825ff0f03e6000192ca
-checked_on: '2026-11-09'
 publisher: 人民出版社
 ---
 
 # 恩格斯致康拉德·施米特（1890年8月5日）
 
-> 收录范围：全集所载完整书信，包括开头工作安排、理论讨论、署名和寄信地址附言；不采用文集的理论节选冒充原信全文。
+> 收录范围：全集所载完整书信，包括开头工作安排、理论讨论、署名和寄信地址附言。
 
 <!-- source-page: https://www.marxists.org/chinese/marx-engels/37/208.htm; section: 正文与原出版说明 -->
 #### 208.

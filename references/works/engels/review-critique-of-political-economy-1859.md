@@ -5,11 +5,8 @@ authors:
 edition: 《马克思恩格斯文集》第2卷，人民出版社2009年；MIA中文电子文字版
 dates:
   written: 未标明
-text_status: 1859年8月书评的两篇现存正文及出版说明；原文预告第三篇，依本版所载范围，不伪补。
+text_status: 1859年8月书评的两篇现存正文及出版说明；原文预告第三篇，依本版所载范围。
 source: https://www.marxists.org/chinese/marx-engels2/02/13.htm
-source_file: originals/dd04c406d35a429b13aa2d2592657fd5a25c3022e09e4f0daf390ff11f677025.md
-source_sha256: dd04c406d35a429b13aa2d2592657fd5a25c3022e09e4f0daf390ff11f677025
-checked_on: '2026-11-09'
 publisher: 人民出版社
 ---
 

@@ -2,21 +2,17 @@
 title: 同《世界报》记者谈话的记录
 authors:
 - 卡尔·马克思
-edition: 《马克思恩格斯文集》第3卷，人民出版社2009年12月第1版第1次印刷；MIA文字页，对照已存扫描。
+edition: 《马克思恩格斯文集》第3卷，人民出版社2009年12月第1版第1次印刷；MIA文字页。
 dates:
   written: 未标明
-text_status: source_and_conversion_reviewed
 source: https://www.marxists.org/chinese/marx-engels2/03/27.htm
-source_file: originals/155aa0f73720840bfd05e4099e0a0be4a84acdd9cb3b9e3341e21f8e30ed9907.md
-source_sha256: 155aa0f73720840bfd05e4099e0a0be4a84acdd9cb3b9e3341e21f8e30ed9907
-checked_on: '2026-11-09'
 ---
 
 # 同《世界报》记者谈话的记录
 
-> 整理候选，尚未进入应用语料；当前检查结论见收集清单。
+
 > 范围与归属：采用2009文集据《世界报》的采访记录，比旧页据有删节转载本的文本更完整；兰多尔承认追记，不能当作马克思亲自审定逐字对话。编者指出巴塞罗那罢工记录不准确，原话与纠正注均保留。
-> 编者注、引文和联署名单保留原位置；他人说法不全部归为作者本人意见。
+> 编者注、引文和联署名单保留原有位置与署名。
 
 ## 正文与出版说明
 
@@ -214,5 +210,5 @@ checked_on: '2026-11-09'
 
 - 原卷对应篇：https://www.marxists.org/chinese/marx-engels/17/080.htm
 - 原字节：sources/51b69699ea7d108a573600c44ff7de8b74868c7189f972c0caab1b72dc96aff2.html；SHA-256：51b69699ea7d108a573600c44ff7de8b74868c7189f972c0caab1b72dc96aff2。
-- 采用完整存世/本版所刊范围，不保证逐字零错。源文疑字无证据不改，原注对其他卷页的交叉引用保留。
+
 - 原卷目录页码：681—686。

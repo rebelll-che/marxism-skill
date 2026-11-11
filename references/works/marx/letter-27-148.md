@@ -5,18 +5,14 @@ authors:
 edition: 《马克思恩格斯文集》第10卷，人民出版社2009年12月第1版第1次印刷，ISBN 978-7-01-007696-6。
 dates:
   written: 未标明
-text_status: source_and_conversion_reviewed
 source: https://www.marxists.org/chinese/marx-engels2/10/004.htm
-source_file: originals/783f1691bcdd84d5cd0b99faa50b6f6e91b6cfa44a0490d0c4c75bd872414c67.md
-source_sha256: 783f1691bcdd84d5cd0b99faa50b6f6e91b6cfa44a0490d0c4c75bd872414c67
-checked_on: '2026-11-09'
 ---
 
 # 马克思致路德维希·费尔巴哈（1843年10月3日）
 
-> 整理候选，尚未进入应用知识库；当前检查结论见收集清单。
-> 选版：逐段比较旧版正文及又及，所载范围完整，优先采用2009年修订译文；不以相似度代替范围判断。
-> 原版附笔、编辑或译者注依其标识保留，不全部归为马克思正文。
+
+
+
 
 ## 书信正文
 
